@@ -1,0 +1,16 @@
+Title: [PDF content from https://billtracking.legvi.org:8082/preview/Act%2F8985 - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Official Title: [PDF content from https://billtracking.legvi.org:8082/preview/Act%2F8985 - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Number of Sections: 1
+Source: versions - Act 8985
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+[PDF content from https://billtracking.legvi.org:8082/preview/Act%2F8985 - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+
+
+================================================================================
+
+Raw Text:
+[PDF content from https://billtracking.legvi.org:8082/preview/Act%2F8985 - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]

@@ -1,0 +1,432 @@
+Title: 07/07/2025-AMENDED AND REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Official Title: 07/07/2025-AMENDED AND REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Number of Sections: 1
+Source: versions - Bill 36-0003
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON HEALTH, HOSPITALS AND
+HUMAN SERVICES
+BILL NO. 36-0003
+Thirty-Sixth Legislature of the Virgin Islands
+February 27, 2025
+An act amending title 19 Virgin Islands Code relating to nursing homes and assisted living
+facilities by adding a new chapter 76 to establish the services that nursing homes and assisted
+living facilities are required to provide; establishing limitations on financial charges,
+requirements for visitation, and the rights of a resident
+PROPOSED BY: Senators Angel L. Bolques, Jr. and Marvin A. Blyden
+Co-sponsor: Ray Fonseca
+1 WHEREAS the seniors in the Virgin Islands have a right to a dignified existence with
+2 access to the necessary facilities for their care; and
+3 WHEREAS, without adequate senior assisted living facilities in the Virgin Islands,
+4 seniors will not receive necessary care and treatment in the territory; and
+5 WHEREAS, the Virgin Islands must develop the necessary policies to ensure that
+6 seniors receive adequate care and support; Now, Therefore,
+7 Be it enacted by the Legislature of the Virgin Islands:
+8 SECTION 1. Title 19 Virgin Islands Code is amended by adding the following Part IX:
+9 “Part IX. Nursing homes and related health care facilities
+10 Chapter 76. Nursing homes and assisted living facilities
+11 § 4120. Definitions.
+2
+1 As used in this chapter, unless it is otherwise provided or the context requires a different
+2 construction, application, or meaning—
+3 (a) “Assisted Living Facility” means a facility providing residential
+4 accommodations for the elderly and the disabled who require assistance with activities
+5 of daily living as provided for in section 4121 (a)(2).
+6 (b) “Facility” means either a nursing home or assisted living facility.
+7 (c) “Nursing Home” means a facility providing residential accommodations and
+8 a high level of long-term continuous healthcare treatment for the elderly and the disabled.
+9 (d) “Resident” means a person who is at least 60 years of age or older, or a person
+10 with a disability, who permanently resides at either a nursing home or assisted living
+11 facility.
+12 § 4121. Services to be provided by a facility
+13 (a) (1) A facility must provide the necessary care and services, based on a
+14 comprehensive assessment of a resident and consistent with the resident's needs and choices,
+15 to ensure that a resident's abilities in activities of daily living do not diminish unless
+16 circumstances of the individual's clinical condition demonstrate that such diminution was
+17 unavoidable. This includes a facility ensuring that:
+18 (A) a resident is given the appropriate treatment and services to maintain or
+19 improve their ability to carry out the activities of daily living.
+20 (B) the necessary services to maintain good nutrition, grooming, and personal
+21 and oral hygiene are given to a resident who is unable to carry out activities of daily
+22 living,
+23 (2) A facility must provide care and services in accordance with paragraph (1) for the
+24 following activities of daily living:
+3
+1 (A) Hygiene—bathing, dressing, grooming, and oral care;
+2 (B) Mobility—transfer and ambulation, including walking;
+3 (C) Elimination—toileting;
+4 (D) Dining—eating, including meals and snacks;
+5 (E) Communication, including;
+6 (i) Speech;
+7 (ii) Language; and
+8 (iii) Other functional communication systems.
+9 (b) A facility must provide basic life support, including CPR, to a resident requiring
+10 such emergency care prior to the arrival of emergency medical personnel and subject to related
+11 physician orders and the resident's advance directives.
+12 (c) A facility must provide an ongoing program to support residents in their choice of
+13 activities, both facility-sponsored group and individual activities and independent activities,
+14 designed to meet the interests of and support the physical, mental, and psychosocial well-being
+15 of each resident, encouraging both independence and interaction in the community.
+16 § 4122. Facility charges and limitations
+17 (a) A facility may not exclude a resident based solely on the resident’s income.
+18 (b) A facility may not impose a charge against the personal funds of a resident for any
+19 item or service for which payment is made under Medicaid or Medicare.
+20 (c) A facility may not condition admission on prepayment or other financial guarantees
+21 for services covered under Medicaid or other public assistance programs.
+22 (d) A facility may not charge a resident, during a covered Medicare or Medicaid stay,
+23 for the following categories of items and services:
+24 (1) Nursing services;
+25 (2) Food and Nutrition services;
+4
+1 (3) An activities program;
+2 (4) Room/bed maintenance services;
+3 (5) Routine personal hygiene items and services including: hair hygiene
+4 supplies; comb; brush; bath soap; disinfecting soaps or specialized cleansing agents when
+5 indicated to treat special skin problems or to fight infection; razor; shaving cream;
+6 toothbrush; toothpaste; denture adhesive; denture cleaner; dental floss; moisturizing
+7 lotion; tissues; cotton balls; cotton swabs; deodorant; incontinence care and supplies;
+8 sanitary napkins and related supplies; towels; washcloths; hospital gowns; over the
+9 counter drugs; hair and nail hygiene services; bathing assistance; and basic personal
+10 laundry;
+11 (6) Medically-related social services; and
+12 (7) Hospice services elected by the resident and paid for under the Medicare
+13 Hospice Benefit or paid for by Medicaid.
+14 (e) A facility may charge residents for the following items and services if payment is
+15 not made by Medicare or Medicaid:
+16 (1) Telephone, including a cellular phone;
+17 (2) Television/radio, personal computer or other electronic device for personal
+18 use;
+19 (3) Personal comfort items, including smoking materials, notions and novelties,
+20 and confections;
+21 (4) Cosmetic and grooming items and services in excess of those for which
+22 payment is made under Medicaid or Medicare;
+23 (5) Personal clothing;
+24 (6) Personal reading material;
+5
+1 (7) Gifts purchased on behalf of a resident; and
+2 (8) Cost to participate in social events and entertainment outside the scope of the
+3 activities program.
+4 (f) A facility must not charge for special foods and meals, including medically
+5 prescribed dietary supplements, ordered by the resident's physician, physician assistant, nurse
+6 practitioner, or clinical nurse specialist.
+7 (g) A facility must inform, orally and in writing, a resident requesting an item or
+8 service for which there is a charge, that there will be a charge for the item or service and the
+9 amount of the charge.
+10 (h) For any item or service listed in subsection (d) that is not reimbursable under
+11 Medicaid or Medicare, the facility shall:
+12 (1) notify the resident or the resident’s representative, in writing, that the item or
+13 service is not covered;
+14 (2) provide the resident with an itemized list of the non-covered items or
+15 services, including the cost and the reason for non-coverage;
+16 (3) offer the resident a choice to opt in or out of receiving the noncovered item
+17 or service without coercion or penalty; and
+18 (4) ensure that the resident is not billed or financially burdened for noncovered
+19 services without prior written consent.
+20 (i) A facility shall:
+21 (1) inform prospective residents and their representatives, in writing, of all
+22 federal and territorial financial assistance programs available to help cover the cost of
+23 care, including Medicaid, Medicare, and any applicable local subsidies or grant programs
+24 administered by the Virgin Islands Department of Human Services;
+6
+1 (2) assist eligible residents in applying to the financial assistance programs as a
+2 condition of admission or continued stay when requested by the resident or their
+3 representative; and
+4 (3) maintain a publicly accessible policy detailing the facility’s procedures for
+5 admitting residents with limited financial means and submit the policy annually to the
+6 Virgin Islands Department of Human Services for review.
+7 (j) The Virgin Islands Department of Human Services shall develop and maintain a
+8 current reference guide identifying items and services commonly reimbursable under Medicaid
+9 and Medicare to aid facilities in compliance and transparency.
+10 § 4123. Facility requirements for visitation
+11 (a) A facility must meet the following requirements regarding visitors of residents:
+12 (1) Inform each resident, or resident’s representative as the case may be, of the
+13 resident’s visitation rights and the facility’s policies and procedures including any
+14 clinical or safety restriction or limitation on such rights which are consistent with the
+15 requirements of this section; the reasons for the restriction or limitation; and to whom the
+16 restrictions apply.
+17 (2) Inform each resident of the right, subject to the resident’s consent which
+18 consent may be withdrawn at any time by the resident, to receive the visitors whom the
+19 resident designates including a spouse; a domestic partner; a family member; or a friend;
+20 and
+21 (3) Ensure that all visitors enjoy full and equal visitation privileges consistent
+22 with resident’s preferences.
+23 § 4124. Rights of a Resident; responsibilities of a facility
+24 (a) A resident has the right to organize and participate in resident groups in the facility.
+7
+1 (b) A facility must provide a resident or family group with private space and must take
+2 reasonable steps to make residents and family members aware of upcoming meetings in a
+3 timely manner.
+4 (c) A resident has the right to participate in other activities including social, religious,
+5 and community activities that do not interfere with the rights of other residents in the facility.
+6 (d) Each resident must receive, and the facility must provide, the necessary care and
+7 services to attain or maintain the highest practicable physical, mental, and psychosocial well-
+8 being, consistent with the resident's comprehensive assessment and plan of care.
+9 (e) A resident has a right to manage his or her financial affairs. This includes the right
+10 to know, in advance, what charges a facility may impose against a resident's personal funds.
+11 (f) In the case of a resident who has not been adjudged incompetent by a court of
+12 competent jurisdiction, the resident has the right to designate a representative.
+13 (1) A designation of a representative must be made in writing and supported by
+14 valid legal documentation, including a notarized Power of Attorney, a court order of
+15 guardianship, or a legally recognized healthcare proxy.
+16 (2) The resident’s representative has the right to exercise the resident's rights to
+17 the extent those rights are delegated to the resident’s representative.
+18 (3) The resident retains the right to exercise rights not delegated to a resident’s
+19 representative, including the right to revoke a delegation of rights.
+20 (4) The facility must treat the decisions of a resident’s representative as the
+21 decisions of the resident to the extent required by the court or delegated by the resident,
+22 in accordance with applicable law.
+23 (g) Every resident has the right to exercise his or her rights as a resident of a facility.
+8
+1 (h) A resident has the right to be free of interference, coercion, discrimination, and
+2 reprisal from a facility in exercising his or her rights and to be supported by a facility in the
+3 exercise of those rights as required under this section.
+4 (i) A facility must ensure that residents can exercise their rights without interference,
+5 coercion, discrimination, or reprisal from the facility.”
+6 SECTION 2. (a) Section 1, internal section 4121 of this act becomes effective 12 months
+7 after the effective date of this act.
+8 (b) Within 90 days of the effective date of this act, a facility must submit a written
+9 compliance plan to the Virgin Islands Department of Human Services (“Department”),
+10 outlining steps and timelines for meeting each service requirement in section 1, internal section
+11 4121.
+12 (c) The Department shall provide technical assistance and monitoring to support
+13 facilities in achieving compliance with section 1, internal section 4121 by the effective date in
+14 subsection (a).
+15 (d) Any facility that fails to comply with the effective date in subsection (a) shall be
+16 subject to penalties as prescribed by regulations promulgated by the Department.
+17 BILL SUMMARY
+18 This bill amends title 19 Virgin Islands Code by establishing the services that nursing
+19 homes and assisted living facilities are required to provide, limitations on financial charges,
+20 requirements for visitation, and the rights of a resident.
+21 BR25-0018/February 21, 2025/GC
+22 ..\..\..\..\AMENDS\36th Legislature\BOLQUES, JR., ANGEL L\Amendment 36-406\36-
+23 406- DRAFTED ON YELLOW.docx
+[DELETED:  3 f a r t p e l o f c w a s a l f i t V I t V I m d t n p t e t]
+[DELETED: )“ L F m a f p r)“)“)“)( A f m p t n c a s b o a e t a r a i a o d l d n d u o t i c c d t s d w)a)t)A]
+[DELETED:  H M)E)D)C)S)L)O)A)A)A)A)A)A)N)F]
+[DELETED: )A)R)R p h i a s i h h t t s s p o t f i r s c t d a d c d f m n a r s t w h g o t)M)H)A)T)T)P)C a g i a s i e o f w)P)P]
+[DELETED: )G)C)A f m n c f s f a m i m)A o a r F n p t r w a i l o t n i o o e)A)i p r a t r i w o a]
+[DELETED: )a o a o c s w r b t r o t)m T)A I v r a t f p a p i a I E)A]
+[DELETED:  A A E A I A T T T f m t t d o a r r a t E]
+[DELETED: )A)A W p t t V I D o H S ( T D s p t a a m t s A]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON HEALTH, HOSPITALS AND
+HUMAN SERVICES
+07/07/2025-AMENDED AND REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+BILL NO. 36-0003
+Thirty-Sixth Legislature of the Virgin Islands
+February 27, 2025
+An act amending title 19 Virgin Islands Code relating to nursing homes and assisted living
+facilities by adding a new chapter 76 to establish the services that nursing homes and assisted
+living facilities are required to provide; establishing limitations on financial charges,
+requirements for visitation, and the rights of a resident
+PROPOSED BY: Senators Angel L. Bolques, Jr. and Marvin A. Blyden
+Co-sponsor: Ray Fonseca
+1 WHEREAS the seniors in the Virgin Islands have a right to a dignified existence with
+2 access to the necessary facilities for their care; and
+3 WHEREAS, without adequate senior assisted living facilities in the Virgin Islands,
+4 seniors will not receive necessary care and treatment in the territory; and
+5 WHEREAS, the Virgin Islands must develop the necessary policies to ensure that
+6 seniors receive adequate care and support; Now, Therefore,
+7 Be it enacted by the Legislature of the Virgin Islands:
+8 SECTION 1. Title 19 Virgin Islands Code is amended by adding the following Part IX:
+9 “Part IX. Nursing homes and related health care facilities
+10 Chapter 76. Nursing homes and assisted living facilities
+11 § 4120. Definitions.
+
+2
+1 As used in this chapter, unless it is otherwise provided or the context requires a different
+2 construction, application, or meaning—
+3 (a) “Assisted Living Facility” means a facility providing residential
+4 accommodations for the elderly and the disabled who require assistance with activities
+5 of daily living as provided for in section 4121 (a)(2).
+6 (b) “Facility” means either a nursing home or assisted living facility.
+7 (c) “Nursing Home” means a facility providing residential accommodations and
+8 a high level of long-term continuous healthcare treatment for the elderly and the disabled.
+9 (d) “Resident” means a person who is at least 60 years of age or older, or a person
+10 with a disability, who permanently resides at either a nursing home or assisted living
+11 facility.
+12 § 4121. Services to be provided by a facility
+13 (a) (1) A facility must provide the necessary care and services, based on a
+14 comprehensive assessment of a resident and consistent with the resident's needs and choices,
+15 to ensure that a resident's abilities in activities of daily living do not diminish unless
+16 circumstances of the individual's clinical condition demonstrate that such diminution was
+17 unavoidable. This includes a facility ensuring that:
+18 (A) a resident is given the appropriate treatment and services to maintain or
+19 improve their ability to carry out the activities of daily living.
+20 (B) the necessary services to maintain good nutrition, grooming, and personal
+21 and oral hygiene are given to a resident who is unable to carry out activities of daily
+22 living,
+23 (2) A facility must provide care and services in accordance with paragraph (1) for the
+24 following activities of daily living:
+
+3
+1 (A) Hygiene—bathing, dressing, grooming, and oral care;
+2 (B) Mobility—transfer and ambulation, including walking;
+3 (C) Elimination—toileting;
+4 (D) Dining—eating, including meals and snacks;
+5 (E) Communication, including;
+6 (i) Speech;
+7 (ii) Language; and
+8 (iii) Other functional communication systems.
+9 (b) A facility must provide basic life support, including CPR, to a resident requiring
+10 such emergency care prior to the arrival of emergency medical personnel and subject to related
+11 physician orders and the resident's advance directives.
+12 (c) A facility must provide an ongoing program to support residents in their choice of
+13 activities, both facility-sponsored group and individual activities and independent activities,
+14 designed to meet the interests of and support the physical, mental, and psychosocial well-being
+15 of each resident, encouraging both independence and interaction in the community.
+16 § 4122. Facility charges and limitations
+17 (a) A facility may not exclude a resident based solely on the resident’s income.
+18 (b) A facility may not impose a charge against the personal funds of a resident for any
+19 item or service for which payment is made under Medicaid or Medicare.
+20 (c) A facility may not condition admission on prepayment or other financial guarantees
+21 for services covered under Medicaid or other public assistance programs.
+22 (d) A facility may not charge a resident, during a covered Medicare or Medicaid stay,
+23 for the following categories of items and services:
+24 (1) Nursing services;
+25 (2) Food and Nutrition services;
+
+4
+1 (3) An activities program;
+2 (4) Room/bed maintenance services;
+3 (5) Routine personal hygiene items and services including: hair hygiene
+4 supplies; comb; brush; bath soap; disinfecting soaps or specialized cleansing agents when
+5 indicated to treat special skin problems or to fight infection; razor; shaving cream;
+6 toothbrush; toothpaste; denture adhesive; denture cleaner; dental floss; moisturizing
+7 lotion; tissues; cotton balls; cotton swabs; deodorant; incontinence care and supplies;
+8 sanitary napkins and related supplies; towels; washcloths; hospital gowns; over the
+9 counter drugs; hair and nail hygiene services; bathing assistance; and basic personal
+10 laundry;
+11 (6) Medically-related social services; and
+12 (7) Hospice services elected by the resident and paid for under the Medicare
+13 Hospice Benefit or paid for by Medicaid.
+14 (e) A facility may charge residents for the following items and services if payment is
+15 not made by Medicare or Medicaid:
+16 (1) Telephone, including a cellular phone;
+17 (2) Television/radio, personal computer or other electronic device for personal
+18 use;
+19 (3) Personal comfort items, including smoking materials, notions and novelties,
+20 and confections;
+21 (4) Cosmetic and grooming items and services in excess of those for which
+22 payment is made under Medicaid or Medicare;
+23 (5) Personal clothing;
+24 (6) Personal reading material;
+
+5
+1 (7) Gifts purchased on behalf of a resident; and
+2 (8) Cost to participate in social events and entertainment outside the scope of the
+3 activities program.
+4 (f) A facility must not charge for special foods and meals, including medically
+5 prescribed dietary supplements, ordered by the resident's physician, physician assistant, nurse
+6 practitioner, or clinical nurse specialist.
+7 (g) A facility must inform, orally and in writing, a resident requesting an item or
+8 service for which there is a charge, that there will be a charge for the item or service and the
+9 amount of the charge.
+10 (h) For any item or service listed in subsection (d) that is not reimbursable under
+11 Medicaid or Medicare, the facility shall:
+12 (1) notify the resident or the resident’s representative, in writing, that the item or
+13 service is not covered;
+14 (2) provide the resident with an itemized list of the non-covered items or
+15 services, including the cost and the reason for non-coverage;
+16 (3) offer the resident a choice to opt in or out of receiving the noncovered item
+17 or service without coercion or penalty; and
+18 (4) ensure that the resident is not billed or financially burdened for noncovered
+19 services without prior written consent.
+20 (i) A facility shall:
+21 (1) inform prospective residents and their representatives, in writing, of all
+22 federal and territorial financial assistance programs available to help cover the cost of
+23 care, including Medicaid, Medicare, and any applicable local subsidies or grant programs
+24 administered by the Virgin Islands Department of Human Services;
+
+6
+1 (2) assist eligible residents in applying to the financial assistance programs as a
+2 condition of admission or continued stay when requested by the resident or their
+3 representative; and
+4 (3) maintain a publicly accessible policy detailing the facility’s procedures for
+5 admitting residents with limited financial means and submit the policy annually to the
+6 Virgin Islands Department of Human Services for review.
+7 (j) The Virgin Islands Department of Human Services shall develop and maintain a
+8 current reference guide identifying items and services commonly reimbursable under Medicaid
+9 and Medicare to aid facilities in compliance and transparency.
+10 § 4123. Facility requirements for visitation
+11 (a) A facility must meet the following requirements regarding visitors of residents:
+12 (1) Inform each resident, or resident’s representative as the case may be, of the
+13 resident’s visitation rights and the facility’s policies and procedures including any
+14 clinical or safety restriction or limitation on such rights which are consistent with the
+15 requirements of this section; the reasons for the restriction or limitation; and to whom the
+16 restrictions apply.
+17 (2) Inform each resident of the right, subject to the resident’s consent which
+18 consent may be withdrawn at any time by the resident, to receive the visitors whom the
+19 resident designates including a spouse; a domestic partner; a family member; or a friend;
+20 and
+21 (3) Ensure that all visitors enjoy full and equal visitation privileges consistent
+22 with resident’s preferences.
+23 § 4124. Rights of a Resident; responsibilities of a facility
+24 (a) A resident has the right to organize and participate in resident groups in the facility.
+
+7
+1 (b) A facility must provide a resident or family group with private space and must take
+2 reasonable steps to make residents and family members aware of upcoming meetings in a
+3 timely manner.
+4 (c) A resident has the right to participate in other activities including social, religious,
+5 and community activities that do not interfere with the rights of other residents in the facility.
+6 (d) Each resident must receive, and the facility must provide, the necessary care and
+7 services to attain or maintain the highest practicable physical, mental, and psychosocial well-
+8 being, consistent with the resident's comprehensive assessment and plan of care.
+9 (e) A resident has a right to manage his or her financial affairs. This includes the right
+10 to know, in advance, what charges a facility may impose against a resident's personal funds.
+11 (f) In the case of a resident who has not been adjudged incompetent by a court of
+12 competent jurisdiction, the resident has the right to designate a representative.
+13 (1) A designation of a representative must be made in writing and supported by
+14 valid legal documentation, including a notarized Power of Attorney, a court order of
+15 guardianship, or a legally recognized healthcare proxy.
+16 (2) The resident’s representative has the right to exercise the resident's rights to
+17 the extent those rights are delegated to the resident’s representative.
+18 (3) The resident retains the right to exercise rights not delegated to a resident’s
+19 representative, including the right to revoke a delegation of rights.
+20 (4) The facility must treat the decisions of a resident’s representative as the
+21 decisions of the resident to the extent required by the court or delegated by the resident,
+22 in accordance with applicable law.
+23 (g) Every resident has the right to exercise his or her rights as a resident of a facility.
+
+8
+1 (h) A resident has the right to be free of interference, coercion, discrimination, and
+2 reprisal from a facility in exercising his or her rights and to be supported by a facility in the
+3 exercise of those rights as required under this section.
+4 (i) A facility must ensure that residents can exercise their rights without interference,
+5 coercion, discrimination, or reprisal from the facility.”
+6 SECTION 2. (a) Section 1, internal section 4121 of this act becomes effective 12 months
+7 after the effective date of this act.
+8 (b) Within 90 days of the effective date of this act, a facility must submit a written
+9 compliance plan to the Virgin Islands Department of Human Services (“Department”),
+10 outlining steps and timelines for meeting each service requirement in section 1, internal section
+11 4121.
+12 (c) The Department shall provide technical assistance and monitoring to support
+13 facilities in achieving compliance with section 1, internal section 4121 by the effective date in
+14 subsection (a).
+15 (d) Any facility that fails to comply with the effective date in subsection (a) shall be
+16 subject to penalties as prescribed by regulations promulgated by the Department.
+17 BILL SUMMARY
+18 This bill amends title 19 Virgin Islands Code by establishing the services that nursing
+19 homes and assisted living facilities are required to provide, limitations on financial charges,
+20 requirements for visitation, and the rights of a resident.
+21 BR25-0018/February 21, 2025/GC
+22 ..\..\..\..\AMENDS\36th Legislature\BOLQUES, JR., ANGEL L\Amendment 36-406\36-
+23 406- DRAFTED ON YELLOW.docx
+
+[DELETED:  3 f a r t p e l o f c w a s a l f i t V I t V I m d t n p t e t]
+[DELETED: )“ L F m a f p r)“)“)“)( A f m p t n c a s b o a e t a r a i a o d l d n d u o t i c c d t s d w)a)t)A]
+[DELETED:  H M)E)D)C)S)L)O)A)A)A)A)A)A)N)F]
+[DELETED: )A)R)R p h i a s i h h t t s s p o t f i r s c t d a d c d f m n a r s t w h g o t)M)H)A)T)T)P)C a g i a s i e o f w)P)P]
+[DELETED: )G)C)A f m n c f s f a m i m)A o a r F n p t r w a i l o t n i o o e)A)i p r a t r i w o a]
+[DELETED: )a o a o c s w r b t r o t)m T)A I v r a t f p a p i a I E)A]
+[DELETED:  A A E A I A T T T f m t t d o a r r a t E]
+[DELETED: )A)A W p t t V I D o H S ( T D s p t a a m t s A]

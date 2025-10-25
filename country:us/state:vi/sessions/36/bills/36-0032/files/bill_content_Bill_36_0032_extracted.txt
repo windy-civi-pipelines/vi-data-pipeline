@@ -1,0 +1,82 @@
+Title: 05/23/2025-REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Official Title: 05/23/2025-REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Number of Sections: 1
+Source: versions - Bill 36-0032
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON BUDGET, APPROPRIATIONS AND FINANCE
+06/25/2025-REPORTED OUT TO THE FLOOR
+BILL NO. 36-0032
+Thirty-Sixth Legislature of the Virgin Islands
+February 27, 2025
+An Act amending title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 by limiting
+the salary amount used to compute the service retirement annuity for the Governor and the
+Lieutenant Governor of the Virgin Islands
+PROPOSED BY: Senators Kurt A. Vialet and Ray Fonseca
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 is
+3 amended in the following instances:
+4 (a) In subsection (f):
+5 (1) insert “and subject to the limitations set forth in subsection (g)” after
+6 “Notwithstanding his age”;
+7 (2) strike “the” after “Lieutenant Governor’s” in paragraphs (a), (b), and (c); and
+8 (3) re-designate paragraphs (a), (b), and (c) as paragraphs (1), (2), and (3),
+9 respectively.
+10 (b) Add the following subsection (g):
+2
+1 “(g) The salary used to compute the annuity in subsection (f) must not exceed
+2 $150,000 per annum for the Governor and $125,000 per annum for the Lieutenant
+3 Governor.”
+4 BILL SUMMARY
+5 The bill amends title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 by
+6 limiting the salary used to compute the Governor and the Lieutenant Governor’s service
+7 retirement annuity. The salary used to compute the Governor’s annuity must not exceed
+8 $150,000 per annum and the salary used to compute the Lieutenant Governor’s salary must not
+9 exceed $125,000 per annum.
+10 BR25-0368/February 21, 2025/GC
+[DELETED:  3 S)I)i “ s t t l s f i s ( a) )r p ( ( a ( a p ( ( a ()A]
+[DELETED:  T p a f t G a $ p a f t L t s u t c t G a t L G s a  T s u t c t G a m n e]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON BUDGET, APPROPRIATIONS AND FINANCE
+06/25/2025-REPORTED OUT TO THE FLOOR
+05/23/2025-REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+BILL NO. 36-0032
+Thirty-Sixth Legislature of the Virgin Islands
+February 27, 2025
+An Act amending title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 by limiting
+the salary amount used to compute the service retirement annuity for the Governor and the
+Lieutenant Governor of the Virgin Islands
+PROPOSED BY: Senators Kurt A. Vialet and Ray Fonseca
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 is
+3 amended in the following instances:
+4 (a) In subsection (f):
+5 (1) insert “and subject to the limitations set forth in subsection (g)” after
+6 “Notwithstanding his age”;
+7 (2) strike “the” after “Lieutenant Governor’s” in paragraphs (a), (b), and (c); and
+8 (3) re-designate paragraphs (a), (b), and (c) as paragraphs (1), (2), and (3),
+9 respectively.
+10 (b) Add the following subsection (g):
+
+2
+1 “(g) The salary used to compute the annuity in subsection (f) must not exceed
+2 $150,000 per annum for the Governor and $125,000 per annum for the Lieutenant
+3 Governor.”
+4 BILL SUMMARY
+5 The bill amends title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 by
+6 limiting the salary used to compute the Governor and the Lieutenant Governor’s service
+7 retirement annuity. The salary used to compute the Governor’s annuity must not exceed
+8 $150,000 per annum and the salary used to compute the Lieutenant Governor’s salary must not
+9 exceed $125,000 per annum.
+10 BR25-0368/February 21, 2025/GC
+
+[DELETED:  3 S)I)i “ s t t l s f i s ( a) )r p ( ( a ( a p ( ( a ()A]
+[DELETED:  T p a f t G a $ p a f t L t s u t c t G a t L G s a  T s u t c t G a m n e]

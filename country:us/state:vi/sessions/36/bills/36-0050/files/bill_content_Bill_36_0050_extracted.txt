@@ -1,0 +1,662 @@
+Title: 05/27/2025-REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Official Title: 05/27/2025-REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Number of Sections: 1
+Source: versions - Bill 36-0050
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON HEALTH, HOSPITALS AND HUMAN SERVICES
+06/25/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+BILL NO. 36-0050
+Thirty-Sixth Legislature of the Virgin Islands
+March 28, 2025
+An Act repealing and reenacting with amendments title 27 Virgin Islands Code, chapter 20,
+relating to the regulation of the profession of social work and social workers
+PROPOSED BY: Senators Novelle E. Francis, Jr. and Marvin A. Blyden
+Co-sponsors: Ray Fonseca and Milton E. Potter
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 27 Virgin Islands Code, chapter 20 is repealed and reenacted with
+3 the following amendments:
+4 § 531. Definitions
+5 As used in this chapter:
+6 (a) “Board” means the Virgin Islands Board of Social Work Licensure.
+7 (b) “Practice of social work” means applying the formal knowledge base,
+8 theoretical concepts, specific functional skills, and essential social values that are used to
+9 effect change in human behavior, emotional responses, and social conditions, and it also
+10 entails helping individuals, couples, families, groups, and community organizations
+11 enhance or restore their capacities for personal and social functioning while preventing
+12 and controlling social problems. Social work practice is the professional application of
+13 social work values, principles, ethics, and techniques in the following areas:
+2
+1 (1) information, resource identification, referral services, mediation
+2 services, advocacy services, and education of individuals, groups, couples, and
+3 families;
+4 (2) preparation and evaluation of assessments and development and
+5 implementation of social work service plans;
+6 (3) case management, coordination, casework intervention, and
+7 monitoring of social work service plans in the areas of personal, social, or economic
+8 resources, conditions, or problems;
+9 (4) administration and development of social service programs, policies,
+10 community organization, planning, implementation, and involvement in the
+11 evaluation of social systems and social policies;
+12 (5) social work consultation and resource development;
+13 (6) research through the formal design and methodology of data collection
+14 and the analysis and evaluation of data, social work programs, social systems, and
+15 social policies;
+16 (7) psychosocial assessment, diagnostic impressions, treatment of
+17 individuals, couples, families, and groups, prevention of psychosocial dysfunction,
+18 disability, or impairment, including emotional, mental, and behavioral disorders,
+19 and evaluation of practice effectiveness; and
+20 (8) clinical diagnosis or psychotherapy, or both, provided by a licensed
+21 clinical social worker.
+22 § 532. Practice of social work
+23 (a) Unless otherwise exempted, no person may engage in the practice of social work
+24 unless the person is licensed under this chapter as a social work associate, licensed social
+25 worker, licensed master social worker, or licensed clinical social worker.
+3
+1 (b) The scope of the practice of social work is limited as follows:
+2 (1) A “social work associate” or “SWA” may perform duties set forth in
+3 paragraphs (1) to (3) of section 531(b) as an employee of a governmental agency,
+4 a health facility, an educational institution or other entity approved by the Board
+5 providing social services under the supervision of an individual who is licensed as
+6 a licensed master social worker or licensed clinical social worker.
+7 (2) A “licensed social worker” or “LSW” may perform duties set forth in
+8 paragraphs (1) to (4) of section 531(b) as an employee of a governmental agency,
+9 a health facility, an educational institution or other entity approved by the Board
+10 providing social services under the supervision of an individual who is licensed as
+11 a licensed master social worker or licensed clinical social worker or, as applicable,
+12 a person who retains the license of certified independent social worker in
+13 accordance with § 536(b).
+14 (3) A “licensed master social worker” or “LMSW” may perform duties set
+15 forth in paragraphs (1) to (7) of section 531(b). A licensed master social worker
+16 may not engage in clinical social work, except for the purpose of obtaining
+17 experience required to be a licensed clinical social worker, or as applicable, a
+18 person who retains the license of certified independent social worker in accordance
+19 with § 536(b).
+20 (4) A “licensed clinical social worker” or “LCSW” may perform duties set
+21 forth in paragraphs (1) to (8) of section 531(b).
+22 (c) No social work associate may practice except under the supervision of a licensed
+23 master social worker or licensed clinical social worker or, as applicable, a person who retains
+24 the license of certified independent social worker in accordance with § 536(b).
+4
+1 (d) No person may engage in the independent practice of social work unless licensed
+2 under this chapter as a licensed clinical social worker, or as applicable, a person who retains
+3 the license of certified independent social worker in accordance with § 536(b).
+4 (e) The practice of social work without a license is a misdemeanor punishable by a
+5 fine of not less than $100 but not more than $500.
+6 § 533. License by examination
+7 (a) Every applicant for a license under this chapter shall submit to the Board, in the
+8 form prescribed by the Board, evidence satisfactory to the Board that the applicant is of good
+9 moral character and meets the education, experience and training requirements.
+10 (b) In addition to the requirements in subsection (a), the Board shall issue a license as
+11 a “social work associate” to an applicant who:
+12 (1) has a baccalaureate degree in a non-social work field from a college or
+13 university approved by the Board; and
+14 (2) has passed the examination designated by the Board.
+15 (c) In addition to the requirements in subsection (a), the Board shall issue a license as
+16 a “social worker” to an applicant who:
+17 (1) has a baccalaureate degree in social work from a college or university
+18 approved by the Board or has a baccalaureate degree in a non-social work field or
+19 discipline, and not less than two years’ post-baccalaureate degree experience in a social
+20 work capacity; and
+21 (2) has passed the examination designated by the Board.
+22 (d) In addition to the requirements in subsection (a), the Board shall issue a license as
+23 a “licensed master social worker” to an applicant who:
+24 (1) has a doctorate or master's degree in social work from a college or university
+25 approved by the Board; and
+5
+1 (2) has passed the examination designated by the Board.
+2 (e) In addition to the requirements in subsection (a), the Board shall issue a license as
+3 a “licensed clinical social worker” to an applicant who:
+4 (1) has a doctorate or master’s degree in social work from a college or university
+5 approved by the Board or other individual approved by the Board; and
+6 (2) has had not less than two years of post-doctorate or post-master experience
+7 in the practice of social work under the direct clinical supervision of a licensed clinical
+8 social worker; and
+9 (3) has passed the examination designated by the Board.
+10 § 534. License by endorsement
+11 (a) The Board may issue a license without examination to an applicant who has
+12 satisfied to the Board that the applicant has passed an examination and is or has been licensed
+13 or registered under the laws of another state, territory, or political subdivision of the United
+14 States, whose standards, in the opinion of the Board, are the substantial equivalent of the
+15 requirements of section 533, and whose license has not been suspended or revoked by the
+16 licensing jurisdiction.
+17 (b) An applicant for licensure under this section is only eligible for licensure at the
+18 equivalent designation recognized in the jurisdiction in which the applicant for a license by
+19 endorsement is currently licensed.
+20 § 535. License requirement
+21 (a) Except as otherwise provided in this chapter, it is unlawful for an individual to
+22 engage, or otherwise attempt to engage, in the practice of social work unless licensed as a social
+23 work associate, licensed social worker, licensed master social worker, or licensed clinical social
+24 worker under the applicable provisions of this chapter. No persons licensed under this chapter
+25 may engage in the practice of social work beyond the scope of their license.
+6
+1 (b) No person may purport to be a social worker or qualified to engage in the practice
+2 of social work, by using the titles “social work associate”, “licensed social worker”, “licensed
+3 master social worker” or “licensed clinical social worker”, or use the letters “SW”, “SWA”,
+4 “BSW”, “LSW”, “MSW”, “LMSW”, or “LCSW” or use any or symbols indicating or tending
+5 to indicate that the person is a social worker, social work associate, licensed social worker,
+6 licensed master social worker, or licensed clinical social worker, or engage in the practice of
+7 social work as defined in this chapter or hold themselves out to the public by title or description
+8 of service as being engaged in the practice of social work without meeting the applicable
+9 requirements and holding a license as set forth in this chapter.
+10 (c) The Board shall reissue the appropriate redesignated license to a person licensed
+11 before the passage of this chapter as a “social worker”, “certified social worker” or “certified
+12 independent social worker”. Notwithstanding the foregoing, a license issued to “social
+13 worker”, “certified social worker” or “certified independent social worker” continues to be
+14 valid for the duration of the license or until the Board issues an appropriate redesignated
+15 license. A person licensed by the Board as a “social worker”, “certified social worker”, or
+16 “certified independent social worker” may continue to use the prior designated licensure titles
+17 for a period of two years or as otherwise provided by the Board. Except as specifically provided
+18 otherwise, licensure titles are redesignated as follows:
+19 (1) a “social worker” is redesignated as a “licensed social worker”;
+20 (2) a “certified social worker” is redesignated as a “licensed master social
+21 worker”; and
+22 (3) a “licensed independent social worker” is redesignated as a “licensed clinical
+23 social worker”.
+24 (d) A person who, after a hearing, the Board finds to have unlawfully engaged, or
+25 attempted to engage, in the practice of social work, or a person who knowingly assisted a person
+7
+1 to unlawfully engage in the practice of social work, is subject to a fine of not less than $100,
+2 but not more than $1,000 for each offense. Violations of this section are also subject to the
+3 penalties outlined in § 532(e), or other penalties permitted under this chapter, including §
+4 539(b).
+5 § 536. Exemption from requirement
+6 (a) Licensure under this chapter is not required of:
+7 (1) a person licensed in the Virgin Islands doing work within the scope of
+8 practice or duties of the person's profession and ethics of their respective professions that
+9 overlaps with the practice of social work; provided the person does not hold themselves
+10 out to the public by title or description of service as being engaged in the practice of
+11 social work;
+12 (2) a student enrolled in an accredited educational institution in a recognized
+13 program of study leading toward attainment of a degree in social work; provided, that the
+14 student’s activities and services are part of a prescribed course of study supervised by the
+15 educational institution and the student is identified by an appropriate title such as “social
+16 work student”, “social work intern”, or any other title which clearly indicates the
+17 student’s training status; or
+18 (3) a person who is a duly recognized member of the clergy; provided, that the
+19 person functions only within the person's capacities as a member of the clergy; and
+20 provided further that the person does not purport to be a social worker.
+21 (b) Notwithstanding the provision of 535(c)(3), a person licensed under the laws of the
+22 Virgin Islands as a certified independent social worker who does not engage in clinical practice
+23 shall maintain the license designation of certified independent social worker. A certified
+24 independent social worker is subject to all the provisions of this chapter.
+8
+1 (c) A person exempted under this section is not engaged in the unlawful practice of
+2 social work.
+3 § 537. Confidentiality
+4 (a) No social work associate, licensed social worker, licensed master social worker, or
+5 licensed clinical social worker shall disclose any information acquired from or provided by a
+6 client or from persons consulting with the social worker in a professional capacity except:
+7 (1) with the written consent of a client or persons consulting with the social
+8 worker in a professional capacity or their personal representative or, in the case of death
+9 or disability, the person’s personal representative, or other person authorized to sue on
+10 his behalf;
+11 (2) that a social work associate, licensed social worker, licensed master social
+12 worker, or licensed clinical social worker is not required to treat as confidential a
+13 communication that reveals the contemplation of a crime or of a harmful act;
+14 (3) when the person is a minor under the laws of the Virgin Islands and the
+15 information acquired by a licensed social work associate, social worker, licensed master
+16 social worker, or licensed clinical social worker indicates that the minor was the victim
+17 or subject of a crime, or when the social work associate, licensed social worker, licensed
+18 master social worker, or licensed clinical social worker may be required to testify fully
+19 in any examination, trial, or other proceeding in which the commission of a crime is the
+20 subject of inquiry;
+21 (4) when the person waives the right of confidentiality by bringing charges
+22 against the social work associate, licensed social worker, licensed master social worker,
+23 or licensed clinical social worker; or
+24 (5) pursuant to the order of a court of competent jurisdiction.
+9
+1 (b) A person having access to records or anyone who participates in providing social
+2 work services, or who, in providing any human services, is supervised by a licensed master
+3 social worker, licensed clinical social worker or other individual who may be providing direct
+4 clinical supervision as required under § 533(2)(2) is similarly bound to regard all information
+5 and communications as privileged in accordance with this section.
+6 (c) Violation of this section is a misdemeanor punishable by a fine of not less than
+7 $100.
+8 § 538. Bribery, fraud, misrepresentation and false statements
+9 The following are misdemeanors punishable by a fine of not less than $500, but not more
+10 than $1,000:
+11 (1) obtaining or attempting to obtain a license, certificate, or renewal thereof by
+12 bribery or fraudulent representation;
+13 (2) knowingly making a false statement in connection with or on an application;
+14 or
+15 (3) knowingly making a false statement on a form or in relation to a regulation
+16 promulgated by the Board.
+17 §539. Grounds for disciplinary proceedings
+18 (a) The Board may deny an application or, after a hearing, refuse to renew, suspend,
+19 revoke, censure, reprimand, restrict, or limit a license issued on proof that the person has
+20 engaged in unprofessional conduct within the five years preceding the filing of the complaint
+21 or the initiation of disciplinary action, including:
+22 (1) conviction of a felony;
+23 (2) conviction of a misdemeanor under this chapter;
+24 (3) conviction of fraud or deceit in connection with the practice of social work
+25 as defined in this chapter or in establishing qualifications under this chapter;
+10
+1 (4) aiding or abetting a person not licensed under this chapter who is falsely
+2 representing themselves as a social worker licensed under this chapter;
+3 (5) failing to be relicensed and continuing to represent themselves as licensed
+4 after the expiration of their license;
+5 (6) committing an act of gross negligence or condoning the act by an employee
+6 or supervisee in the practice of social work;
+7 (7) addiction to habit-forming drugs, which impairs the ability to perform their
+8 work; or
+9 (8) has knowingly violated a regulation of the Board.
+10 (b) In addition to disciplinary powers provided in subsection (a), the Board may, after
+11 a hearing, levy and collect administrative fines for violations of this chapter or a regulation of
+12 the Board of not less than $100 but not more than $1,000, for each violation. Each violation
+13 of this chapter or regulations of the Board pertaining to unlawfully engaging in the practice of
+14 social work constitutes a misdemeanor punishable by a fine of not less than $100, but not more
+15 than $1,000.
+16 § 540. Disciplinary proceedings
+17 (a) The Board shall conduct all hearings, which must be recorded by stenograph.
+18 Board decisions must be made by majority vote. The Board shall give not less than 20 days
+19 advance notice of a hearing, which notice must be served personally or by registered mail.
+20 (b) The respondent has the right to:
+21 (1) representation, either by counselor otherwise;
+22 (2) cross-examination of witnesses;
+23 (3) to call witnesses on the respondent’s behalf; and
+24 (4) to subpoena witnesses and documents.
+11
+1 (c) Judicial review of the refusal to allow an examination, to grant a license, or the
+2 review of a disciplinary hearing must be in accordance with Virgin Islands statutes regulating
+3 judicial review of administrative action.
+4 § 541. Renewal of licenses
+5 (a) All licenses are effective when issued by the Board.
+6 (b) A license issued under this chapter is valid for two years from the date of
+7 issuance and expires on the last day of the month of February.
+8 (c) A license may be renewed by the payment of the renewal fee and by the completion
+9 and submission—on a form provided by the Board—of a sworn statement by the applicant that
+10 the license has been neither revoked nor is currently suspended.
+11 (d) Failure of a licensee to renew the license biennially and before expiration as
+12 established under subsection (b), deprives the licensee of the right to practice until
+13 reinstatement of the license. The license may be reinstated at any time during the first 24
+14 months immediately following the date the license expired by payment of any penalty or
+15 reinstatement fees established by the Board, in addition to the established renewal fee. Failure
+16 of a licensee to be reinstated during the first 24 months immediately following the date the
+17 license expired requires the individual, before resuming practice in the Virgin Islands, to submit
+18 an application on the prescribed form, and to meet all other requirements for licensure. This
+19 subsection may not be construed to permit a person to engage in the practice of social work in
+20 the Virgin Islands without a valid and active license.
+21 (e) The Board shall adopt a program of continuing education to ensure that all licensees
+22 remain informed of those professional subjects that the Board considers appropriate to the
+23 practice of social work. The Board may by regulation describe the methods by which the
+24 requirements of the program must be satisfied. The licensee failure to meet the requirements
+25 of continuing education results in nonrenewal of a license.
+12
+1 (f) A person licensed under this chapter who is not engaged in the practice of social
+2 work or who does not live in the Virgin Islands may request, in writing, that the Board place
+3 that person’s license in inactive status.
+4 § 542. Fees
+5 The Board shall establish and published fees. The Board shall file an annual report of its
+6 activities with the Governor of the Virgin Islands and the report must include a statement of all
+7 receipts and disbursements.
+8 § 543. [Reserved for Future Use.]
+9 § 544. [Reserved for Future Use.]
+10 § 545. [Reserved for Future Use.]
+11 BILL SUMMARY
+12 This bill repeals and reenacts the provisions regulating the profession of social work and
+13 social workers. Specifically, the bill sets forth the scope of practice within the profession and
+14 the qualifications that must be met to be qualified in each practice area; it provides for the
+15 requirement for reciprocity of licensed social worker from another jurisdiction, providing the
+16 requirements that must met; it also provides the circumstance under which a license is not
+17 required to practice social work in the Virgin Islands; it list the circumstances that client
+18 confidential must be maintained; the grounds upon which disciplinary action will be taken
+19 against a social worker, and the nature and procedure for disciplinary action; it sets for the
+20 punishment for the commission of bribery, fraud, misrepresentation or provide false statements
+21 to the Virgin Islands Board of Social Work Licensure; it also sets for the procedure and
+22 requirements for license renewal; and finally, it gives the Board the authority to establish and
+23 publish fees and requires the Board to file an annual report of its activities to the Governor.
+24 BR25-0194A/March 18, 2025/SLR
+25 S:\AMENDS\36th Legislature\FRANCIS, JR., NOVELLE E\Amendment 36-
+26 407\Amendment No. 36-407 - (REVISED) DRAFTED ON YELLOW.docx
+[DELETED:  3 SC “ “ o s w m a t f k b h i c f g a c o]
+[DELETED: )i r i r s m)p a e o a a d a)c m c c i a)a o p i a i i t)s)r)p a d i t o)c U]
+[DELETED:  T A A p w r t l o c i s w i A n e i c s w e f t p o o r c a A N]
+[DELETED:  N T E I h a b d i a n w f f a c o h I h a b d i s w f a c o u b t B o h a b d i a n w f o h I h]
+[DELETED:  h I h h h T B m i a l w e t a a w h A E]
+[DELETED:  N T s w  N t f a l i t “ a a a “ s w i r a a “ m s a A]
+[DELETED:  § L)a p l i t V I d w w t s o)a s “ w i o a o t w c i t)a N m t l d o i s w  A c]
+[DELETED:  A N w t o l c s w i n r t t a c a w w t p w t r o c b b c p]
+[DELETED:  A V o k k T)c)c)c]
+[DELETED: )a)f)c)a)h I T B s c a h w m b r b s T r c t t]
+[DELETED:  J A A A F o a l t r t l b a b e a u s ( d t l o t r t p u i f t d t l e b p o p o T]
+[DELETED:  A t p s w i t V I i l t c t c t V I B o S W L i a s f t p a L J N E 3]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON HEALTH, HOSPITALS AND HUMAN SERVICES
+06/25/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+05/27/2025-REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+BILL NO. 36-0050
+Thirty-Sixth Legislature of the Virgin Islands
+March 28, 2025
+An Act repealing and reenacting with amendments title 27 Virgin Islands Code, chapter 20,
+relating to the regulation of the profession of social work and social workers
+PROPOSED BY: Senators Novelle E. Francis, Jr. and Marvin A. Blyden
+Co-sponsors: Ray Fonseca and Milton E. Potter
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 27 Virgin Islands Code, chapter 20 is repealed and reenacted with
+3 the following amendments:
+4 § 531. Definitions
+5 As used in this chapter:
+6 (a) “Board” means the Virgin Islands Board of Social Work Licensure.
+7 (b) “Practice of social work” means applying the formal knowledge base,
+8 theoretical concepts, specific functional skills, and essential social values that are used to
+9 effect change in human behavior, emotional responses, and social conditions, and it also
+10 entails helping individuals, couples, families, groups, and community organizations
+11 enhance or restore their capacities for personal and social functioning while preventing
+12 and controlling social problems. Social work practice is the professional application of
+13 social work values, principles, ethics, and techniques in the following areas:
+
+2
+1 (1) information, resource identification, referral services, mediation
+2 services, advocacy services, and education of individuals, groups, couples, and
+3 families;
+4 (2) preparation and evaluation of assessments and development and
+5 implementation of social work service plans;
+6 (3) case management, coordination, casework intervention, and
+7 monitoring of social work service plans in the areas of personal, social, or economic
+8 resources, conditions, or problems;
+9 (4) administration and development of social service programs, policies,
+10 community organization, planning, implementation, and involvement in the
+11 evaluation of social systems and social policies;
+12 (5) social work consultation and resource development;
+13 (6) research through the formal design and methodology of data collection
+14 and the analysis and evaluation of data, social work programs, social systems, and
+15 social policies;
+16 (7) psychosocial assessment, diagnostic impressions, treatment of
+17 individuals, couples, families, and groups, prevention of psychosocial dysfunction,
+18 disability, or impairment, including emotional, mental, and behavioral disorders,
+19 and evaluation of practice effectiveness; and
+20 (8) clinical diagnosis or psychotherapy, or both, provided by a licensed
+21 clinical social worker.
+22 § 532. Practice of social work
+23 (a) Unless otherwise exempted, no person may engage in the practice of social work
+24 unless the person is licensed under this chapter as a social work associate, licensed social
+25 worker, licensed master social worker, or licensed clinical social worker.
+
+3
+1 (b) The scope of the practice of social work is limited as follows:
+2 (1) A “social work associate” or “SWA” may perform duties set forth in
+3 paragraphs (1) to (3) of section 531(b) as an employee of a governmental agency,
+4 a health facility, an educational institution or other entity approved by the Board
+5 providing social services under the supervision of an individual who is licensed as
+6 a licensed master social worker or licensed clinical social worker.
+7 (2) A “licensed social worker” or “LSW” may perform duties set forth in
+8 paragraphs (1) to (4) of section 531(b) as an employee of a governmental agency,
+9 a health facility, an educational institution or other entity approved by the Board
+10 providing social services under the supervision of an individual who is licensed as
+11 a licensed master social worker or licensed clinical social worker or, as applicable,
+12 a person who retains the license of certified independent social worker in
+13 accordance with § 536(b).
+14 (3) A “licensed master social worker” or “LMSW” may perform duties set
+15 forth in paragraphs (1) to (7) of section 531(b). A licensed master social worker
+16 may not engage in clinical social work, except for the purpose of obtaining
+17 experience required to be a licensed clinical social worker, or as applicable, a
+18 person who retains the license of certified independent social worker in accordance
+19 with § 536(b).
+20 (4) A “licensed clinical social worker” or “LCSW” may perform duties set
+21 forth in paragraphs (1) to (8) of section 531(b).
+22 (c) No social work associate may practice except under the supervision of a licensed
+23 master social worker or licensed clinical social worker or, as applicable, a person who retains
+24 the license of certified independent social worker in accordance with § 536(b).
+
+4
+1 (d) No person may engage in the independent practice of social work unless licensed
+2 under this chapter as a licensed clinical social worker, or as applicable, a person who retains
+3 the license of certified independent social worker in accordance with § 536(b).
+4 (e) The practice of social work without a license is a misdemeanor punishable by a
+5 fine of not less than $100 but not more than $500.
+6 § 533. License by examination
+7 (a) Every applicant for a license under this chapter shall submit to the Board, in the
+8 form prescribed by the Board, evidence satisfactory to the Board that the applicant is of good
+9 moral character and meets the education, experience and training requirements.
+10 (b) In addition to the requirements in subsection (a), the Board shall issue a license as
+11 a “social work associate” to an applicant who:
+12 (1) has a baccalaureate degree in a non-social work field from a college or
+13 university approved by the Board; and
+14 (2) has passed the examination designated by the Board.
+15 (c) In addition to the requirements in subsection (a), the Board shall issue a license as
+16 a “social worker” to an applicant who:
+17 (1) has a baccalaureate degree in social work from a college or university
+18 approved by the Board or has a baccalaureate degree in a non-social work field or
+19 discipline, and not less than two years’ post-baccalaureate degree experience in a social
+20 work capacity; and
+21 (2) has passed the examination designated by the Board.
+22 (d) In addition to the requirements in subsection (a), the Board shall issue a license as
+23 a “licensed master social worker” to an applicant who:
+24 (1) has a doctorate or master's degree in social work from a college or university
+25 approved by the Board; and
+
+5
+1 (2) has passed the examination designated by the Board.
+2 (e) In addition to the requirements in subsection (a), the Board shall issue a license as
+3 a “licensed clinical social worker” to an applicant who:
+4 (1) has a doctorate or master’s degree in social work from a college or university
+5 approved by the Board or other individual approved by the Board; and
+6 (2) has had not less than two years of post-doctorate or post-master experience
+7 in the practice of social work under the direct clinical supervision of a licensed clinical
+8 social worker; and
+9 (3) has passed the examination designated by the Board.
+10 § 534. License by endorsement
+11 (a) The Board may issue a license without examination to an applicant who has
+12 satisfied to the Board that the applicant has passed an examination and is or has been licensed
+13 or registered under the laws of another state, territory, or political subdivision of the United
+14 States, whose standards, in the opinion of the Board, are the substantial equivalent of the
+15 requirements of section 533, and whose license has not been suspended or revoked by the
+16 licensing jurisdiction.
+17 (b) An applicant for licensure under this section is only eligible for licensure at the
+18 equivalent designation recognized in the jurisdiction in which the applicant for a license by
+19 endorsement is currently licensed.
+20 § 535. License requirement
+21 (a) Except as otherwise provided in this chapter, it is unlawful for an individual to
+22 engage, or otherwise attempt to engage, in the practice of social work unless licensed as a social
+23 work associate, licensed social worker, licensed master social worker, or licensed clinical social
+24 worker under the applicable provisions of this chapter. No persons licensed under this chapter
+25 may engage in the practice of social work beyond the scope of their license.
+
+6
+1 (b) No person may purport to be a social worker or qualified to engage in the practice
+2 of social work, by using the titles “social work associate”, “licensed social worker”, “licensed
+3 master social worker” or “licensed clinical social worker”, or use the letters “SW”, “SWA”,
+4 “BSW”, “LSW”, “MSW”, “LMSW”, or “LCSW” or use any or symbols indicating or tending
+5 to indicate that the person is a social worker, social work associate, licensed social worker,
+6 licensed master social worker, or licensed clinical social worker, or engage in the practice of
+7 social work as defined in this chapter or hold themselves out to the public by title or description
+8 of service as being engaged in the practice of social work without meeting the applicable
+9 requirements and holding a license as set forth in this chapter.
+10 (c) The Board shall reissue the appropriate redesignated license to a person licensed
+11 before the passage of this chapter as a “social worker”, “certified social worker” or “certified
+12 independent social worker”. Notwithstanding the foregoing, a license issued to “social
+13 worker”, “certified social worker” or “certified independent social worker” continues to be
+14 valid for the duration of the license or until the Board issues an appropriate redesignated
+15 license. A person licensed by the Board as a “social worker”, “certified social worker”, or
+16 “certified independent social worker” may continue to use the prior designated licensure titles
+17 for a period of two years or as otherwise provided by the Board. Except as specifically provided
+18 otherwise, licensure titles are redesignated as follows:
+19 (1) a “social worker” is redesignated as a “licensed social worker”;
+20 (2) a “certified social worker” is redesignated as a “licensed master social
+21 worker”; and
+22 (3) a “licensed independent social worker” is redesignated as a “licensed clinical
+23 social worker”.
+24 (d) A person who, after a hearing, the Board finds to have unlawfully engaged, or
+25 attempted to engage, in the practice of social work, or a person who knowingly assisted a person
+
+7
+1 to unlawfully engage in the practice of social work, is subject to a fine of not less than $100,
+2 but not more than $1,000 for each offense. Violations of this section are also subject to the
+3 penalties outlined in § 532(e), or other penalties permitted under this chapter, including §
+4 539(b).
+5 § 536. Exemption from requirement
+6 (a) Licensure under this chapter is not required of:
+7 (1) a person licensed in the Virgin Islands doing work within the scope of
+8 practice or duties of the person's profession and ethics of their respective professions that
+9 overlaps with the practice of social work; provided the person does not hold themselves
+10 out to the public by title or description of service as being engaged in the practice of
+11 social work;
+12 (2) a student enrolled in an accredited educational institution in a recognized
+13 program of study leading toward attainment of a degree in social work; provided, that the
+14 student’s activities and services are part of a prescribed course of study supervised by the
+15 educational institution and the student is identified by an appropriate title such as “social
+16 work student”, “social work intern”, or any other title which clearly indicates the
+17 student’s training status; or
+18 (3) a person who is a duly recognized member of the clergy; provided, that the
+19 person functions only within the person's capacities as a member of the clergy; and
+20 provided further that the person does not purport to be a social worker.
+21 (b) Notwithstanding the provision of 535(c)(3), a person licensed under the laws of the
+22 Virgin Islands as a certified independent social worker who does not engage in clinical practice
+23 shall maintain the license designation of certified independent social worker. A certified
+24 independent social worker is subject to all the provisions of this chapter.
+
+8
+1 (c) A person exempted under this section is not engaged in the unlawful practice of
+2 social work.
+3 § 537. Confidentiality
+4 (a) No social work associate, licensed social worker, licensed master social worker, or
+5 licensed clinical social worker shall disclose any information acquired from or provided by a
+6 client or from persons consulting with the social worker in a professional capacity except:
+7 (1) with the written consent of a client or persons consulting with the social
+8 worker in a professional capacity or their personal representative or, in the case of death
+9 or disability, the person’s personal representative, or other person authorized to sue on
+10 his behalf;
+11 (2) that a social work associate, licensed social worker, licensed master social
+12 worker, or licensed clinical social worker is not required to treat as confidential a
+13 communication that reveals the contemplation of a crime or of a harmful act;
+14 (3) when the person is a minor under the laws of the Virgin Islands and the
+15 information acquired by a licensed social work associate, social worker, licensed master
+16 social worker, or licensed clinical social worker indicates that the minor was the victim
+17 or subject of a crime, or when the social work associate, licensed social worker, licensed
+18 master social worker, or licensed clinical social worker may be required to testify fully
+19 in any examination, trial, or other proceeding in which the commission of a crime is the
+20 subject of inquiry;
+21 (4) when the person waives the right of confidentiality by bringing charges
+22 against the social work associate, licensed social worker, licensed master social worker,
+23 or licensed clinical social worker; or
+24 (5) pursuant to the order of a court of competent jurisdiction.
+
+9
+1 (b) A person having access to records or anyone who participates in providing social
+2 work services, or who, in providing any human services, is supervised by a licensed master
+3 social worker, licensed clinical social worker or other individual who may be providing direct
+4 clinical supervision as required under § 533(2)(2) is similarly bound to regard all information
+5 and communications as privileged in accordance with this section.
+6 (c) Violation of this section is a misdemeanor punishable by a fine of not less than
+7 $100.
+8 § 538. Bribery, fraud, misrepresentation and false statements
+9 The following are misdemeanors punishable by a fine of not less than $500, but not more
+10 than $1,000:
+11 (1) obtaining or attempting to obtain a license, certificate, or renewal thereof by
+12 bribery or fraudulent representation;
+13 (2) knowingly making a false statement in connection with or on an application;
+14 or
+15 (3) knowingly making a false statement on a form or in relation to a regulation
+16 promulgated by the Board.
+17 §539. Grounds for disciplinary proceedings
+18 (a) The Board may deny an application or, after a hearing, refuse to renew, suspend,
+19 revoke, censure, reprimand, restrict, or limit a license issued on proof that the person has
+20 engaged in unprofessional conduct within the five years preceding the filing of the complaint
+21 or the initiation of disciplinary action, including:
+22 (1) conviction of a felony;
+23 (2) conviction of a misdemeanor under this chapter;
+24 (3) conviction of fraud or deceit in connection with the practice of social work
+25 as defined in this chapter or in establishing qualifications under this chapter;
+
+10
+1 (4) aiding or abetting a person not licensed under this chapter who is falsely
+2 representing themselves as a social worker licensed under this chapter;
+3 (5) failing to be relicensed and continuing to represent themselves as licensed
+4 after the expiration of their license;
+5 (6) committing an act of gross negligence or condoning the act by an employee
+6 or supervisee in the practice of social work;
+7 (7) addiction to habit-forming drugs, which impairs the ability to perform their
+8 work; or
+9 (8) has knowingly violated a regulation of the Board.
+10 (b) In addition to disciplinary powers provided in subsection (a), the Board may, after
+11 a hearing, levy and collect administrative fines for violations of this chapter or a regulation of
+12 the Board of not less than $100 but not more than $1,000, for each violation. Each violation
+13 of this chapter or regulations of the Board pertaining to unlawfully engaging in the practice of
+14 social work constitutes a misdemeanor punishable by a fine of not less than $100, but not more
+15 than $1,000.
+16 § 540. Disciplinary proceedings
+17 (a) The Board shall conduct all hearings, which must be recorded by stenograph.
+18 Board decisions must be made by majority vote. The Board shall give not less than 20 days
+19 advance notice of a hearing, which notice must be served personally or by registered mail.
+20 (b) The respondent has the right to:
+21 (1) representation, either by counselor otherwise;
+22 (2) cross-examination of witnesses;
+23 (3) to call witnesses on the respondent’s behalf; and
+24 (4) to subpoena witnesses and documents.
+
+11
+1 (c) Judicial review of the refusal to allow an examination, to grant a license, or the
+2 review of a disciplinary hearing must be in accordance with Virgin Islands statutes regulating
+3 judicial review of administrative action.
+4 § 541. Renewal of licenses
+5 (a) All licenses are effective when issued by the Board.
+6 (b) A license issued under this chapter is valid for two years from the date of
+7 issuance and expires on the last day of the month of February.
+8 (c) A license may be renewed by the payment of the renewal fee and by the completion
+9 and submission—on a form provided by the Board—of a sworn statement by the applicant that
+10 the license has been neither revoked nor is currently suspended.
+11 (d) Failure of a licensee to renew the license biennially and before expiration as
+12 established under subsection (b), deprives the licensee of the right to practice until
+13 reinstatement of the license. The license may be reinstated at any time during the first 24
+14 months immediately following the date the license expired by payment of any penalty or
+15 reinstatement fees established by the Board, in addition to the established renewal fee. Failure
+16 of a licensee to be reinstated during the first 24 months immediately following the date the
+17 license expired requires the individual, before resuming practice in the Virgin Islands, to submit
+18 an application on the prescribed form, and to meet all other requirements for licensure. This
+19 subsection may not be construed to permit a person to engage in the practice of social work in
+20 the Virgin Islands without a valid and active license.
+21 (e) The Board shall adopt a program of continuing education to ensure that all licensees
+22 remain informed of those professional subjects that the Board considers appropriate to the
+23 practice of social work. The Board may by regulation describe the methods by which the
+24 requirements of the program must be satisfied. The licensee failure to meet the requirements
+25 of continuing education results in nonrenewal of a license.
+
+12
+1 (f) A person licensed under this chapter who is not engaged in the practice of social
+2 work or who does not live in the Virgin Islands may request, in writing, that the Board place
+3 that person’s license in inactive status.
+4 § 542. Fees
+5 The Board shall establish and published fees. The Board shall file an annual report of its
+6 activities with the Governor of the Virgin Islands and the report must include a statement of all
+7 receipts and disbursements.
+8 § 543. [Reserved for Future Use.]
+9 § 544. [Reserved for Future Use.]
+10 § 545. [Reserved for Future Use.]
+11 BILL SUMMARY
+12 This bill repeals and reenacts the provisions regulating the profession of social work and
+13 social workers. Specifically, the bill sets forth the scope of practice within the profession and
+14 the qualifications that must be met to be qualified in each practice area; it provides for the
+15 requirement for reciprocity of licensed social worker from another jurisdiction, providing the
+16 requirements that must met; it also provides the circumstance under which a license is not
+17 required to practice social work in the Virgin Islands; it list the circumstances that client
+18 confidential must be maintained; the grounds upon which disciplinary action will be taken
+19 against a social worker, and the nature and procedure for disciplinary action; it sets for the
+20 punishment for the commission of bribery, fraud, misrepresentation or provide false statements
+21 to the Virgin Islands Board of Social Work Licensure; it also sets for the procedure and
+22 requirements for license renewal; and finally, it gives the Board the authority to establish and
+23 publish fees and requires the Board to file an annual report of its activities to the Governor.
+24 BR25-0194A/March 18, 2025/SLR
+25 S:\AMENDS\36th Legislature\FRANCIS, JR., NOVELLE E\Amendment 36-
+26 407\Amendment No. 36-407 - (REVISED) DRAFTED ON YELLOW.docx
+
+[DELETED:  3 SC “ “ o s w m a t f k b h i c f g a c o]
+[DELETED: )i r i r s m)p a e o a a d a)c m c c i a)a o p i a i i t)s)r)p a d i t o)c U]
+[DELETED:  T A A p w r t l o c i s w i A n e i c s w e f t p o o r c a A N]
+[DELETED:  N T E I h a b d i a n w f f a c o h I h a b d i s w f a c o u b t B o h a b d i a n w f o h I h]
+[DELETED:  h I h h h T B m i a l w e t a a w h A E]
+[DELETED:  N T s w  N t f a l i t “ a a a “ s w i r a a “ m s a A]
+[DELETED:  § L)a p l i t V I d w w t s o)a s “ w i o a o t w c i t)a N m t l d o i s w  A c]
+[DELETED:  A N w t o l c s w i n r t t a c a w w t p w t r o c b b c p]
+[DELETED:  A V o k k T)c)c)c]
+[DELETED: )a)f)c)a)h I T B s c a h w m b r b s T r c t t]
+[DELETED:  J A A A F o a l t r t l b a b e a u s ( d t l o t r t p u i f t d t l e b p o p o T]
+[DELETED:  A t p s w i t V I i l t c t c t V I B o S W L i a s f t p a L J N E 3]

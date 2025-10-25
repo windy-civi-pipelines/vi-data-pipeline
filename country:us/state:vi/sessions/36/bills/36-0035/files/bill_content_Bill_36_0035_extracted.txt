@@ -1,0 +1,751 @@
+Title: 04/22/2025-REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Official Title: 04/22/2025-REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Number of Sections: 1
+Source: versions - Bill 36-0035
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON HEALTH, HOSPITALS AND HUMAN SERVICES
+06/25/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+06/25/2025-REPORTED OUT TO THE FLOOR
+BILL NO. 36-0035
+Thirty-Sixth Legislature of the Virgin Islands
+February 27, 2025
+An Act amending title 15 Virgin Islands Code, article V to allow the Government of the Virgin
+Islands to implement the federal mandate of the Stephen J. Beck, Jr., Achieving Better Life
+Experiences, which provides for the establishment of savings accounts for persons with
+disabilities
+PRO POSED BY: Senators Novelle E. Francis, Jr., and Kurt A. Vialet
+Co-sponsors Marise C. James, Hubert L. Frederick, Ray Fonseca,
+Angel L. Bolques, Jr., Clifford A. Joseph, Sr., Avery L. Lewis and
+Milton E. Potter
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 15 Virgin Islands Code, Article V is amended by adding the following Part
+3 5:
+4 “Part 5-Achieving a Better Life Experience.
+5 § 5-491. Short Title.
+6 This Part may be cited as the “Virgin Islands Achieving a Better Life Experience Act.”
+7 § 5-492. Definitions.
+8 In this Part:
+9 (1) “ABLE” means Achieving a Better Life Experience.
+10 (2) “Account or Able saving account” means an individual account, a trust account, or
+11 a savings account established in accordance with the provisions of this Part.
+2
+1 (3) “Account owner” means a person or legal entity who enters into a savings agreement
+2 authorized under section 529A of the Internal Revenue Code. The account owner may also be
+3 the designated beneficiary of the account.
+4 (4) “Commissioner” means the Commissioner of the Virgin Islands Department of
+5 Finance or the Commissioner’s designee.
+6 (5) “Department” means the Virgin Islands Department of Finance.
+7 (6) “Designated beneficiary” or “beneficiary” means an eligible individual for whom
+8 the account was established and whose qualified disability expenses may be paid from this
+9 account.
+10 (7) “Eligible individual” means a person who during the taxable year is entitled to
+11 benefits based on blindness or disability under Title II or XVI of the federal Social Security Act,
+12 42 U.S.C. § 401 et seq. or 1381 et seq., respectively, where the blindness or disability occurred
+13 before the date on which the individual attained the age specified in the federal ABLE Act; or an
+14 individual with respect to whom a disability certification, meeting the requirements of the federal
+15 ABLE Act, is filed.
+16 (8) “Federal ABLE Act” means the Stephen J. Beck, Jr., Achieving a Better Life
+17 Experience Act of 2014, Pub. L. No. 113-295. 128 Stat. 4010, and includes subsequent
+18 amendments to that act, as well as regulations promulgated thereunder by the United States
+19 Secretary of the Treasury.
+20 (9) “Financial organization” means an organization authorized to do business in the
+21 Virgin Islands that is:
+22 (1) licensed or chartered under the banking and insurance laws of V.I.;
+23 (2) chartered by an agency of the federal government; or
+24 (3) subject to the jurisdiction and regulation of the federal Securities and
+25 Exchange Commission.
+26 (10) “Internal Revenue Code” means the Internal Revenue Code of 1986, Public Law 99-
+27 514, 26 U.S.C. §1 et seq., as amended.
+3
+1 (11) “Management contract” means the contract executed by the Commissioner and a
+2 financial organization selected to act as a depository and manager of the Program.
+3 (12) “Nonqualified Withdrawal” means a withdrawal from an account that is not a
+4 qualified withdrawal or a rollover distribution.
+5 (13) “Program” means the Virgin Islands Achieving a Better Life Experience Program
+6 established by this Part.
+7 (14) “Program manager” means a financial organization selected by the Commissioner
+8 to act as a depository and manager of the Program.
+9 (15) “Qualified disability expenses” means expenses related to the eligible individual’s
+10 blindness or disability that are made for the benefit of the eligible individual who is the
+11 designated beneficiary, including expenses for:
+12 (A) education;
+13 (B) housing;
+14 (C) transportation;
+15 (D) employment training and support;
+16 (E) assistive technology and personal support services;
+17 (F) health, prevention and wellness;
+18 (G) financial management and administrative services;
+19 (H) legal fees;
+20 (I) expenses for oversight and monitoring;
+21 (J) funeral and burial expenses;
+22 (K) expenses that are for maintaining or improving health, independence, or
+23 quality of life; or
+24 (L) other expenses that are consistent with the purposes of the Federal ABLE Act
+25 and approved by the Program.
+26 (16) “Qualified withdrawal” means a withdrawal from an account to pay the qualified
+27 disability expenses of the designated beneficiary of the account.
+4
+1 (17) “Rollover distribution” means a rollover distribution as used in section 529A of the
+2 Internal Revenue Code.
+3 (18) “Savings agreement” means an agreement between the program manager and the
+4 account owner.
+5 (19) “Secretary” means the Secretary of the United States Department of the Treasury.
+6 (20) “VI Able Savings Program Trust Fund” means the ABLE savings accounts program
+7 established by the Department of Finance on behalf of the Government of the Virgin Islands
+8 separate and apart from all other Government funds.
+9 § 5-493. Virgin Islands ABLE Savings Program Establishment.
+10 In accordance with the Federal ABLE Act, the Commissioner of the Virgin Islands Department
+11 of Finance shall establish the Virgin Islands ABLE Savings Program to provide for or facilitate
+12 individual savings accounts that empower individuals with a disability and their families to save private
+13 funds to support an individual with a disability. Notwithstanding any other provision of law, an ABLE
+14 savings program established by the Department must be always maintained in a manner that ensures the
+15 Program’s status as a qualified ABLE program.
+16 § 5-494. Functions And Powers of the Commissioner.
+17 (a) The Commissioner shall implement and administer the program under the terms and
+18 conditions established by this Part and in conformity with federal law, including the Federal ABLE
+19 Act. The Commissioner shall have the authority to:
+20 (1) develop and implement the program in a manner consistent with this Part;
+21 (2) engage in the services of consultants on a contractual basis for rendering
+22 professional and technical assistance and advice;
+23 (3) seek guidance from the Secretary and Internal Revenue Bureau relating to the
+24 program;
+25 (4) make any changes to the program required for the participants in the program to
+26 obtain the federal income tax benefits or treatment provided by § 529A of the Internal Revenue
+27 Code of 1986, as amended, and as provided under this Part;
+5
+1 (5) develop marketing plans and promotional materials in consultation with the
+2 Department of Human Services and the Disability Rights Center of the Virgin Islands, and
+3 conduct ongoing outreach and education efforts to inform eligible individuals and their families
+4 about ABLE account benefits and procedures.
+5 (6) establish the method by which funds shall be allocated to pay for administrative
+6 costs; and
+7 (7) notify the Secretary, if required, when an account has been opened for a designated
+8 beneficiary and submit other reports concerning the program required by the Secretary.
+9 (b) The Commissioner may implement the program using financial organizations as account
+10 depositories and managers. The Commissioner may solicit proposals from financial organizations to
+11 act as depositories and managers of the program. Financial organizations that submit proposals shall
+12 describe the investment instruments which will be held in accounts. The Commissioner may select
+13 more than one (1) financial organization and investment instrument for the program. The Commissioner
+14 shall select as program depositories and managers of the financial organization or organizations, from
+15 among the financial organizations seeking the contract, that demonstrate the most advantageous
+16 combination, both to potential program participants and to the Virgin Islands, of the following factors:
+17 (1) financial stability and integrity of the financial organization;
+18 (2) the safety of the investment instrument being offered;
+19 (3) the ability of the financial organization to satisfy record-keeping and reporting
+20 requirements;
+21 (4) the financial organization’s plan for promoting the program and the investment the
+22 organization’s willingness to make to promote the program;
+23 (5) the fees, if any, proposed to be charged to the account of owners;
+24 (6) the minimum initial deposit and minimum contributions that the financial
+25 organization will require;
+26 (7) the availability of debit cards;
+6
+1 (8) the ability of the financial organization to accept electronic withdrawals, including
+2 payroll deduction plans; and
+3 (9) other benefits to the Virgin Islands or its residents included in the proposal, including
+4 fees payable to the Department to cover expenses of operation of the program.
+5 (c) The Commissioner may enter into contracts and agreements with a financial organization
+6 or organizations necessary to implement this Part.
+7 § 5-495. Management Contract; Terms.
+8 (a) A management contract shall include, at a minimum, terms requiring the financial
+9 organization to:
+10 (1) take any action required to keep the program in compliance with the requirements
+11 of this Part and take any action not contrary to the management contract to qualify as a qualified
+12 ABLE program as defined in § 529A of the Internal Revenue Code of 1986, as amended;
+13 (2) keep accurate records of each account, keep each account segregated from other
+14 accounts, and provide the Commissioner with the information necessary to prepare the statements
+15 required by § 5-496 of this Part;
+16 (3) compile total information contained in statements required to be prepared under § 5-
+17 496 of this Part, and provide the compilations to the Commissioner;
+18 (4) if there is more than one (1) program manager, provide the Commissioner with the
+19 information necessary to determine compliance with § 5-496 of this Part;
+20 (5) provide the Commissioner with access to the books and records of the program
+21 manager to the extent needed to determine compliance with the contract, this Part, and § 529A of
+22 the Internal Revenue Code of 1986, as amended;
+23 (6) hold all accounts for the benefit of the account owner or owners;
+24 (7) be audited every 2 years by a firm of certified public accountants selected by the
+25 program manager, with the consent of the Commissioner and provide the results of the audit to
+26 the Commissioner. An audit shall be conducted of the operations and financial position of the
+27 program manager at any time if the Commissioner has any reason to be concerned about the
+7
+1 financial position, the record-keeping practices, or the status of accounts of the program manager;
+2 and
+3 (8) provide the Commissioner with copies of all regulatory filings and reports made by
+4 the financial organization during the term of the management contract or while the financial
+5 organization is holding any accounts, other than confidential filings or reports that will not
+6 become part of the program. The program manager shall make available for review by the
+7 Commissioner the results of any periodic examination of the program manager by any state,
+8 territory or federal banking, insurance, or securities commission, except to the extent that the
+9 report or reports may not be disclosed under law; and
+10 (9) ensure that any description of the program, whether in writing or through the use
+11 of any media, is consistent with a marketing plan developed pursuant to this Part.
+12 (b) The Commissioner may terminate or not renew a management agreement. If the
+13 Commissioner terminates or does not renew a management agreement, the Commissioner shall take
+14 custody of accounts held by the program manager and shall seek to promptly transfer the accounts to
+15 another financial organization that is selected as a program manager and into investment instruments as
+16 similar to the original instruments as possible.
+17 (c) The Bureau of Internal Revenue, the Department of Health and Human Services, and the
+18 ADA Coordinator are authorized to exchange data regarding eligible individuals to carry out the
+19 purposes of this Part.
+20 (d) The Department shall include in its annual budget covering the operating and
+21 administrative expenses of the Program. Expenses incurred by the Program and the Department must
+22 be paid from Program fees and charges or from other available funds.
+23 § 5-496. Virgin Islands Able Savings Accounts; Terms and Conditions.
+24 (a) An ABLE savings account established pursuant to this Part may be opened by a designated
+25 beneficiary provided that the designated beneficiary shall be an eligible individual at the time the
+26 account is established. Any of the persons listed below may enter into an ABLE account contract as
+8
+1 fiduciary for an eligible individual who is a minor or who lacks capacity to enter into an ABLE account
+2 contract:
+3 (1) a parent or guardian;
+4 (2) a person or legal entity designated in writing by the parent or guardian;
+5 (3) a trustee of a trust for which the eligible individual is a beneficiary;
+6 (4) for an eligible individual receiving benefits based on blindness or a disability under
+7 Title II of the Social Security Act, 49 Stat. 620, 42 U.S.C. § 401, or Title XVI of the Social
+8 Security Act, 42 U.S.C. § 1381, the representative payee for those benefits; or
+9 (5) any other person or entity authorized under section 529A of the Internal Revenue
+10 Code with signature authority over the account.
+11 (b) Each beneficiary or authorized legal representative may hold only one (1) account. The
+12 Commissioner may establish an annual maintenance fee for each account, not to exceed fifty dollars.
+13 An application for an account shall be in the form specified by the Commissioner and shall contain:
+14 (1) the name, address, and social security number of the account owner;
+15 (2) the name, address, and social security number of the designated beneficiary, if the
+16 account owner is the beneficiary’s trustee or guardian;
+17 (3) certification relating to no excess contributions; and
+18 (4) additional information as the Commissioner may require.
+19 (c) Any person may make contributions to an ABLE savings account after the account is
+20 opened, subject to the limitations imposed by § 529A of the Internal Revenue Code of 1986, as amended,
+21 or any rules and regulations adopted by the Secretary and applicable to this Part.
+22 (d) The Commissioner or program manager shall reject or promptly withdraw a contribution:
+23 (1) if the contribution would cause the aggregate balance to exceed the limits established
+24 pursuant to section 529A of the Internal Revenue Code; or
+25 (2) if the designated beneficiary is not an eligible individual in the current calendar year.
+26 (e) An account owner may:
+9
+1 (1) change the designated beneficiary of an account to an individual who is a member
+2 of the family of the prior designated beneficiary in accordance with procedures established by the
+3 Commissioner; and
+4 (2) transfer all or a portion of an account to another ABLE savings account, the
+5 designated beneficiary of which is a member of the family as defined in § 529A of the Internal
+6 Revenue Code of 1986, as amended.
+7 (3) not use an interest in an account as security for a loan. Any pledge of an interest in
+8 an account shall be of no force and effect.
+9 (f) If there is any distribution from an account to any individual or for the benefit of any
+10 individual during a calendar year, the distribution shall be reported to Bureau of Internal Revenue and
+11 to the account owner, designated beneficiary, or distributee to the extent required by Virgin Islands or
+12 federal law.
+13 (g) Statements shall be provided to each account owner at least four (4) times each year within
+14 thirty (30) days after the end of the three (3)-month period to which a statement relates. The statement
+15 shall identify the contributions made during the preceding three (3)-month period, the total contributions
+16 made to the account through the end of the period, the value of the account at the end of the period,
+17 distributions made during the period, and any other information that the Commissioner requires to be
+18 reported to the account owner. Statements and information relating to accounts shall be prepared and
+19 filed to the extent required by this Part and any other Virgin Islands or federal law.
+20 (h) The program shall provide a separate accounting for each designated beneficiary.
+21 § 5-497. Accounts Not Guaranteed by the Virgin Islands.
+22 (a) Nothing in this Part shall create or be construed to create any obligation of the
+23 Commissioner, the Government of Virgin Islands, or any agency or instrumentality of the Government
+24 of Virgin Islands to guarantee for the benefit of any account owner or designated beneficiary with
+25 respect to the:
+26 (1) return of principal;
+27 (2) rate of interest or other return on any account; or
+10
+1 (3) payment of interest or other return on any account.
+2 (b) The Commissioner shall adopt rules to provide that every contract, obligation, application,
+3 or other similar document that may be used in connection with opening an account clearly indicates that
+4 the account is not insured by the Government of Virgin Islands, and that the principal deposited and the
+5 investment return are not guaranteed by the Government of Virgin Islands.
+6 § 5-498. Interdepartmental Cooperation.
+7 The head of any department, board, commission, agency or instrumentality of the Government
+8 of the Virgin Islands, unless otherwise prohibited by law, shall assist the Department in providing
+9 information about the Program to potential eligible individuals and their families.
+10 § 5-499. Virgin Islands Able Savings Program Trust Fund.
+11 (a) There is established the Virgin Islands ABLE Savings Program Trust Fund (Fund) within
+12 the Treasury of Virgin Islands. The Fund shall consist of monies received from an ABLE savings
+13 program manager, any governmental or private grants, and any General Fund appropriations for the
+14 program.
+15 (b) At the end of any fiscal year, all unexpended and unencumbered monies in the Virgin
+16 Islands ABLE Savings Program Trust Fund shall remain in the Virgin Islands ABLE Savings Program
+17 Trust Fund and shall not be credited or transferred to the General Fund, or any other fund.
+18 (c) All expenses incurred by the Commissioner in developing and administering the ABLE
+19 savings program shall be payable from the Virgin Islands ABLE Savings Program Trust Fund.
+20 (d) Five Hundred Thousand Dollars ($500,000) is hereby authorized from the Southern Trust
+21 Company Settlement Fund to the Department of Finance to assist in the implementation of the Virgin
+22 Islands ABLE Savings Program pursuant to this Part. The funds shall be used for, but are not limited
+23 to, the following purposes:
+24 (a) engaging the services of consultants to assist in launching the program;
+25 (b) engaging a Program Manager for the purposes of managing the Virgin Islands ABLE
+26 Savings Program; and
+27 (c) to assist with associated start-up fees and overhead.
+11
+1 § 5-500. Nonqualified Withdrawals.
+2 (a) Upon a full or partial withdrawal of funds from an account that are not used for qualified
+3 disability expenses, the account owner or the account owner's designee must receive the market value
+4 of the account for the amount requested.
+5 (b) The Program Manager may collect administrative fees or charges for costs upon a non-
+6 qualified withdrawal or termination and deduct the fee from the amount otherwise payable. If there is
+7 a nonqualified withdrawal, and the amount withdrawn includes earnings on the contributions to the
+8 account or contributions to the account that are eligible to be deducted from Virgin Islands income tax
+9 for the tax year in which the contributions were made, the amount of earnings and deductible
+10 contributions are subject to taxation as income under the laws of the Virgin Islands.
+11 (c) The Program Manager may close an account and return any remaining funds in the account
+12 as a nonqualified withdrawal in order to comply with federal law or if the Program Manager, in its sole
+13 discretion, determines that termination is in the best interest of the Program or the designated
+14 beneficiary. Any person aggrieved by a determination to terminate an account may file an
+15 administrative appeal with the Department not later than 30 days after the mailing date of the termination
+16 notice. A final resolution of the administrative appeal is the final decision of the Commissioner of
+17 Finance, and the aggrieved person may be appeal to the Superior Court of the Virgin Islands. The appeal
+18 must be filed not later than 30 days after the mailing date of the final decision of the Commissioner.
+19 § 5-501. Treatment of Accounts.
+20 (a) An account is not subject to attachment, levy or execution by any creditor of a contributor,
+21 account owner or designated beneficiary and may not be used as security for loan.
+22 (b) Amounts contributed to an account, increases in the value of the account and qualified
+23 withdrawals from the account shall not be considered when determining eligibility or benefit levels for
+24 housing assistance programs, including the Housing Choice Voucher program (Section 8) and programs
+25 administered by the Federal Housing Administration and the Department of Housing and Urban
+26 Development, nutrition programs such as the Supplemental Nutrition Assistance Program (SNAP) and
+27 the Special Supplemental Nutrition Program for Women, Infants and Children (WIC), financial
+12
+1 assistance programs, including Temporary Assistance for Needy Families (TANF); energy and utility
+2 assistance programs, including the Low Income Energy Assistance Program (LIHEAP), Vocational
+3 Rehabilitation Services, medical assistance such as Medicaid, or other means tested benefits conferred
+4 by the Government of the Virgin Islands.
+5 (c) Amounts contributed to an account and increases in the value of the account may not be
+6 used in calculating personal asset contributions for determining eligibility or need to qualify for federal
+7 student aid, student loan programs, student grant programs, or other student aid programs administered
+8 by a territorial agency, except as otherwise may be provided by federal law.
+9 (d) A person or entity may make contributions to an ABLE account on behalf of a beneficiary.
+10 Contributions to an account made by persons or entities other than the designated beneficiary become
+11 the property of the designated beneficiary. Contributions to an account shall be considered as a transfer
+12 of assets for fair market value. A person or entity does not acquire an interest in an ABLE account by
+13 making contributions to an account. A contribution to any account for a beneficiary must be rejected if
+14 the contribution would cause either the aggregate balance of the account to exceed five hundred and
+15 fifty thousand dollars ($550,000).
+16 (e) Unless prohibited by federal law, upon the death of a designated beneficiary, proceeds from
+17 an account may be transferred to the estate of a designated beneficiary, or to an account for another
+18 eligible individual specified by the designated beneficiary or the estate of the designated beneficiary.
+19 An agency or instrumentality of the Government of the Virgin Islands may not seek payment under
+20 section 529A(f) of the Internal Revenue Code from the account or its proceeds for benefits provided to
+21 a designated beneficiary.
+22 § 5-501. Exemptions.
+23 The Program and accounts are exempt from any statute regulating securities. The property of the
+24 Program and the earnings from the Program are exempt from all taxation by the Government of the
+25 Virgin Islands. Contributions made to an account, any increase in the value of those contributions, the
+26 retention or transfer during life or as a result of death of any legal interest in an account, and payment
+13
+1 of qualified disability expenses of eligible individuals from an account, are exempt from all taxation by
+2 the Government of the Virgin Islands.
+3 SECTION 2. The Department of Finance shall promote awareness of the availability and
+4 advantages of the ABLE account plan to assist individuals and families in saving private funds for the
+5 purpose of supporting individuals with disabilities.
+6 SECTION 3. The Commissioner of Finance shall provide an implementation plan to the
+7 President of the Legislature no later than 45 days after enactment.
+8 SECTION 4. This act takes effect immediately.
+9 BILL SUMMARY
+10 This bill allows individuals with disabilities to save without fear of losing their federal
+11 benefits. The Virgin Islands Program will be maintained by the Department of Finance as
+12 trustee. In accordance with the Federal ABLE Act, the Department of Finance shall establish
+13 and maintain a savings program to allow ABLE savings accounts to be opened for eligible
+14 individuals to benefit from the tax incentives provided under the Federal ABLE Act. An ABLE
+15 savings program established by the Department of Finance must be maintained in a manner
+16 that ensures the Program’s status as a qualified ABLE program.
+17 BR25-0379/February 24, 2025/CBM
+18 ..\..\..\..\AMENDS\36th Legislature\FRANCIS, JR., NOVELLE E\Amendment 36-380
+[DELETED:  3 w p f t e o s a f p w)“)“]
+[DELETED: )“)“ m t C o t V I D o)“)“)“)“ A A m t S J B J A a B L A o 2 P L N 1 1 S 4 a i s)“ l c s t t j a r o t f S a)“]
+[DELETED: )“)“ W m a w f a a t i n a)“)“)“ o d t a m f t b o t e i w i t e h t e a h f l e f e t a f m o i h i o o)“]
+[DELETED: )“)“)“)“.  F s e t V I A S P t p f o f)T)d)e i t s o c o a c b f r)s g f t S a I R B r t t)m]
+[DELETED: )d m p a p m i c w t)e)n T t f o s t c t d t m a)f)t)t a o t f o t s r a r)t)t)t m i d a m c t t f)t]
+[DELETED: )t)o T A m c s i a a m t r t f t k c i p h b]
+[DELETED:  p e T C m t o n r a m a  I t T C a a t e d r e i t c o t T D s i i i a b c t o a A]
+[DELETED: )a)a)a)f)a E t t c a A T i i A]
+[DELETED:  c t a o a p o a a t a A s a t n I S T N i t P s c o b c t c a o o t r r]
+[DELETED:  p T T A A F e e t]
+[DELETED:  U T t t y i w t c w m t a o e a d T d t t i i t b i o t P o t d  A p a b a d t t a a m f a A A b t F H A a t D o H a U S S N P f W I a C ( f]
+[DELETED:  A A U]
+[DELETED:  2  T D o F s p a o a a 3  T C o F s p a i p t t]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON HEALTH, HOSPITALS AND HUMAN SERVICES
+06/25/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+06/25/2025-REPORTED OUT TO THE FLOOR
+04/22/2025-REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+BILL NO. 36-0035
+Thirty-Sixth Legislature of the Virgin Islands
+February 27, 2025
+An Act amending title 15 Virgin Islands Code, article V to allow the Government of the Virgin
+Islands to implement the federal mandate of the Stephen J. Beck, Jr., Achieving Better Life
+Experiences, which provides for the establishment of savings accounts for persons with
+disabilities
+PRO POSED BY: Senators Novelle E. Francis, Jr., and Kurt A. Vialet
+Co-sponsors Marise C. James, Hubert L. Frederick, Ray Fonseca,
+Angel L. Bolques, Jr., Clifford A. Joseph, Sr., Avery L. Lewis and
+Milton E. Potter
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 15 Virgin Islands Code, Article V is amended by adding the following Part
+3 5:
+4 “Part 5-Achieving a Better Life Experience.
+5 § 5-491. Short Title.
+6 This Part may be cited as the “Virgin Islands Achieving a Better Life Experience Act.”
+7 § 5-492. Definitions.
+8 In this Part:
+9 (1) “ABLE” means Achieving a Better Life Experience.
+10 (2) “Account or Able saving account” means an individual account, a trust account, or
+11 a savings account established in accordance with the provisions of this Part.
+
+2
+1 (3) “Account owner” means a person or legal entity who enters into a savings agreement
+2 authorized under section 529A of the Internal Revenue Code. The account owner may also be
+3 the designated beneficiary of the account.
+4 (4) “Commissioner” means the Commissioner of the Virgin Islands Department of
+5 Finance or the Commissioner’s designee.
+6 (5) “Department” means the Virgin Islands Department of Finance.
+7 (6) “Designated beneficiary” or “beneficiary” means an eligible individual for whom
+8 the account was established and whose qualified disability expenses may be paid from this
+9 account.
+10 (7) “Eligible individual” means a person who during the taxable year is entitled to
+11 benefits based on blindness or disability under Title II or XVI of the federal Social Security Act,
+12 42 U.S.C. § 401 et seq. or 1381 et seq., respectively, where the blindness or disability occurred
+13 before the date on which the individual attained the age specified in the federal ABLE Act; or an
+14 individual with respect to whom a disability certification, meeting the requirements of the federal
+15 ABLE Act, is filed.
+16 (8) “Federal ABLE Act” means the Stephen J. Beck, Jr., Achieving a Better Life
+17 Experience Act of 2014, Pub. L. No. 113-295. 128 Stat. 4010, and includes subsequent
+18 amendments to that act, as well as regulations promulgated thereunder by the United States
+19 Secretary of the Treasury.
+20 (9) “Financial organization” means an organization authorized to do business in the
+21 Virgin Islands that is:
+22 (1) licensed or chartered under the banking and insurance laws of V.I.;
+23 (2) chartered by an agency of the federal government; or
+24 (3) subject to the jurisdiction and regulation of the federal Securities and
+25 Exchange Commission.
+26 (10) “Internal Revenue Code” means the Internal Revenue Code of 1986, Public Law 99-
+27 514, 26 U.S.C. §1 et seq., as amended.
+
+3
+1 (11) “Management contract” means the contract executed by the Commissioner and a
+2 financial organization selected to act as a depository and manager of the Program.
+3 (12) “Nonqualified Withdrawal” means a withdrawal from an account that is not a
+4 qualified withdrawal or a rollover distribution.
+5 (13) “Program” means the Virgin Islands Achieving a Better Life Experience Program
+6 established by this Part.
+7 (14) “Program manager” means a financial organization selected by the Commissioner
+8 to act as a depository and manager of the Program.
+9 (15) “Qualified disability expenses” means expenses related to the eligible individual’s
+10 blindness or disability that are made for the benefit of the eligible individual who is the
+11 designated beneficiary, including expenses for:
+12 (A) education;
+13 (B) housing;
+14 (C) transportation;
+15 (D) employment training and support;
+16 (E) assistive technology and personal support services;
+17 (F) health, prevention and wellness;
+18 (G) financial management and administrative services;
+19 (H) legal fees;
+20 (I) expenses for oversight and monitoring;
+21 (J) funeral and burial expenses;
+22 (K) expenses that are for maintaining or improving health, independence, or
+23 quality of life; or
+24 (L) other expenses that are consistent with the purposes of the Federal ABLE Act
+25 and approved by the Program.
+26 (16) “Qualified withdrawal” means a withdrawal from an account to pay the qualified
+27 disability expenses of the designated beneficiary of the account.
+
+4
+1 (17) “Rollover distribution” means a rollover distribution as used in section 529A of the
+2 Internal Revenue Code.
+3 (18) “Savings agreement” means an agreement between the program manager and the
+4 account owner.
+5 (19) “Secretary” means the Secretary of the United States Department of the Treasury.
+6 (20) “VI Able Savings Program Trust Fund” means the ABLE savings accounts program
+7 established by the Department of Finance on behalf of the Government of the Virgin Islands
+8 separate and apart from all other Government funds.
+9 § 5-493. Virgin Islands ABLE Savings Program Establishment.
+10 In accordance with the Federal ABLE Act, the Commissioner of the Virgin Islands Department
+11 of Finance shall establish the Virgin Islands ABLE Savings Program to provide for or facilitate
+12 individual savings accounts that empower individuals with a disability and their families to save private
+13 funds to support an individual with a disability. Notwithstanding any other provision of law, an ABLE
+14 savings program established by the Department must be always maintained in a manner that ensures the
+15 Program’s status as a qualified ABLE program.
+16 § 5-494. Functions And Powers of the Commissioner.
+17 (a) The Commissioner shall implement and administer the program under the terms and
+18 conditions established by this Part and in conformity with federal law, including the Federal ABLE
+19 Act. The Commissioner shall have the authority to:
+20 (1) develop and implement the program in a manner consistent with this Part;
+21 (2) engage in the services of consultants on a contractual basis for rendering
+22 professional and technical assistance and advice;
+23 (3) seek guidance from the Secretary and Internal Revenue Bureau relating to the
+24 program;
+25 (4) make any changes to the program required for the participants in the program to
+26 obtain the federal income tax benefits or treatment provided by § 529A of the Internal Revenue
+27 Code of 1986, as amended, and as provided under this Part;
+
+5
+1 (5) develop marketing plans and promotional materials in consultation with the
+2 Department of Human Services and the Disability Rights Center of the Virgin Islands, and
+3 conduct ongoing outreach and education efforts to inform eligible individuals and their families
+4 about ABLE account benefits and procedures.
+5 (6) establish the method by which funds shall be allocated to pay for administrative
+6 costs; and
+7 (7) notify the Secretary, if required, when an account has been opened for a designated
+8 beneficiary and submit other reports concerning the program required by the Secretary.
+9 (b) The Commissioner may implement the program using financial organizations as account
+10 depositories and managers. The Commissioner may solicit proposals from financial organizations to
+11 act as depositories and managers of the program. Financial organizations that submit proposals shall
+12 describe the investment instruments which will be held in accounts. The Commissioner may select
+13 more than one (1) financial organization and investment instrument for the program. The Commissioner
+14 shall select as program depositories and managers of the financial organization or organizations, from
+15 among the financial organizations seeking the contract, that demonstrate the most advantageous
+16 combination, both to potential program participants and to the Virgin Islands, of the following factors:
+17 (1) financial stability and integrity of the financial organization;
+18 (2) the safety of the investment instrument being offered;
+19 (3) the ability of the financial organization to satisfy record-keeping and reporting
+20 requirements;
+21 (4) the financial organization’s plan for promoting the program and the investment the
+22 organization’s willingness to make to promote the program;
+23 (5) the fees, if any, proposed to be charged to the account of owners;
+24 (6) the minimum initial deposit and minimum contributions that the financial
+25 organization will require;
+26 (7) the availability of debit cards;
+
+6
+1 (8) the ability of the financial organization to accept electronic withdrawals, including
+2 payroll deduction plans; and
+3 (9) other benefits to the Virgin Islands or its residents included in the proposal, including
+4 fees payable to the Department to cover expenses of operation of the program.
+5 (c) The Commissioner may enter into contracts and agreements with a financial organization
+6 or organizations necessary to implement this Part.
+7 § 5-495. Management Contract; Terms.
+8 (a) A management contract shall include, at a minimum, terms requiring the financial
+9 organization to:
+10 (1) take any action required to keep the program in compliance with the requirements
+11 of this Part and take any action not contrary to the management contract to qualify as a qualified
+12 ABLE program as defined in § 529A of the Internal Revenue Code of 1986, as amended;
+13 (2) keep accurate records of each account, keep each account segregated from other
+14 accounts, and provide the Commissioner with the information necessary to prepare the statements
+15 required by § 5-496 of this Part;
+16 (3) compile total information contained in statements required to be prepared under § 5-
+17 496 of this Part, and provide the compilations to the Commissioner;
+18 (4) if there is more than one (1) program manager, provide the Commissioner with the
+19 information necessary to determine compliance with § 5-496 of this Part;
+20 (5) provide the Commissioner with access to the books and records of the program
+21 manager to the extent needed to determine compliance with the contract, this Part, and § 529A of
+22 the Internal Revenue Code of 1986, as amended;
+23 (6) hold all accounts for the benefit of the account owner or owners;
+24 (7) be audited every 2 years by a firm of certified public accountants selected by the
+25 program manager, with the consent of the Commissioner and provide the results of the audit to
+26 the Commissioner. An audit shall be conducted of the operations and financial position of the
+27 program manager at any time if the Commissioner has any reason to be concerned about the
+
+7
+1 financial position, the record-keeping practices, or the status of accounts of the program manager;
+2 and
+3 (8) provide the Commissioner with copies of all regulatory filings and reports made by
+4 the financial organization during the term of the management contract or while the financial
+5 organization is holding any accounts, other than confidential filings or reports that will not
+6 become part of the program. The program manager shall make available for review by the
+7 Commissioner the results of any periodic examination of the program manager by any state,
+8 territory or federal banking, insurance, or securities commission, except to the extent that the
+9 report or reports may not be disclosed under law; and
+10 (9) ensure that any description of the program, whether in writing or through the use
+11 of any media, is consistent with a marketing plan developed pursuant to this Part.
+12 (b) The Commissioner may terminate or not renew a management agreement. If the
+13 Commissioner terminates or does not renew a management agreement, the Commissioner shall take
+14 custody of accounts held by the program manager and shall seek to promptly transfer the accounts to
+15 another financial organization that is selected as a program manager and into investment instruments as
+16 similar to the original instruments as possible.
+17 (c) The Bureau of Internal Revenue, the Department of Health and Human Services, and the
+18 ADA Coordinator are authorized to exchange data regarding eligible individuals to carry out the
+19 purposes of this Part.
+20 (d) The Department shall include in its annual budget covering the operating and
+21 administrative expenses of the Program. Expenses incurred by the Program and the Department must
+22 be paid from Program fees and charges or from other available funds.
+23 § 5-496. Virgin Islands Able Savings Accounts; Terms and Conditions.
+24 (a) An ABLE savings account established pursuant to this Part may be opened by a designated
+25 beneficiary provided that the designated beneficiary shall be an eligible individual at the time the
+26 account is established. Any of the persons listed below may enter into an ABLE account contract as
+
+8
+1 fiduciary for an eligible individual who is a minor or who lacks capacity to enter into an ABLE account
+2 contract:
+3 (1) a parent or guardian;
+4 (2) a person or legal entity designated in writing by the parent or guardian;
+5 (3) a trustee of a trust for which the eligible individual is a beneficiary;
+6 (4) for an eligible individual receiving benefits based on blindness or a disability under
+7 Title II of the Social Security Act, 49 Stat. 620, 42 U.S.C. § 401, or Title XVI of the Social
+8 Security Act, 42 U.S.C. § 1381, the representative payee for those benefits; or
+9 (5) any other person or entity authorized under section 529A of the Internal Revenue
+10 Code with signature authority over the account.
+11 (b) Each beneficiary or authorized legal representative may hold only one (1) account. The
+12 Commissioner may establish an annual maintenance fee for each account, not to exceed fifty dollars.
+13 An application for an account shall be in the form specified by the Commissioner and shall contain:
+14 (1) the name, address, and social security number of the account owner;
+15 (2) the name, address, and social security number of the designated beneficiary, if the
+16 account owner is the beneficiary’s trustee or guardian;
+17 (3) certification relating to no excess contributions; and
+18 (4) additional information as the Commissioner may require.
+19 (c) Any person may make contributions to an ABLE savings account after the account is
+20 opened, subject to the limitations imposed by § 529A of the Internal Revenue Code of 1986, as amended,
+21 or any rules and regulations adopted by the Secretary and applicable to this Part.
+22 (d) The Commissioner or program manager shall reject or promptly withdraw a contribution:
+23 (1) if the contribution would cause the aggregate balance to exceed the limits established
+24 pursuant to section 529A of the Internal Revenue Code; or
+25 (2) if the designated beneficiary is not an eligible individual in the current calendar year.
+26 (e) An account owner may:
+
+9
+1 (1) change the designated beneficiary of an account to an individual who is a member
+2 of the family of the prior designated beneficiary in accordance with procedures established by the
+3 Commissioner; and
+4 (2) transfer all or a portion of an account to another ABLE savings account, the
+5 designated beneficiary of which is a member of the family as defined in § 529A of the Internal
+6 Revenue Code of 1986, as amended.
+7 (3) not use an interest in an account as security for a loan. Any pledge of an interest in
+8 an account shall be of no force and effect.
+9 (f) If there is any distribution from an account to any individual or for the benefit of any
+10 individual during a calendar year, the distribution shall be reported to Bureau of Internal Revenue and
+11 to the account owner, designated beneficiary, or distributee to the extent required by Virgin Islands or
+12 federal law.
+13 (g) Statements shall be provided to each account owner at least four (4) times each year within
+14 thirty (30) days after the end of the three (3)-month period to which a statement relates. The statement
+15 shall identify the contributions made during the preceding three (3)-month period, the total contributions
+16 made to the account through the end of the period, the value of the account at the end of the period,
+17 distributions made during the period, and any other information that the Commissioner requires to be
+18 reported to the account owner. Statements and information relating to accounts shall be prepared and
+19 filed to the extent required by this Part and any other Virgin Islands or federal law.
+20 (h) The program shall provide a separate accounting for each designated beneficiary.
+21 § 5-497. Accounts Not Guaranteed by the Virgin Islands.
+22 (a) Nothing in this Part shall create or be construed to create any obligation of the
+23 Commissioner, the Government of Virgin Islands, or any agency or instrumentality of the Government
+24 of Virgin Islands to guarantee for the benefit of any account owner or designated beneficiary with
+25 respect to the:
+26 (1) return of principal;
+27 (2) rate of interest or other return on any account; or
+
+10
+1 (3) payment of interest or other return on any account.
+2 (b) The Commissioner shall adopt rules to provide that every contract, obligation, application,
+3 or other similar document that may be used in connection with opening an account clearly indicates that
+4 the account is not insured by the Government of Virgin Islands, and that the principal deposited and the
+5 investment return are not guaranteed by the Government of Virgin Islands.
+6 § 5-498. Interdepartmental Cooperation.
+7 The head of any department, board, commission, agency or instrumentality of the Government
+8 of the Virgin Islands, unless otherwise prohibited by law, shall assist the Department in providing
+9 information about the Program to potential eligible individuals and their families.
+10 § 5-499. Virgin Islands Able Savings Program Trust Fund.
+11 (a) There is established the Virgin Islands ABLE Savings Program Trust Fund (Fund) within
+12 the Treasury of Virgin Islands. The Fund shall consist of monies received from an ABLE savings
+13 program manager, any governmental or private grants, and any General Fund appropriations for the
+14 program.
+15 (b) At the end of any fiscal year, all unexpended and unencumbered monies in the Virgin
+16 Islands ABLE Savings Program Trust Fund shall remain in the Virgin Islands ABLE Savings Program
+17 Trust Fund and shall not be credited or transferred to the General Fund, or any other fund.
+18 (c) All expenses incurred by the Commissioner in developing and administering the ABLE
+19 savings program shall be payable from the Virgin Islands ABLE Savings Program Trust Fund.
+20 (d) Five Hundred Thousand Dollars ($500,000) is hereby authorized from the Southern Trust
+21 Company Settlement Fund to the Department of Finance to assist in the implementation of the Virgin
+22 Islands ABLE Savings Program pursuant to this Part. The funds shall be used for, but are not limited
+23 to, the following purposes:
+24 (a) engaging the services of consultants to assist in launching the program;
+25 (b) engaging a Program Manager for the purposes of managing the Virgin Islands ABLE
+26 Savings Program; and
+27 (c) to assist with associated start-up fees and overhead.
+
+11
+1 § 5-500. Nonqualified Withdrawals.
+2 (a) Upon a full or partial withdrawal of funds from an account that are not used for qualified
+3 disability expenses, the account owner or the account owner's designee must receive the market value
+4 of the account for the amount requested.
+5 (b) The Program Manager may collect administrative fees or charges for costs upon a non-
+6 qualified withdrawal or termination and deduct the fee from the amount otherwise payable. If there is
+7 a nonqualified withdrawal, and the amount withdrawn includes earnings on the contributions to the
+8 account or contributions to the account that are eligible to be deducted from Virgin Islands income tax
+9 for the tax year in which the contributions were made, the amount of earnings and deductible
+10 contributions are subject to taxation as income under the laws of the Virgin Islands.
+11 (c) The Program Manager may close an account and return any remaining funds in the account
+12 as a nonqualified withdrawal in order to comply with federal law or if the Program Manager, in its sole
+13 discretion, determines that termination is in the best interest of the Program or the designated
+14 beneficiary. Any person aggrieved by a determination to terminate an account may file an
+15 administrative appeal with the Department not later than 30 days after the mailing date of the termination
+16 notice. A final resolution of the administrative appeal is the final decision of the Commissioner of
+17 Finance, and the aggrieved person may be appeal to the Superior Court of the Virgin Islands. The appeal
+18 must be filed not later than 30 days after the mailing date of the final decision of the Commissioner.
+19 § 5-501. Treatment of Accounts.
+20 (a) An account is not subject to attachment, levy or execution by any creditor of a contributor,
+21 account owner or designated beneficiary and may not be used as security for loan.
+22 (b) Amounts contributed to an account, increases in the value of the account and qualified
+23 withdrawals from the account shall not be considered when determining eligibility or benefit levels for
+24 housing assistance programs, including the Housing Choice Voucher program (Section 8) and programs
+25 administered by the Federal Housing Administration and the Department of Housing and Urban
+26 Development, nutrition programs such as the Supplemental Nutrition Assistance Program (SNAP) and
+27 the Special Supplemental Nutrition Program for Women, Infants and Children (WIC), financial
+
+12
+1 assistance programs, including Temporary Assistance for Needy Families (TANF); energy and utility
+2 assistance programs, including the Low Income Energy Assistance Program (LIHEAP), Vocational
+3 Rehabilitation Services, medical assistance such as Medicaid, or other means tested benefits conferred
+4 by the Government of the Virgin Islands.
+5 (c) Amounts contributed to an account and increases in the value of the account may not be
+6 used in calculating personal asset contributions for determining eligibility or need to qualify for federal
+7 student aid, student loan programs, student grant programs, or other student aid programs administered
+8 by a territorial agency, except as otherwise may be provided by federal law.
+9 (d) A person or entity may make contributions to an ABLE account on behalf of a beneficiary.
+10 Contributions to an account made by persons or entities other than the designated beneficiary become
+11 the property of the designated beneficiary. Contributions to an account shall be considered as a transfer
+12 of assets for fair market value. A person or entity does not acquire an interest in an ABLE account by
+13 making contributions to an account. A contribution to any account for a beneficiary must be rejected if
+14 the contribution would cause either the aggregate balance of the account to exceed five hundred and
+15 fifty thousand dollars ($550,000).
+16 (e) Unless prohibited by federal law, upon the death of a designated beneficiary, proceeds from
+17 an account may be transferred to the estate of a designated beneficiary, or to an account for another
+18 eligible individual specified by the designated beneficiary or the estate of the designated beneficiary.
+19 An agency or instrumentality of the Government of the Virgin Islands may not seek payment under
+20 section 529A(f) of the Internal Revenue Code from the account or its proceeds for benefits provided to
+21 a designated beneficiary.
+22 § 5-501. Exemptions.
+23 The Program and accounts are exempt from any statute regulating securities. The property of the
+24 Program and the earnings from the Program are exempt from all taxation by the Government of the
+25 Virgin Islands. Contributions made to an account, any increase in the value of those contributions, the
+26 retention or transfer during life or as a result of death of any legal interest in an account, and payment
+
+13
+1 of qualified disability expenses of eligible individuals from an account, are exempt from all taxation by
+2 the Government of the Virgin Islands.
+3 SECTION 2. The Department of Finance shall promote awareness of the availability and
+4 advantages of the ABLE account plan to assist individuals and families in saving private funds for the
+5 purpose of supporting individuals with disabilities.
+6 SECTION 3. The Commissioner of Finance shall provide an implementation plan to the
+7 President of the Legislature no later than 45 days after enactment.
+8 SECTION 4. This act takes effect immediately.
+9 BILL SUMMARY
+10 This bill allows individuals with disabilities to save without fear of losing their federal
+11 benefits. The Virgin Islands Program will be maintained by the Department of Finance as
+12 trustee. In accordance with the Federal ABLE Act, the Department of Finance shall establish
+13 and maintain a savings program to allow ABLE savings accounts to be opened for eligible
+14 individuals to benefit from the tax incentives provided under the Federal ABLE Act. An ABLE
+15 savings program established by the Department of Finance must be maintained in a manner
+16 that ensures the Program’s status as a qualified ABLE program.
+17 BR25-0379/February 24, 2025/CBM
+18 ..\..\..\..\AMENDS\36th Legislature\FRANCIS, JR., NOVELLE E\Amendment 36-380
+
+[DELETED:  3 w p f t e o s a f p w)“)“]
+[DELETED: )“)“ m t C o t V I D o)“)“)“)“ A A m t S J B J A a B L A o 2 P L N 1 1 S 4 a i s)“ l c s t t j a r o t f S a)“]
+[DELETED: )“)“ W m a w f a a t i n a)“)“)“ o d t a m f t b o t e i w i t e h t e a h f l e f e t a f m o i h i o o)“]
+[DELETED: )“)“)“)“.  F s e t V I A S P t p f o f)T)d)e i t s o c o a c b f r)s g f t S a I R B r t t)m]
+[DELETED: )d m p a p m i c w t)e)n T t f o s t c t d t m a)f)t)t a o t f o t s r a r)t)t)t m i d a m c t t f)t]
+[DELETED: )t)o T A m c s i a a m t r t f t k c i p h b]
+[DELETED:  p e T C m t o n r a m a  I t T C a a t e d r e i t c o t T D s i i i a b c t o a A]
+[DELETED: )a)a)a)f)a E t t c a A T i i A]
+[DELETED:  c t a o a p o a a t a A s a t n I S T N i t P s c o b c t c a o o t r r]
+[DELETED:  p T T A A F e e t]
+[DELETED:  U T t t y i w t c w m t a o e a d T d t t i i t b i o t P o t d  A p a b a d t t a a m f a A A b t F H A a t D o H a U S S N P f W I a C ( f]
+[DELETED:  A A U]
+[DELETED:  2  T D o F s p a o a a 3  T C o F s p a i p t t]

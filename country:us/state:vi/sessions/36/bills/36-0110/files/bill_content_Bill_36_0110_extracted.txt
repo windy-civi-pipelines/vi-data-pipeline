@@ -1,0 +1,228 @@
+Title: 09/12/2025-REPORTED OUT TO THE COMMITTEE N RULES AND JUDICIARY
+Official Title: 09/12/2025-REPORTED OUT TO THE COMMITTEE N RULES AND JUDICIARY
+Number of Sections: 1
+Source: versions - Bill 36-0110
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON DISASTER RECOVERY AND
+INFRASTRUCTURE
+10/09/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+BILL NO. 36-0110
+Thirty-Sixth Legislature of the Virgin Islands
+July 10, 2025
+An Act amending title 20 Virgin Islands Code, part I, chapter 1 to require a permit from the
+Virgin Islands Department of Public Works before the excavation of any public roadway
+PROPOSED BY: Senators Angel L. Bolques, Jr. and Avery L. Lewis
+Co-sponsor: Hubert L. Frederick
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 20 Virgin Islands Code, part I, chapter 1 is amended by inserting the
+3 following section 8:
+4 § 8. Excavation of public roads; permits, fees, and fines
+5 (a) The Virgin Islands Department of Public Works (“the Department”) shall regulate
+6 the excavation of public roads in the Virgin Islands. No individual, corporation, or entity shall
+7 excavate any public road without first obtaining a permit from the Commissioner of the
+8 Department of Public Works.
+9 (b) The Department shall establish a fee schedule for excavation permits. The fees
+10 must be commensurate with the size, duration, and impact of the excavation on the public road
+11 and its users. All fees collected must be used exclusively for the maintenance and improvement
+12 of public roads and must be deposited into the District Public Road Fund.
+2
+1 (c) The Department shall charge a fee for the following:
+2 (1) excavation permits, based on the project's size and scope;
+3 (2) inspection of the work during and after completion to ensure compliance with
+4 regulations and safety standards;
+5 (3) services to identify and mark underground utilities:
+6 (4) necessary environmental assessments, if the excavation has potential
+7 environmental impacts;
+8 (5) costs associated with traffic control measures and road closures;
+9 (6) restoration of the road and adjacent areas including sidewalks, curbs, and
+10 landscaping;
+11 (7) disposal of waste material generated from the excavation;
+12 (8) damage to public property or utilities for repair and replacement; and
+13 (9) any costs incurred to ensure compliance with safety regulations and
+14 compliance standards, including specialized equipment or procedures.
+15 (d) Standards and Regulations
+16 The Department shall establish standards and regulations for the excavation of public
+17 roads, which must include safety measures, traffic management, restoration of excavated areas,
+18 and timeframes for completion of work. All excavation work must comply with the standards
+19 and regulations set forth by the Department.
+20 (e) Fines and Penalties
+21 After an opportunity to be heard, any individual, corporation, or entity found to be in
+22 violation of this section for an unauthorized excavation, non-compliance with standards and
+23 regulations, or failure to pay the required fees, is subject to pay a fine as established by the
+24 Department. Repeat offenders may be subject to increased fines and or suspension of future
+25 permit privileges.
+3
+1 (f) Emergency excavations by public utility agencies
+2 (1) Notwithstanding any other provision of this section, the Virgin Islands Water
+3 and Power Authority (WAPA), the Virgin Islands Waste Management Authority
+4 (VIWMA), or any other public utility agency may conduct emergency excavation on a
+5 public roadway without first obtaining a permit from the Department of Public Works
+6 (DPW) when:
+7 (a) a failure of electrical, water, sewer, or other critical utility services
+8 creates an imminent threat to life, health, or public safety; or
+9 (b) immediate excavation is necessary to restore essential services to the
+10 public.
+11 (2) Upon commencement of such emergency excavation, the agency shall notify
+12 the Commissioner of DPW immediately, by email, phone, fax, or other official means,
+13 providing the location, scope, and purpose of the excavation. Submission of a formal
+14 permit application may follow the notification, but notification to the Commissioner is
+15 required on the same business day as commencement. If the excavation occurs on a
+16 weekend or legal holiday, notification must be made no later than the next business day.
+17 (3) All emergency work performed under this subsection remains subject to the
+18 roadway restoration standards established in subsection (g), and DPW may inspect the
+19 site to ensure compliance.
+20 (4) Emergency excavation performed under this subsection does not exempt the
+21 responsible agency from fines or penalties for failure to comply with restoration
+22 standards, as provided in subsection (e).
+23 (g) Roadway restoration standards
+24 (1) Any individual, corporation, public utility, or other entity that excavates a
+25 public roadway shall restore the roadway in accordance with standards prescribed by
+4
+1 DPW, including specifications for pavement thickness, materials, compaction, and
+2 resurfacing techniques.
+3 (2) Restoration must return the roadway to a condition equal to or better than its
+4 condition prior to excavation.
+5 (3) Where trenching or significant roadway disruption occurs, the responsible
+6 party shall repave the entire affected lane or, if required by DPW, the entire width of the
+7 roadway, to ensure safety, long-term durability, and uniformity.
+8 (4) Temporary patching is not sufficient restoration.
+9 (5) A party that fails to restore a roadway in compliance with this subsection shall
+10 be subject to penalties and fines under subsection (e), and future permit privileges may
+11 be suspended or revoked.
+12 SECTION 2. (a) This act takes effect 90 days after its enactment.
+13 (b) Not later than 90 days after the effective date of this act, the Department shall create
+14 a permit application that must provide for the inclusion of the location of the excavation, the
+15 purpose, and the estimated duration of the excavation, and any other information the
+16 Department considers necessary.
+17 (c) Not later than 90 days after the effective date of this act, the Department may
+18 promulgate additional rules for the administration and enforcement of this act.
+19 BILL SUMMARY
+20 This bill amends title 20 Virgin Islands Code, part 1, chapter 1 to require a permit from
+21 the Department of Public Works before the excavation of any public roadway and sets a
+22 schedule of fees associated with the excavation of the roadway.
+23 BR25-0075/March 26, 2025/AA
+24 ..\..\..\..\AMENDS\36th Legislature\LEWIS, AVERY L\Amendment 36-542\Amendment
+25 36-542 - DRAFTED ON YELLOW.docx
+[DELETED:  3 S)T a p r w f o a p f t C o t)T]
+[DELETED: )T)e)i)s)n e a i t e h p)c)r d d a c i t e c w s r a S F]
+[DELETED:  E N P A ( t V I W M A a i U A E a f f o p f f t c w r R A]
+[DELETED:  i s f p t m c a R W T A N a t e d o t e a a o i t N D o P W b t e o a p r a s a]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON DISASTER RECOVERY AND
+INFRASTRUCTURE
+10/09/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+09/12/2025-REPORTED OUT TO THE COMMITTEE N RULES AND JUDICIARY
+BILL NO. 36-0110
+Thirty-Sixth Legislature of the Virgin Islands
+July 10, 2025
+An Act amending title 20 Virgin Islands Code, part I, chapter 1 to require a permit from the
+Virgin Islands Department of Public Works before the excavation of any public roadway
+PROPOSED BY: Senators Angel L. Bolques, Jr. and Avery L. Lewis
+Co-sponsor: Hubert L. Frederick
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 20 Virgin Islands Code, part I, chapter 1 is amended by inserting the
+3 following section 8:
+4 § 8. Excavation of public roads; permits, fees, and fines
+5 (a) The Virgin Islands Department of Public Works (“the Department”) shall regulate
+6 the excavation of public roads in the Virgin Islands. No individual, corporation, or entity shall
+7 excavate any public road without first obtaining a permit from the Commissioner of the
+8 Department of Public Works.
+9 (b) The Department shall establish a fee schedule for excavation permits. The fees
+10 must be commensurate with the size, duration, and impact of the excavation on the public road
+11 and its users. All fees collected must be used exclusively for the maintenance and improvement
+12 of public roads and must be deposited into the District Public Road Fund.
+
+2
+1 (c) The Department shall charge a fee for the following:
+2 (1) excavation permits, based on the project's size and scope;
+3 (2) inspection of the work during and after completion to ensure compliance with
+4 regulations and safety standards;
+5 (3) services to identify and mark underground utilities:
+6 (4) necessary environmental assessments, if the excavation has potential
+7 environmental impacts;
+8 (5) costs associated with traffic control measures and road closures;
+9 (6) restoration of the road and adjacent areas including sidewalks, curbs, and
+10 landscaping;
+11 (7) disposal of waste material generated from the excavation;
+12 (8) damage to public property or utilities for repair and replacement; and
+13 (9) any costs incurred to ensure compliance with safety regulations and
+14 compliance standards, including specialized equipment or procedures.
+15 (d) Standards and Regulations
+16 The Department shall establish standards and regulations for the excavation of public
+17 roads, which must include safety measures, traffic management, restoration of excavated areas,
+18 and timeframes for completion of work. All excavation work must comply with the standards
+19 and regulations set forth by the Department.
+20 (e) Fines and Penalties
+21 After an opportunity to be heard, any individual, corporation, or entity found to be in
+22 violation of this section for an unauthorized excavation, non-compliance with standards and
+23 regulations, or failure to pay the required fees, is subject to pay a fine as established by the
+24 Department. Repeat offenders may be subject to increased fines and or suspension of future
+25 permit privileges.
+
+3
+1 (f) Emergency excavations by public utility agencies
+2 (1) Notwithstanding any other provision of this section, the Virgin Islands Water
+3 and Power Authority (WAPA), the Virgin Islands Waste Management Authority
+4 (VIWMA), or any other public utility agency may conduct emergency excavation on a
+5 public roadway without first obtaining a permit from the Department of Public Works
+6 (DPW) when:
+7 (a) a failure of electrical, water, sewer, or other critical utility services
+8 creates an imminent threat to life, health, or public safety; or
+9 (b) immediate excavation is necessary to restore essential services to the
+10 public.
+11 (2) Upon commencement of such emergency excavation, the agency shall notify
+12 the Commissioner of DPW immediately, by email, phone, fax, or other official means,
+13 providing the location, scope, and purpose of the excavation. Submission of a formal
+14 permit application may follow the notification, but notification to the Commissioner is
+15 required on the same business day as commencement. If the excavation occurs on a
+16 weekend or legal holiday, notification must be made no later than the next business day.
+17 (3) All emergency work performed under this subsection remains subject to the
+18 roadway restoration standards established in subsection (g), and DPW may inspect the
+19 site to ensure compliance.
+20 (4) Emergency excavation performed under this subsection does not exempt the
+21 responsible agency from fines or penalties for failure to comply with restoration
+22 standards, as provided in subsection (e).
+23 (g) Roadway restoration standards
+24 (1) Any individual, corporation, public utility, or other entity that excavates a
+25 public roadway shall restore the roadway in accordance with standards prescribed by
+
+4
+1 DPW, including specifications for pavement thickness, materials, compaction, and
+2 resurfacing techniques.
+3 (2) Restoration must return the roadway to a condition equal to or better than its
+4 condition prior to excavation.
+5 (3) Where trenching or significant roadway disruption occurs, the responsible
+6 party shall repave the entire affected lane or, if required by DPW, the entire width of the
+7 roadway, to ensure safety, long-term durability, and uniformity.
+8 (4) Temporary patching is not sufficient restoration.
+9 (5) A party that fails to restore a roadway in compliance with this subsection shall
+10 be subject to penalties and fines under subsection (e), and future permit privileges may
+11 be suspended or revoked.
+12 SECTION 2. (a) This act takes effect 90 days after its enactment.
+13 (b) Not later than 90 days after the effective date of this act, the Department shall create
+14 a permit application that must provide for the inclusion of the location of the excavation, the
+15 purpose, and the estimated duration of the excavation, and any other information the
+16 Department considers necessary.
+17 (c) Not later than 90 days after the effective date of this act, the Department may
+18 promulgate additional rules for the administration and enforcement of this act.
+19 BILL SUMMARY
+20 This bill amends title 20 Virgin Islands Code, part 1, chapter 1 to require a permit from
+21 the Department of Public Works before the excavation of any public roadway and sets a
+22 schedule of fees associated with the excavation of the roadway.
+23 BR25-0075/March 26, 2025/AA
+24 ..\..\..\..\AMENDS\36th Legislature\LEWIS, AVERY L\Amendment 36-542\Amendment
+25 36-542 - DRAFTED ON YELLOW.docx
+
+[DELETED:  3 S)T a p r w f o a p f t C o t)T]
+[DELETED: )T)e)i)s)n e a i t e h p)c)r d d a c i t e c w s r a S F]
+[DELETED:  E N P A ( t V I W M A a i U A E a f f o p f f t c w r R A]
+[DELETED:  i s f p t m c a R W T A N a t e d o t e a a o i t N D o P W b t e o a p r a s a]

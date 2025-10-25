@@ -1,0 +1,194 @@
+Title: BILL NO. 36-0079
+Official Title: BILL NO. 36-0079
+Number of Sections: 1
+Source: versions - Bill 36-0079
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON HEALTH, HOSPITALS AND HUMAN
+SERVICES
+Thirty-Sixth Legislature of the Virgin Islands
+May 8, 2025
+An Act amending title 19 Virgin Islands Code, part IV, chapter 37, to add a new subchapter
+mandating territorial hospitals to provide paternity testing services upon request
+PROPOSED BY: Senator Kenneth L. Gittens
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 19, Virgin Islands Code, part IV, chapter 37, is amended by adding
+3 the following new subchapter VI:
+4 "Subchapter VI. Paternity Testing Services
+5 § 913. Definitions
+6 For the purposes of this subchapter:
+7 (a) “Paternity test” means a genetic test used to determine whether an individual is the
+8 biological father of a child.
+9 (b) “Territorial hospital” refers to any hospital or medical facility operating under the
+10 jurisdiction of the Virgin Islands Government Hospitals and Health Facilities Corporation that
+11 provides general medical care and services, including but not limited to:
+12 (1) Governor Juan F. Luis Hospital and Medical Center on St. Croix;
+2
+1 (2) Governor Roy L. Schneider Hospital and Medical Center (also known as the
+2 Schneider Regional Medical Center) on St. Thomas; and
+3 (3) Myrah Keating Smith Community Health Center on St. John.
+4 (c) “Department” means the Virgin Islands Department of Health as established in title
+5 3 Virgin Islands Code, chapter 23, section 411.
+6 (d) “Requesting party” refers to an individual legally authorized to request a paternity
+7 test, which may include:
+8 (1) The presumed or alleged father;
+9 (2) The mother or legal guardian of the child; or
+10 (3) A court or governmental agency requiring paternity confirmation.
+11 § 914. Availability of Paternity Tests
+12 (a) Each territorial hospital shall ensure the availability of paternity testing services
+13 upon request by an authorized requesting party.
+14 (b) Paternity testing services shall be provided at a cost that reflects the actual expenses
+15 incurred by the hospital, including labor, materials, and processing fees. Pricing shall be
+16 determined in accordance with the hospital’s standard pricing policies.
+17 (c) Hospitals shall obtain informed consent from all parties legally required to provide
+18 such consent before conducting a paternity test. The consent form shall:
+19 (1) clearly explain the nature of the test, its purpose, potential risks, and benefits;
+20 (2) specify the associated costs; and
+21 (3) inform the individual of their rights under applicable privacy and
+22 confidentiality laws.
+23 (d) All paternity tests and results shall be handled with the highest degree of privacy
+24 and confidentiality. Results shall be disclosed only to the requesting party or their authorized
+3
+1 representative, in compliance with federal and local privacy laws, including the Health
+2 Insurance Portability and Accountability Act (HIPAA).
+3 (e) Territorial hospitals may deny a request for a paternity test if:
+4 (1) a medical professional determines that the procedure poses a health risk to
+5 the child or individual providing a sample; or
+6 (2) the request is deemed invalid or unauthorized under applicable laws.
+7 § 915. Notification and Reporting Requirements
+8 (a) Territorial hospitals shall inform patients about the availability of paternity testing
+9 services through written or digital means, including but not limited to brochures, websites,
+10 and patient information guides.
+11 (b) Each territorial hospital shall submit an annual report to the Virgin Islands
+12 Department of Health, summarizing:
+13 (1) the number of paternity tests conducted;
+14 (2) costs associated with the tests; and
+15 (3) any challenges encountered in the provision of the services.
+16 (c) All reporting shall exclude personally identifiable information and adhere to
+17 applicable privacy laws.
+18 § 916. Implementation and Compliance
+19 (a) The Virgin Islands Department of Health shall oversee the implementation of this
+20 subchapter and ensure compliance by territorial hospitals. The Department shall issue
+21 guidelines governing the provision of paternity tests, including standards for pricing and
+22 procedures.
+23 (b) Hospitals that fail to comply with this subchapter shall be subject to penalties
+24 determined by the Department of Health. Penalties may include:
+25 (1) fines;
+4
+1 (2) suspension or revocation of licensure in accordance with applicable laws; or
+2 (3) other corrective actions as deemed necessary.
+3 SECTION 2. This act shall take effect on July 1, 2026.
+4 BILL SUMMARY
+5 This bill amends Title 19, Virgin Islands Code, Part IV, Chapter 37, by adding a new
+6 subchapter to mandate territorial hospitals to provide paternity testing services upon request.
+7 The bill establishes definitions for key terms and outlines the requirements for availability, cost,
+8 informed consent, and privacy of such services. It further requires hospitals to notify patients
+9 of the availability of paternity tests, submit annual reports to the Department of Health, and
+10 comply with oversight and guidelines issued by the Department. The bill provides for penalties
+11 for non-compliance.
+12 BR25-0333/March 27, 2025/KEH
+[DELETED:  3:S “ “ G]
+[DELETED:  G M “ “ T T A E P b t h i l m a p f  P s b H c s i t i o t r u a p a A]
+[DELETED:  i c w f a l p l i t H T a t T E t h s s a a r t t V I t c a A r s e p i i a a t T a e c b t h  T D s i g t p o p t i s f p a H t f t c w t s b s t p f]
+[DELETED:  s o]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON HEALTH, HOSPITALS AND HUMAN
+SERVICES
+BILL NO. 36-0079
+Thirty-Sixth Legislature of the Virgin Islands
+May 8, 2025
+An Act amending title 19 Virgin Islands Code, part IV, chapter 37, to add a new subchapter
+mandating territorial hospitals to provide paternity testing services upon request
+PROPOSED BY: Senator Kenneth L. Gittens
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 19, Virgin Islands Code, part IV, chapter 37, is amended by adding
+3 the following new subchapter VI:
+4 "Subchapter VI. Paternity Testing Services
+5 § 913. Definitions
+6 For the purposes of this subchapter:
+7 (a) “Paternity test” means a genetic test used to determine whether an individual is the
+8 biological father of a child.
+9 (b) “Territorial hospital” refers to any hospital or medical facility operating under the
+10 jurisdiction of the Virgin Islands Government Hospitals and Health Facilities Corporation that
+11 provides general medical care and services, including but not limited to:
+12 (1) Governor Juan F. Luis Hospital and Medical Center on St. Croix;
+
+2
+1 (2) Governor Roy L. Schneider Hospital and Medical Center (also known as the
+2 Schneider Regional Medical Center) on St. Thomas; and
+3 (3) Myrah Keating Smith Community Health Center on St. John.
+4 (c) “Department” means the Virgin Islands Department of Health as established in title
+5 3 Virgin Islands Code, chapter 23, section 411.
+6 (d) “Requesting party” refers to an individual legally authorized to request a paternity
+7 test, which may include:
+8 (1) The presumed or alleged father;
+9 (2) The mother or legal guardian of the child; or
+10 (3) A court or governmental agency requiring paternity confirmation.
+11 § 914. Availability of Paternity Tests
+12 (a) Each territorial hospital shall ensure the availability of paternity testing services
+13 upon request by an authorized requesting party.
+14 (b) Paternity testing services shall be provided at a cost that reflects the actual expenses
+15 incurred by the hospital, including labor, materials, and processing fees. Pricing shall be
+16 determined in accordance with the hospital’s standard pricing policies.
+17 (c) Hospitals shall obtain informed consent from all parties legally required to provide
+18 such consent before conducting a paternity test. The consent form shall:
+19 (1) clearly explain the nature of the test, its purpose, potential risks, and benefits;
+20 (2) specify the associated costs; and
+21 (3) inform the individual of their rights under applicable privacy and
+22 confidentiality laws.
+23 (d) All paternity tests and results shall be handled with the highest degree of privacy
+24 and confidentiality. Results shall be disclosed only to the requesting party or their authorized
+
+3
+1 representative, in compliance with federal and local privacy laws, including the Health
+2 Insurance Portability and Accountability Act (HIPAA).
+3 (e) Territorial hospitals may deny a request for a paternity test if:
+4 (1) a medical professional determines that the procedure poses a health risk to
+5 the child or individual providing a sample; or
+6 (2) the request is deemed invalid or unauthorized under applicable laws.
+7 § 915. Notification and Reporting Requirements
+8 (a) Territorial hospitals shall inform patients about the availability of paternity testing
+9 services through written or digital means, including but not limited to brochures, websites,
+10 and patient information guides.
+11 (b) Each territorial hospital shall submit an annual report to the Virgin Islands
+12 Department of Health, summarizing:
+13 (1) the number of paternity tests conducted;
+14 (2) costs associated with the tests; and
+15 (3) any challenges encountered in the provision of the services.
+16 (c) All reporting shall exclude personally identifiable information and adhere to
+17 applicable privacy laws.
+18 § 916. Implementation and Compliance
+19 (a) The Virgin Islands Department of Health shall oversee the implementation of this
+20 subchapter and ensure compliance by territorial hospitals. The Department shall issue
+21 guidelines governing the provision of paternity tests, including standards for pricing and
+22 procedures.
+23 (b) Hospitals that fail to comply with this subchapter shall be subject to penalties
+24 determined by the Department of Health. Penalties may include:
+25 (1) fines;
+
+4
+1 (2) suspension or revocation of licensure in accordance with applicable laws; or
+2 (3) other corrective actions as deemed necessary.
+3 SECTION 2. This act shall take effect on July 1, 2026.
+4 BILL SUMMARY
+5 This bill amends Title 19, Virgin Islands Code, Part IV, Chapter 37, by adding a new
+6 subchapter to mandate territorial hospitals to provide paternity testing services upon request.
+7 The bill establishes definitions for key terms and outlines the requirements for availability, cost,
+8 informed consent, and privacy of such services. It further requires hospitals to notify patients
+9 of the availability of paternity tests, submit annual reports to the Department of Health, and
+10 comply with oversight and guidelines issued by the Department. The bill provides for penalties
+11 for non-compliance.
+12 BR25-0333/March 27, 2025/KEH
+
+[DELETED:  3:S “ “ G]
+[DELETED:  G M “ “ T T A E P b t h i l m a p f  P s b H c s i t i o t r u a p a A]
+[DELETED:  i c w f a l p l i t H T a t T E t h s s a a r t t V I t c a A r s e p i i a a t T a e c b t h  T D s i g t p o p t i s f p a H t f t c w t s b s t p f]
+[DELETED:  s o]

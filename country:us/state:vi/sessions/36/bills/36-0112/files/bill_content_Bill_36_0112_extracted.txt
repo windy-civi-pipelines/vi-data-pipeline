@@ -1,0 +1,137 @@
+Title: BILL NO. 36-0112
+Official Title: BILL NO. 36-0112
+Number of Sections: 1
+Source: versions - Bill 36-0112
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON RULES AND JUDICIARY
+09/08/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+Thirty-Sixth Legislature of the Virgin Islands
+July 10, 2025
+An act amending title 4 Virgin Islands Code, chapter 31, section 516 increasing the filing fee
+for general civil complaints in the Superior Court of the Virgin Islands and title 5 Virgin Islands
+Code, chapter 41, section 426 allowing for the collection of nine percent prejudgment interest
+when an offer of judgment is filed with the court
+PROPOSED BY: Senator Carla J. Joseph
+1 WHEREAS, the median filing fee for civil complaints is approximately $150 in state
+2 courts of general jurisdiction, and $400 in the federal courts;
+3 WHEREAS, many of these states not only charge a filing fee for complaints, but also a
+4 filing fee for any affirmative relief, when defendants counter-sue, cross-sue or sue third-parties;
+5 WHEREAS, civil filing fees range from $100 to $315 for small population states such
+6 as Hawaii, Idaho, Iowa, Nevada, Vermont, and Wyoming;
+7 WHEREAS, the facilities of the Superior Court in the St. Thomas and St. Croix districts
+8 are aging;
+9 WHEREAS, while inflation, the cost-of-living, and interest rates have hit record highs,
+10 the court post-judgment interest rate in the Virgin Islands remains at four percent, far outside
+2
+1 the majority of states that utilize post-judgment interest rates at or above nine percent and eight
+2 states use post-judgment interest rates at twelve percent or more;
+3 WHEREAS, with the recent rise of the bond market, interest rates, and return on
+4 investments, and the further expected rise of the interest rate over the coming years, the Superior
+5 Court’s judgment interest rate should rise to compensate those wronged for the delay of
+6 payment and the full opportunity cost of money; and
+7 WHEREAS, the ability to keep filing fees for the use of capital improvement to the courts
+8 would enhance the physical appearance of the court facilities; Now, Therefore,
+9 Be it enacted by the Legislature of the Virgin Islands:
+10 SECTION 1. Title 4 Virgin Islands Code, chapter 31, section 516, is amended as
+11 follows:
+12 (a) paragraph (7) is amended by striking “or” after “petition” and inserting a comma,
+13 by inserting “, cross-claim, counter-claim, or third-party complaint” after “application”, and by
+14 striking “$75.00” and inserting “$150.00”, and
+15 (b) At the end of the section by striking “the Treasury of the Virgin Islands ” and
+16 inserting “a Judicial Branch capital improvement fund.”
+17 SECTION 2. Title 5 Virgin Islands Code, chapter 41, section 426 is amended as follows:
+18 (a) In subsection (a) by striking “4” and insert “9”; and
+19 (b) By adding a subsection (c) as follows:
+20 “(c) A plaintiff, counter-plaintiff, or third-party plaintiff may file a signed Offer
+21 of Judgment with the Clerk of Court offering to settle a dispute including non economic
+22 or unliquidated damages at any time but not later than 45 days before trial. The defendant
+23 has 15 days to accept or reject the offer of judgment. The Plaintiff shall receive pre-
+24 judgment interest from the date of the filing of the Complaint at nine per cent per annum
+3
+1 if the offer of judgment is rejected, and the verdict at trial is higher than the offer of
+2 judgment.”
+3 BILL SUMMARY
+4 This bill increases the filing fee for general civil complaints in the Superior Court of the
+5 Virgin Islands to $150.00, and expands the filing fee to cover all affirmative relief complaints
+6 including cross-claims, counter-claims and third-party complaints. It also requires that the fees
+7 be placed in a Superior Court Capital Improvement Fund. Further, it allows for the collection
+8 of nine percent prejudgment interest by the plaintiff when an offer of judgment is filed with the
+9 court, and the verdict at trial exceeds the amount filed.
+10 BR25-0336/July 9, 2025/LMW
+11 ..\..\..\..\AMENDS\36th Legislature\JOSEPH, CARLA J\Amendment 36-529\Amendment
+12 36-529- DRAFTED ON YELLOW.docx
+[DELETED:  3 S]
+[DELETED:  w t r r o t b m i r a r o j i r s r t c t w f t d o 1  T 4 V I C c 3 s 5 i a a)p)A)I)B A]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON RULES AND JUDICIARY
+09/08/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+BILL NO. 36-0112
+Thirty-Sixth Legislature of the Virgin Islands
+July 10, 2025
+An act amending title 4 Virgin Islands Code, chapter 31, section 516 increasing the filing fee
+for general civil complaints in the Superior Court of the Virgin Islands and title 5 Virgin Islands
+Code, chapter 41, section 426 allowing for the collection of nine percent prejudgment interest
+when an offer of judgment is filed with the court
+PROPOSED BY: Senator Carla J. Joseph
+1 WHEREAS, the median filing fee for civil complaints is approximately $150 in state
+2 courts of general jurisdiction, and $400 in the federal courts;
+3 WHEREAS, many of these states not only charge a filing fee for complaints, but also a
+4 filing fee for any affirmative relief, when defendants counter-sue, cross-sue or sue third-parties;
+5 WHEREAS, civil filing fees range from $100 to $315 for small population states such
+6 as Hawaii, Idaho, Iowa, Nevada, Vermont, and Wyoming;
+7 WHEREAS, the facilities of the Superior Court in the St. Thomas and St. Croix districts
+8 are aging;
+9 WHEREAS, while inflation, the cost-of-living, and interest rates have hit record highs,
+10 the court post-judgment interest rate in the Virgin Islands remains at four percent, far outside
+
+2
+1 the majority of states that utilize post-judgment interest rates at or above nine percent and eight
+2 states use post-judgment interest rates at twelve percent or more;
+3 WHEREAS, with the recent rise of the bond market, interest rates, and return on
+4 investments, and the further expected rise of the interest rate over the coming years, the Superior
+5 Court’s judgment interest rate should rise to compensate those wronged for the delay of
+6 payment and the full opportunity cost of money; and
+7 WHEREAS, the ability to keep filing fees for the use of capital improvement to the courts
+8 would enhance the physical appearance of the court facilities; Now, Therefore,
+9 Be it enacted by the Legislature of the Virgin Islands:
+10 SECTION 1. Title 4 Virgin Islands Code, chapter 31, section 516, is amended as
+11 follows:
+12 (a) paragraph (7) is amended by striking “or” after “petition” and inserting a comma,
+13 by inserting “, cross-claim, counter-claim, or third-party complaint” after “application”, and by
+14 striking “$75.00” and inserting “$150.00”, and
+15 (b) At the end of the section by striking “the Treasury of the Virgin Islands ” and
+16 inserting “a Judicial Branch capital improvement fund.”
+17 SECTION 2. Title 5 Virgin Islands Code, chapter 41, section 426 is amended as follows:
+18 (a) In subsection (a) by striking “4” and insert “9”; and
+19 (b) By adding a subsection (c) as follows:
+20 “(c) A plaintiff, counter-plaintiff, or third-party plaintiff may file a signed Offer
+21 of Judgment with the Clerk of Court offering to settle a dispute including non economic
+22 or unliquidated damages at any time but not later than 45 days before trial. The defendant
+23 has 15 days to accept or reject the offer of judgment. The Plaintiff shall receive pre-
+24 judgment interest from the date of the filing of the Complaint at nine per cent per annum
+
+3
+1 if the offer of judgment is rejected, and the verdict at trial is higher than the offer of
+2 judgment.”
+3 BILL SUMMARY
+4 This bill increases the filing fee for general civil complaints in the Superior Court of the
+5 Virgin Islands to $150.00, and expands the filing fee to cover all affirmative relief complaints
+6 including cross-claims, counter-claims and third-party complaints. It also requires that the fees
+7 be placed in a Superior Court Capital Improvement Fund. Further, it allows for the collection
+8 of nine percent prejudgment interest by the plaintiff when an offer of judgment is filed with the
+9 court, and the verdict at trial exceeds the amount filed.
+10 BR25-0336/July 9, 2025/LMW
+11 ..\..\..\..\AMENDS\36th Legislature\JOSEPH, CARLA J\Amendment 36-529\Amendment
+12 36-529- DRAFTED ON YELLOW.docx
+
+[DELETED:  3 S]
+[DELETED:  w t r r o t b m i r a r o j i r s r t c t w f t d o 1  T 4 V I C c 3 s 5 i a a)p)A)I)B A]

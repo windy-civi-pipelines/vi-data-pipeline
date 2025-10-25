@@ -1,0 +1,106 @@
+Title: BILL NO. 36-0059
+Official Title: BILL NO. 36-0059
+Number of Sections: 1
+Source: versions - Bill 36-0059
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON HOMELAND SECURITY, JUSTICE AND
+PUBLIC SAFETY
+Thirty-Sixth Legislature of the Virgin Islands
+March 28, 2025
+An Act amending title 20 Virgin Islands Code, chapter 45 to establish the suspension of driver's
+licenses for tax delinquency
+PROPOSED BY: Senator Carla J. Joseph
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 20 Virgin Islands Code, part II, chapter 45 is amended by adding the
+3 following new section 556:
+4 “§ 556. Suspension of Driver's License for Tax Delinquency
+5 (a) Whenever a taxpayer is delinquent in the payment of any taxes owed to the
+6 Virgin Islands Bureau of Internal Revenue (“BIR”), the BIR shall issue a written notice
+7 to the taxpayer, stating the amount owed and providing the taxpayer 60 days to remit
+8 payment in full or establish an approved payment plan with the BIR.
+9 (b) If the taxpayer fails to resolve the delinquency within the 60-day period, the
+10 BIR shall notify the Virgin Islands Bureau of Motor Vehicles (BMV) of the taxpayer's
+11 delinquency.
+12 (c) Upon receiving notice of the taxpayer's delinquency from the BIR, the BMV
+13 shall:
+2
+1 (1) Issue a notice to the taxpayer, informing them of the impending
+2 suspension of their driver's license unless full payment of the delinquent taxes is
+3 made, or an approved payment plan is established with the BIR within 15 days of
+4 the BMV’s notice; and
+5 (2) Proceed with the suspension of the driver's license if the taxpayer fails
+6 to resolve the delinquency within the 15-day period.
+7 (d) A taxpayer whose driver's license has been suspended pursuant to this section
+8 may have their license reinstated upon full payment of the delinquent taxes or entering
+9 an approved payment plan with the BIR.
+10 (e) All notices issued by the BIR and BMV under this section must be sent by
+11 certified mail to the taxpayer’s last known address.”
+12 SECTION 2. This act shall take effect 30 days after its enactment.
+13 BILL SUMMARY
+14 This bill amends Title 20, Chapter 45 of the Virgin Islands Code to address driver's
+15 license suspensions for tax delinquency by requiring the Virgin Islands Bureau of Internal
+16 Revenue (BIR) to issue a notice to taxpayers with outstanding tax debts, granting them 60 days
+17 to pay or enter a payment plan. If the taxpayer fails to act within this period, the BIR will
+18 notify the Bureau of Motor Vehicles (BMV), which will then send a final notice. If payment
+19 is not made within 15 days, the BMV will suspend the taxpayer’s driver’s license. Licenses
+20 may be reinstated once the delinquency is resolved, or a payment plan is established.
+21 BR25-0330/March 7, 2025/KEH
+[DELETED:  3 cS W I U]
+[DELETED:  I a n t t t i t o t i P A A]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON HOMELAND SECURITY, JUSTICE AND
+PUBLIC SAFETY
+BILL NO. 36-0059
+Thirty-Sixth Legislature of the Virgin Islands
+March 28, 2025
+An Act amending title 20 Virgin Islands Code, chapter 45 to establish the suspension of driver's
+licenses for tax delinquency
+PROPOSED BY: Senator Carla J. Joseph
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 20 Virgin Islands Code, part II, chapter 45 is amended by adding the
+3 following new section 556:
+4 “§ 556. Suspension of Driver's License for Tax Delinquency
+5 (a) Whenever a taxpayer is delinquent in the payment of any taxes owed to the
+6 Virgin Islands Bureau of Internal Revenue (“BIR”), the BIR shall issue a written notice
+7 to the taxpayer, stating the amount owed and providing the taxpayer 60 days to remit
+8 payment in full or establish an approved payment plan with the BIR.
+9 (b) If the taxpayer fails to resolve the delinquency within the 60-day period, the
+10 BIR shall notify the Virgin Islands Bureau of Motor Vehicles (BMV) of the taxpayer's
+11 delinquency.
+12 (c) Upon receiving notice of the taxpayer's delinquency from the BIR, the BMV
+13 shall:
+
+2
+1 (1) Issue a notice to the taxpayer, informing them of the impending
+2 suspension of their driver's license unless full payment of the delinquent taxes is
+3 made, or an approved payment plan is established with the BIR within 15 days of
+4 the BMV’s notice; and
+5 (2) Proceed with the suspension of the driver's license if the taxpayer fails
+6 to resolve the delinquency within the 15-day period.
+7 (d) A taxpayer whose driver's license has been suspended pursuant to this section
+8 may have their license reinstated upon full payment of the delinquent taxes or entering
+9 an approved payment plan with the BIR.
+10 (e) All notices issued by the BIR and BMV under this section must be sent by
+11 certified mail to the taxpayer’s last known address.”
+12 SECTION 2. This act shall take effect 30 days after its enactment.
+13 BILL SUMMARY
+14 This bill amends Title 20, Chapter 45 of the Virgin Islands Code to address driver's
+15 license suspensions for tax delinquency by requiring the Virgin Islands Bureau of Internal
+16 Revenue (BIR) to issue a notice to taxpayers with outstanding tax debts, granting them 60 days
+17 to pay or enter a payment plan. If the taxpayer fails to act within this period, the BIR will
+18 notify the Bureau of Motor Vehicles (BMV), which will then send a final notice. If payment
+19 is not made within 15 days, the BMV will suspend the taxpayer’s driver’s license. Licenses
+20 may be reinstated once the delinquency is resolved, or a payment plan is established.
+21 BR25-0330/March 7, 2025/KEH
+
+[DELETED:  3 cS W I U]
+[DELETED:  I a n t t t i t o t i P A A]

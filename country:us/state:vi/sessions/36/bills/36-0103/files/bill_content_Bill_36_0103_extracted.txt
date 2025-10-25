@@ -1,0 +1,143 @@
+Title: BILL NO. 36-0103
+Official Title: BILL NO. 36-0103
+Number of Sections: 1
+Source: versions - Bill 36-0103
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON GOVERNMENT OPERATIONS, VETERANS
+AFFAIRS AND CONSUMER PROTECTION
+Thirty-Sixth Legislature of the Virgin Islands
+June 24, 2025
+An act amending title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 by reducing
+the percentages used to calculate post-service retirement annuities for the Governor and
+Lieutenant Governor and by establishing a minimum retirement age
+PROPOSED BY: Senator Alma Francis Heyliger
+1 WHEREAS, the Governor and Lieutenant Governor of the Virgin Islands currently
+2 qualify for 40% of their salary as a lifetime annuity after serving one full term and 80% after
+3 two terms;
+4 WHEREAS, these percentages far exceed what most career government employees
+5 receive in retirement after decades of service, creating a disparity in benefits;
+6 WHEREAS, the lifetime pension awarded after as few as four or eight years of service,
+7 particularly at current executive salary levels, creates a disproportionate and unsustainable
+8 liability for the Government Employees' Retirement System (“GERS”);
+9 WHEREAS, the Virgin Islands Government is facing severe fiscal pressures, including
+10 GERS unfunded liabilities that threaten the stability of pensions for long-term public servants;
+11 and
+2
+1 WHEREAS, best practices across United States jurisdictions show that many states offer
+2 defined-contribution plans or deferred benefits rather than full pensions for high-level elected
+3 officials; and
+4 WHEREAS, it is the intent of the Legislature of the Virgin Islands to promote equity,
+5 sustainability, and public confidence in the fairness of government compensation practices;
+6 Now, Therefore,
+7 Be it enacted by the Legislature of the Virgin Islands:
+8 SECTION 1. Title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080,
+9 subsection (f) amended as follows:
+10 (a) in the introductory phrase of subsection (f) by striking “[N]otwithstanding his age,”
+11 (b) in subsection (f)(a) by striking "40%" and inserting "30%";
+12 (c) in subsection (f)(b) by striking "80%" and inserting "60%"; and
+13 (d) by striking subsection (f)(c), and inserting the following new subsection(f)(3):
+14 “(f)(3) A person elected as Governor or Lieutenant Governor is not eligible to
+15 receive a retirement annuity under this section unless that person has completed not less
+16 than four consecutive years as Governor or Lieutenant Governor and has attained the age
+17 of 55.”;
+18 (e) by striking “(f)(a)” and “(f)(b)” and inserting “(f)(1)” and “(f)(2)”, respectively.
+19 (f) by striking the last sentence of subsection (f), which reads: “[I]in the event an
+20 elected Governor or Lieutenant Governor resigns from office due to illness with one-half or
+21 less of his term remaining, for the purposes of this section only, he shall be considered to have
+22 completed the term.” and inserting the following subsection (d):
+23 “(d) If either an elected Governor or Lieutenant Governor resigns from office
+24 because of illness during their first term, the person shall receive 7.5% of their salary for
+25 each year served, irrespective of whether the year is completed, limiting the maximum
+3
+1 potential retirement annuity to not more than 30% of their salary. If either an elected
+2 Governor or Lieutenant Governor resigns because of illness during their second term, the
+3 person shall receive 15% of their salary for each year served, irrespective of whether the
+4 year is completed, limiting the maximum potential retirement annuity to not more than
+5 60% of their salary.”
+6 BILL SUMMARY
+7 This bill amends title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 by
+8 reducing the percentages used to calculate the retirement annuity for the Governor and
+9 Lieutenant Governor and by establishing a minimum retirement age for Governor and
+10 Lieutenant Governor and establishes the formular to calculate the retirement annuity when the
+11 Governor or Lieutenant Governor resigns because of illness before the completion of their
+12 term.
+13 BR25-0342/June 3, 2025/SLR
+[DELETED:  3 p u t c p r a f t G a S t G a L G o V I c t p f e w m c g e]
+[DELETED:  1  T 3 V I C s 3 c 1 s 3 i i i b A b b I]
+[DELETED:  t p u t c t r a f t G a G a b e a m r a f G a]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON GOVERNMENT OPERATIONS, VETERANS
+AFFAIRS AND CONSUMER PROTECTION
+BILL NO. 36-0103
+Thirty-Sixth Legislature of the Virgin Islands
+June 24, 2025
+An act amending title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 by reducing
+the percentages used to calculate post-service retirement annuities for the Governor and
+Lieutenant Governor and by establishing a minimum retirement age
+PROPOSED BY: Senator Alma Francis Heyliger
+1 WHEREAS, the Governor and Lieutenant Governor of the Virgin Islands currently
+2 qualify for 40% of their salary as a lifetime annuity after serving one full term and 80% after
+3 two terms;
+4 WHEREAS, these percentages far exceed what most career government employees
+5 receive in retirement after decades of service, creating a disparity in benefits;
+6 WHEREAS, the lifetime pension awarded after as few as four or eight years of service,
+7 particularly at current executive salary levels, creates a disproportionate and unsustainable
+8 liability for the Government Employees' Retirement System (“GERS”);
+9 WHEREAS, the Virgin Islands Government is facing severe fiscal pressures, including
+10 GERS unfunded liabilities that threaten the stability of pensions for long-term public servants;
+11 and
+
+2
+1 WHEREAS, best practices across United States jurisdictions show that many states offer
+2 defined-contribution plans or deferred benefits rather than full pensions for high-level elected
+3 officials; and
+4 WHEREAS, it is the intent of the Legislature of the Virgin Islands to promote equity,
+5 sustainability, and public confidence in the fairness of government compensation practices;
+6 Now, Therefore,
+7 Be it enacted by the Legislature of the Virgin Islands:
+8 SECTION 1. Title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080,
+9 subsection (f) amended as follows:
+10 (a) in the introductory phrase of subsection (f) by striking “[N]otwithstanding his age,”
+11 (b) in subsection (f)(a) by striking "40%" and inserting "30%";
+12 (c) in subsection (f)(b) by striking "80%" and inserting "60%"; and
+13 (d) by striking subsection (f)(c), and inserting the following new subsection(f)(3):
+14 “(f)(3) A person elected as Governor or Lieutenant Governor is not eligible to
+15 receive a retirement annuity under this section unless that person has completed not less
+16 than four consecutive years as Governor or Lieutenant Governor and has attained the age
+17 of 55.”;
+18 (e) by striking “(f)(a)” and “(f)(b)” and inserting “(f)(1)” and “(f)(2)”, respectively.
+19 (f) by striking the last sentence of subsection (f), which reads: “[I]in the event an
+20 elected Governor or Lieutenant Governor resigns from office due to illness with one-half or
+21 less of his term remaining, for the purposes of this section only, he shall be considered to have
+22 completed the term.” and inserting the following subsection (d):
+23 “(d) If either an elected Governor or Lieutenant Governor resigns from office
+24 because of illness during their first term, the person shall receive 7.5% of their salary for
+25 each year served, irrespective of whether the year is completed, limiting the maximum
+
+3
+1 potential retirement annuity to not more than 30% of their salary. If either an elected
+2 Governor or Lieutenant Governor resigns because of illness during their second term, the
+3 person shall receive 15% of their salary for each year served, irrespective of whether the
+4 year is completed, limiting the maximum potential retirement annuity to not more than
+5 60% of their salary.”
+6 BILL SUMMARY
+7 This bill amends title 33 Virgin Islands Code, subtitle 3, chapter 111, section 3080 by
+8 reducing the percentages used to calculate the retirement annuity for the Governor and
+9 Lieutenant Governor and by establishing a minimum retirement age for Governor and
+10 Lieutenant Governor and establishes the formular to calculate the retirement annuity when the
+11 Governor or Lieutenant Governor resigns because of illness before the completion of their
+12 term.
+13 BR25-0342/June 3, 2025/SLR
+
+[DELETED:  3 p u t c p r a f t G a S t G a L G o V I c t p f e w m c g e]
+[DELETED:  1  T 3 V I C s 3 c 1 s 3 i i i b A b b I]
+[DELETED:  t p u t c t r a f t G a G a b e a m r a f G a]

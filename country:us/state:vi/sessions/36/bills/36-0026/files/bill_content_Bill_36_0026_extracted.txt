@@ -1,0 +1,298 @@
+Title: BILL NO. 36-0026
+Official Title: BILL NO. 36-0026
+Number of Sections: 1
+Source: versions - Bill 36-0026
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON GOVERNMENT OPERATIONS, VETERANS
+AFFAIRS AND CONSUMER PROTECTION
+05/20/2025-HELD IN COMMITTEE
+Thirty-Sixth Legislature of the Virgin Islands
+February 27, 2025
+An Act amending title 23 Virgin Islands Code, chapter 10, by adding a subchapter VI to
+establish the “Virgin Islands Meteorological Office” within the Virgin Islands Territorial
+Emergency Management Agency
+PROPOSED BY: Senator Ray Fonseca
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 23 Virgin Islands Code, chapter 10 is amended by adding the
+3 following subchapter VI:
+4 “Subchapter VI. Virgin Islands Meteorological Office
+5 § 1088. Meteorological Office purpose and establishment
+6 (a) The purpose of this subchapter is to establish the Virgin Islands Meteorological
+7 Office to monitor weather conditions, provide accurate forecasts, establish a Doppler Weather
+8 Radar Station in St. Croix, and enhance preparedness and response to weather-related hazards
+9 in the Territory.
+10 (b) There is established the Virgin Islands Meteorological Office, ("Meteorological
+11 Office" or “Office”) that operates within the Virgin Islands Territorial Emergency Management
+2
+1 Agency (“VITEMA”) and is responsible for accurate weather data collection and reporting,
+2 monitoring and forecasting weather conditions, and reporting on climate patterns and
+3 atmospheric phenomena.
+4 (c) The Meteorological Office is headed by a Meteorologist hired by the Director of
+5 VITEMA. The meteorologist may hire a meteorologist assistant, executive assistant, and other
+6 support staff that are necessary to carry out the duties and responsibilities of the Office. The
+7 Director of VITEMA is responsible for overseeing the operations of the Meteorological Office
+8 and insuring the implementation of the provisions of this subchapter.
+9 § 1088a. Definitions
+10 As used throughout this subchapter:
+11 (1) “Agency” means the Virgin Islands Territorial Emergency Management Agency.
+12 (2) “Atmospheric Scientist” means a person who studies the climate, weather, and
+13 atmospheric conditions in the past and present, and a more likely to study ancient data.
+14 Atmospheric sciences are traditionally divided into three topical areas, meteorology,
+15 climatology and aeronomy.
+16 (3) “Meteorologist” means a scientist who studies the atmosphere and its phenomena,
+17 including weather and climate, and who investigates long-term climate trends and the impact
+18 on human populations.
+19 (4) “Meteorological Assistant” means a professional who supports a meteorologist
+20 or atmospheric scientist in various tasks related to the study and analysis of weather and climate
+21 patterns and whose responsibilities may include collecting and analyzing weather data,
+22 operating meteorological instruments, assisting with research projects, preparing weather
+23 forecasts or reports, and maintaining meteorological databases.
+3
+1 (5) “Executive Assistant” means a support staff who provides high-level
+2 administrative support to senior personnel, managing schedules, correspondence, meetings,
+3 and special projects, ensuring smooth office operations, and enhancing management
+4 productivity.
+5 § 1088b. Duties and Responsibilities
+6 The Meteorological Office must be located on St. Croix, function territorially, and has
+7 the following duties and responsibilities:
+8 (1) monitor weather conditions and collect data from various sources, including
+9 weather stations, satellites, radar systems, and buoys;
+10 (2) measure parameters such as temperature, humidity, wind speed, air pressure,
+11 precipitation, and cloud cover; monitor factors like sea surface temperatures and greenhouse
+12 gas concentrations; use advanced numerical weather models to simulate atmospheric processes
+13 and predict weather conditions;
+14 (3) maintain and operate weather observation stations, radar systems, satellite
+15 receivers, and other necessary equipment to support meteorological operations;
+16 (4) conduct research and analysis to improve understanding of local weather patterns,
+17 enhance forecasting capabilities and inform policies related to climate change mitigation and
+18 adaptation;
+19 (5) collaborate with national meteorological agencies, research institutions, and other
+20 relevant organizations to share data, expertise, and resources;
+21 (6) provide training and education programs on meteorology, weather hazards, and
+22 preparedness measures for government personnel, emergency responders, and the public;
+4
+1 (7) develop and disseminate weather forecasts, timely warnings and advisories to the
+2 public, government agencies, and relevant stakeholders;
+3 (8) coordinate with relevant agencies, including, but not limited to emergency
+4 management agencies, disaster response organizations, and environmental protection agencies,
+5 to support integrated approaches to weather-related preparedness and response efforts; and
+6 (9) perform other functions necessary to fulfill its duties and responsibilities and
+7 employ best practices to improve weather prediction and climate understanding.
+8 § 1088c. Funding
+9 In addition to funding from the Government of the Virgin Islands, the Office may obtain
+10 additional funding through grants, donations, or other sources.
+11 SECTION 3. Not later than 60 days after the enactment of this act, the Virgin Islands
+12 Territorial Emergency Management Agency shall promulgate regulations to ensure the
+13 effective operations of the Meteorological Office.
+14 SECTION 4. (a) The Virgin Islands Meteorological Office, in collaboration with
+15 relevant government departments, shall conduct a comprehensive needs assessment to evaluate
+16 the necessity and feasibility of establishing a Doppler radar weather station on the east end of
+17 St. Croix. Based on this assessment, the Office shall develop a formal proposal outlining the
+18 purpose, benefits, and technical specifications of the Doppler radar station.
+19 (b) The Office must engage with federal agencies, such as the National Oceanic and
+20 Atmospheric Administration and National Weather Service to discuss the proposal and seek
+21 assistance in identifying suitable locations and setting up the Doppler weather station on the
+22 east end of St. Croix. This process must involve contacting regional offices or liaising with
+23 relevant program managers responsible for radar operations and deployment.
+5
+1 (c) The Office must collaborate with federal agencies to secure funding and resources
+2 for the procurement, installation, and operation of the Doppler weather station, which may
+3 involve exploring grant opportunities, cooperative agreements, or cost-sharing arrangements
+4 between the Office and federal agencies.
+5 (d) The Virgin Islands Territorial Emergency Management Agency, in collaboration
+6 with federal technicians and engineers, shall oversee the procurement, installation, calibration,
+7 and testing of the Doppler radar equipment at the selected site on St. Croix.
+8 (e) Virgin Islands Territorial Emergency Management Agency shall provide training
+9 to the Meteorological Office for local meteorological staff and technicians on the operation,
+10 maintenance, and data analysis procedures associated with the Doppler weather station, which
+11 will enhance local capacity to effectively utilize radar data for weather forecasting, research,
+12 and decision-making.
+13 (f) The Meteorological Office, through VITEMA, shall establish protocols for sharing
+14 Doppler radar data collected from the station with federal agencies, as well as other relevant
+15 stakeholders.
+16 (g) The Meteorological Office shall conduct outreach activities to raise awareness
+17 among the public, media, and local communities about the benefits of the Doppler radar
+18 weather station in St. Croix.
+19 (h) The Meteorological Office shall maintain regular communication and collaboration
+20 with federal agencies to ensure the continued operation, maintenance, and upgrade of the
+21 Doppler radar weather.
+6
+1 (i) The Virgin Islands Territorial Emergency Management Agency shall monitor
+2 performance metrics and address any technical issues or operational challenges in a timely
+3 manner to sustain the effectiveness of the radar system.
+4 BILL SUMMARY
+5 Section one of the bill amends title 23 Virgin Islands Code, chapter 10 by adding a new
+6 subchapter VI to establish the “Virgin Islands Meteorological Office” within the VITEMA;
+7 provides for staffing of the office with a Meteorologist and support staff.; and delineates the
+8 duties and responsibilities of the office. Section two provides the funding source for the
+9 Meteorological Office. Section three requires VITEMA to promulgate rules within 60 days of
+10 enactment of this bill. Section four requires that the Meteorological Office to collaborate with
+11 relevant government departments to conduct a comprehensive study to evaluate the necessity
+12 and feasibility of establishing a Doppler radar weather station on the east end of St. Croix;
+13 engage federal agencies to identify suitable locations to set up the Doppler radar weather
+14 station; secure funding and resources for the procurement, installment and operation of the
+15 Doppler radar weather station; provide training for staff to enhance local capacity; establish
+16 protocols for data sharing and conduct public education and awareness about the benefits of
+17 Doppler radar weather station in St. Croix.
+18 BR25-0247/February 24, 2025/NS
+[DELETED:  3 t “ I M O w t V I T S 1  T 2 V I C c 1 i a b a t)T)T]
+[DELETED:  a f w c a r o c p a)T)“)“ c i t p a p a a m l t s a d s a t d i t t a m)“)“ a w r m i c a a w d m i a w r p p w]
+[DELETED: )“ A m a s s w p h s p e s o o a e m m w c a c d f v s i m p s a t h w s a p m a o w o s r s s c c p]
+[DELETED:  d c w r a i b n l t e p o f n t f i d a r a E M A s p r t e t 4  ( T V I M O i c w T]
+[DELETED:  T T V T T M O s c o a t r a t p m a l c a t b o t D r T f a t e t c o m a u o]
+[DELETED:  T V I T E M A s m a r o o  S t p t f s f t f]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON GOVERNMENT OPERATIONS, VETERANS
+AFFAIRS AND CONSUMER PROTECTION
+05/20/2025-HELD IN COMMITTEE
+BILL NO. 36-0026
+Thirty-Sixth Legislature of the Virgin Islands
+February 27, 2025
+An Act amending title 23 Virgin Islands Code, chapter 10, by adding a subchapter VI to
+establish the “Virgin Islands Meteorological Office” within the Virgin Islands Territorial
+Emergency Management Agency
+PROPOSED BY: Senator Ray Fonseca
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 23 Virgin Islands Code, chapter 10 is amended by adding the
+3 following subchapter VI:
+4 “Subchapter VI. Virgin Islands Meteorological Office
+5 § 1088. Meteorological Office purpose and establishment
+6 (a) The purpose of this subchapter is to establish the Virgin Islands Meteorological
+7 Office to monitor weather conditions, provide accurate forecasts, establish a Doppler Weather
+8 Radar Station in St. Croix, and enhance preparedness and response to weather-related hazards
+9 in the Territory.
+10 (b) There is established the Virgin Islands Meteorological Office, ("Meteorological
+11 Office" or “Office”) that operates within the Virgin Islands Territorial Emergency Management
+
+2
+1 Agency (“VITEMA”) and is responsible for accurate weather data collection and reporting,
+2 monitoring and forecasting weather conditions, and reporting on climate patterns and
+3 atmospheric phenomena.
+4 (c) The Meteorological Office is headed by a Meteorologist hired by the Director of
+5 VITEMA. The meteorologist may hire a meteorologist assistant, executive assistant, and other
+6 support staff that are necessary to carry out the duties and responsibilities of the Office. The
+7 Director of VITEMA is responsible for overseeing the operations of the Meteorological Office
+8 and insuring the implementation of the provisions of this subchapter.
+9 § 1088a. Definitions
+10 As used throughout this subchapter:
+11 (1) “Agency” means the Virgin Islands Territorial Emergency Management Agency.
+12 (2) “Atmospheric Scientist” means a person who studies the climate, weather, and
+13 atmospheric conditions in the past and present, and a more likely to study ancient data.
+14 Atmospheric sciences are traditionally divided into three topical areas, meteorology,
+15 climatology and aeronomy.
+16 (3) “Meteorologist” means a scientist who studies the atmosphere and its phenomena,
+17 including weather and climate, and who investigates long-term climate trends and the impact
+18 on human populations.
+19 (4) “Meteorological Assistant” means a professional who supports a meteorologist
+20 or atmospheric scientist in various tasks related to the study and analysis of weather and climate
+21 patterns and whose responsibilities may include collecting and analyzing weather data,
+22 operating meteorological instruments, assisting with research projects, preparing weather
+23 forecasts or reports, and maintaining meteorological databases.
+
+3
+1 (5) “Executive Assistant” means a support staff who provides high-level
+2 administrative support to senior personnel, managing schedules, correspondence, meetings,
+3 and special projects, ensuring smooth office operations, and enhancing management
+4 productivity.
+5 § 1088b. Duties and Responsibilities
+6 The Meteorological Office must be located on St. Croix, function territorially, and has
+7 the following duties and responsibilities:
+8 (1) monitor weather conditions and collect data from various sources, including
+9 weather stations, satellites, radar systems, and buoys;
+10 (2) measure parameters such as temperature, humidity, wind speed, air pressure,
+11 precipitation, and cloud cover; monitor factors like sea surface temperatures and greenhouse
+12 gas concentrations; use advanced numerical weather models to simulate atmospheric processes
+13 and predict weather conditions;
+14 (3) maintain and operate weather observation stations, radar systems, satellite
+15 receivers, and other necessary equipment to support meteorological operations;
+16 (4) conduct research and analysis to improve understanding of local weather patterns,
+17 enhance forecasting capabilities and inform policies related to climate change mitigation and
+18 adaptation;
+19 (5) collaborate with national meteorological agencies, research institutions, and other
+20 relevant organizations to share data, expertise, and resources;
+21 (6) provide training and education programs on meteorology, weather hazards, and
+22 preparedness measures for government personnel, emergency responders, and the public;
+
+4
+1 (7) develop and disseminate weather forecasts, timely warnings and advisories to the
+2 public, government agencies, and relevant stakeholders;
+3 (8) coordinate with relevant agencies, including, but not limited to emergency
+4 management agencies, disaster response organizations, and environmental protection agencies,
+5 to support integrated approaches to weather-related preparedness and response efforts; and
+6 (9) perform other functions necessary to fulfill its duties and responsibilities and
+7 employ best practices to improve weather prediction and climate understanding.
+8 § 1088c. Funding
+9 In addition to funding from the Government of the Virgin Islands, the Office may obtain
+10 additional funding through grants, donations, or other sources.
+11 SECTION 3. Not later than 60 days after the enactment of this act, the Virgin Islands
+12 Territorial Emergency Management Agency shall promulgate regulations to ensure the
+13 effective operations of the Meteorological Office.
+14 SECTION 4. (a) The Virgin Islands Meteorological Office, in collaboration with
+15 relevant government departments, shall conduct a comprehensive needs assessment to evaluate
+16 the necessity and feasibility of establishing a Doppler radar weather station on the east end of
+17 St. Croix. Based on this assessment, the Office shall develop a formal proposal outlining the
+18 purpose, benefits, and technical specifications of the Doppler radar station.
+19 (b) The Office must engage with federal agencies, such as the National Oceanic and
+20 Atmospheric Administration and National Weather Service to discuss the proposal and seek
+21 assistance in identifying suitable locations and setting up the Doppler weather station on the
+22 east end of St. Croix. This process must involve contacting regional offices or liaising with
+23 relevant program managers responsible for radar operations and deployment.
+
+5
+1 (c) The Office must collaborate with federal agencies to secure funding and resources
+2 for the procurement, installation, and operation of the Doppler weather station, which may
+3 involve exploring grant opportunities, cooperative agreements, or cost-sharing arrangements
+4 between the Office and federal agencies.
+5 (d) The Virgin Islands Territorial Emergency Management Agency, in collaboration
+6 with federal technicians and engineers, shall oversee the procurement, installation, calibration,
+7 and testing of the Doppler radar equipment at the selected site on St. Croix.
+8 (e) Virgin Islands Territorial Emergency Management Agency shall provide training
+9 to the Meteorological Office for local meteorological staff and technicians on the operation,
+10 maintenance, and data analysis procedures associated with the Doppler weather station, which
+11 will enhance local capacity to effectively utilize radar data for weather forecasting, research,
+12 and decision-making.
+13 (f) The Meteorological Office, through VITEMA, shall establish protocols for sharing
+14 Doppler radar data collected from the station with federal agencies, as well as other relevant
+15 stakeholders.
+16 (g) The Meteorological Office shall conduct outreach activities to raise awareness
+17 among the public, media, and local communities about the benefits of the Doppler radar
+18 weather station in St. Croix.
+19 (h) The Meteorological Office shall maintain regular communication and collaboration
+20 with federal agencies to ensure the continued operation, maintenance, and upgrade of the
+21 Doppler radar weather.
+
+6
+1 (i) The Virgin Islands Territorial Emergency Management Agency shall monitor
+2 performance metrics and address any technical issues or operational challenges in a timely
+3 manner to sustain the effectiveness of the radar system.
+4 BILL SUMMARY
+5 Section one of the bill amends title 23 Virgin Islands Code, chapter 10 by adding a new
+6 subchapter VI to establish the “Virgin Islands Meteorological Office” within the VITEMA;
+7 provides for staffing of the office with a Meteorologist and support staff.; and delineates the
+8 duties and responsibilities of the office. Section two provides the funding source for the
+9 Meteorological Office. Section three requires VITEMA to promulgate rules within 60 days of
+10 enactment of this bill. Section four requires that the Meteorological Office to collaborate with
+11 relevant government departments to conduct a comprehensive study to evaluate the necessity
+12 and feasibility of establishing a Doppler radar weather station on the east end of St. Croix;
+13 engage federal agencies to identify suitable locations to set up the Doppler radar weather
+14 station; secure funding and resources for the procurement, installment and operation of the
+15 Doppler radar weather station; provide training for staff to enhance local capacity; establish
+16 protocols for data sharing and conduct public education and awareness about the benefits of
+17 Doppler radar weather station in St. Croix.
+18 BR25-0247/February 24, 2025/NS
+
+[DELETED:  3 t “ I M O w t V I T S 1  T 2 V I C c 1 i a b a t)T)T]
+[DELETED:  a f w c a r o c p a)T)“)“ c i t p a p a a m l t s a d s a t d i t t a m)“)“ a w r m i c a a w d m i a w r p p w]
+[DELETED: )“ A m a s s w p h s p e s o o a e m m w c a c d f v s i m p s a t h w s a p m a o w o s r s s c c p]
+[DELETED:  d c w r a i b n l t e p o f n t f i d a r a E M A s p r t e t 4  ( T V I M O i c w T]
+[DELETED:  T T V T T M O s c o a t r a t p m a l c a t b o t D r T f a t e t c o m a u o]
+[DELETED:  T V I T E M A s m a r o o  S t p t f s f t f]

@@ -1,0 +1,567 @@
+Title: 10/09/2025-REASSIGNED TO THE COMMITTEE ON HOMELAND SECURITY, JUSTICE AND
+Official Title: 10/09/2025-REASSIGNED TO THE COMMITTEE ON HOMELAND SECURITY, JUSTICE AND
+Number of Sections: 1
+Source: versions - Bill 36-0144
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON HOMELAND SECURITY, JUSTICE AND
+PUBLIC SAFETY
+PUBLIC SAFETY
+09/04/2025-AMENDED AND REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+BILL NO. 36-0144
+Thirty-Sixth Legislature of the Virgin Islands
+August 26, 2025
+An act amending title 14 Virgin Islands Code, chapter 113 to define and prohibit assault rifles,
+ban suppressors and silencers, require safety training for licensed rifles and shotgun holders;
+prohibit large-capacity magazines and prevent the illegal sales of firearms, firearm accessories
+and ammunition
+PROPOSED BY: Senators Clifford A. Joseph, Sr. and Marise C. James
+1 WHEREAS, the Legislature of the Virgin Islands finds that public safety in the Territory
+2 is threatened due to the proliferation of firearms designed for military or tactical use that are
+3 capable of delivering rifle-caliber firepower from concealable platforms;
+4 WHEREAS, firearms such as the Sig Sauer MCX pistol, the Daniel Defense DDM4
+5 PDW, CCMG Dissent MK4, Smith & Wesson M&P 15 and similarly configured weapons pose
+6 a distinct threat to law enforcement and the public, particularly due to their concealability,
+7 armor-piercing potential, and compatibility with suppressors, rifle scopes, and military-grade
+8 accessories; and
+2
+1 WHEREAS, these weapons serve no legitimate civilian purpose for self-defense or sport
+2 and are commonly used in criminal activity. Accordingly, their possession and use present an
+3 unacceptable risk to public safety and must be prohibited; Now, therefore
+4 Be it enacted by the Legislature of the Virgin Islands:
+5 SECTION 1. Title 14 Virgin Islands Code, Chapter 113 is amended by adding the
+6 following new section 2253a:
+7 “§2253a. Tactical Pistol-Style Firearms and Variants
+8 (1) Definitions
+9 As used in this section-
+10 (a) “ammunition feeding device” means a magazine, box, drum, tube, belt, feed strip
+11 or device that is capable of holding ammunition to be fed continuously and directly therefrom
+12 into a semi-automatic firearm. It does not include an attached tubular device which is capable
+13 of holding only .22 caliber rimfire ammunition.
+14 (b) “detachable magazine” means an ammunition feeding device that attaches to a
+15 firearm, and which can be removed without disassembly of the firearm, including an
+16 ammunition feeding device that may be readily removed from a firearm with the use of a bullet,
+17 cartridge, accessory, or other tool, or any other object that functions as a tool.
+18 (c) “federally licensed firearm dealer” means a person who holds a valid federal
+19 firearm dealers license pursuant to 18 U.S.C. § 923(a).
+20 (d) “firearm accessory” means an attachment or device designed or adapted to be
+21 inserted into, affixed onto, or used in conjunction with a firearm, and which is designed,
+22 intended, or functions to alter or enhance the firing capabilities of a firearm, the lethality of the
+23 firearm, or a shooter’s ability to hold and use a firearm.
+3
+1 (e) “fixed magazine” means an ammunition feeding device that is permanently fixed
+2 to the firearm in such a manner that it cannot be removed without disassembly of the firearm,
+3 or contained in and not removable from a firearm, or that is otherwise not a detachable
+4 magazine, but does not include an attached tubular device designed to accept, and capable of
+5 operating only with .22 caliber rimfire ammunition.
+6 (f) “folding or telescoping stock” means a stock that folds, telescopes, detaches or
+7 otherwise operates to reduce the length, size, or any other dimension, or otherwise enhances
+8 the concealability of a firearm.
+9 (g) “forward grip” means the grip or handle located forward of the trigger.
+10 (h) “grenade launcher” means a device designed to fire, launch or propel a grenade.
+11 (i) “pistol caliber variant” means a semi-automatic firearm originally manufactured as
+12 a pistol that otherwise meets the definition of a prohibited firearm, but is chambered only in a
+13 pistol cartridge.
+14 (j) “pistol grip” means a well-defined handle, similar to that found on a handgun, that
+15 protrudes conspicuously beneath the action of the weapon, and which permits the firearm to be
+16 held and fired with one hand.
+17 (k) "semi-automatic" means a firearm which fires a single projectile for each single
+18 pull of the trigger and is self-reloading or automatically chambers a round, cartridge, or bullet.
+19 (l) “similar weapon” means any firearm that is substantially similar in function,
+20 configuration, or tactical capability to the Sig Sauer MCX pistol, the Daniel Defense DDM
+21 PDW, or any variant thereof; or any firearm meeting the description in subsection (2)(a)
+22 regardless of name, model or manufacturer.
+4
+1 (m) “Threaded barrel” means threads on the muzzle end of a barrel and shall include,
+2 but not be limited to, any barrel on which a flash suppressor, muzzle brake or silencer has been
+3 attached.
+4 (2) Prohibited Firearms for Concealed Carry
+5 (a) “Prohibited Firearms” means any firearm that:
+6 1. was originally manufactured or designed as a pistol;
+7 2. is chambered in a rifle-caliber cartridge, including but not limited to .300 AAC
+8 Blackout, 5.56mm NATO, .223 Remington or 7.62x39mm amunition;
+9 3. has a barrel length of less than sixteen (16) inches; and
+10 4. incorporates one or more of the following features:
+11 (i) an arm brace, stabilizing brace, or buffer tube system designed to be
+12 shouldered;
+13 (ii) a rail-mounted foregrip or hand stop;
+14 (iii) a muzzle device such as a flash suppressor or suppressor-ready thread;
+15 (iv) a mounting system capable of accepting military-grade optics, rifle
+16 scopes, or other rifle-style aiming devices.
+17 (3) Prohibitions and Penalties
+18 No person shall manufacture, sell, offer to sell, transfer, or purchase a prohibited firearm,
+19 except as otherwise authorized under this section. Any person convicted of violating this
+20 subsection shall be imprisoned for not more than ten years, or by a fine up to ten thousand
+21 dollars, and the prohibited firearm shall be subject to forfeiture.
+22 (4) Mandatory Surrender
+23 (a) Any person in possession of a prohibited firearm or similar weapon on the effective
+24 date of this section shall, within 90 days:
+5
+1 (1) surrender the firearm to the Virgin Islands Police Department (“VIPD”) for
+2 destruction; or
+3 (2) transfer the firearm off-island through a federally licensed firearms dealer;
+4 and
+5 (3) surrender any firearm license issued for the firearm to VIPD for immediate
+6 revocation.
+7 (b) No compensation shall be owed to persons who surrender firearms or licenses.
+8 (c) The following limited exceptions to subsection (a) of this section shall apply:
+9 (1) A person who lawfully possesses a prohibited firearm may sell, offer to sell,
+10 or transfer the prohibited firearm to a federally licensed firearm dealer, or to an individual
+11 outside the state who may lawfully possess such weapon.
+12 (2) A federally licensed firearm dealer may sell, offer to sell, or transfer a
+13 prohibited firearm to another federally licensed firearm dealer, or to a law enforcement
+14 entity identified in subsection (c)(3) of this section, or to an individual outside the state
+15 who may lawfully possess such weapon.
+16 (3) A law enforcement agency, acting under authority of the United States or the
+17 territorial government may import or purchase a prohibited firearm and may lawfully sell,
+18 offer to sell, or transfer a prohibited firearm to a federally licensed firearm dealer or to an
+19 authorized law enforcement agency.
+20 (5) Limited Exception for Pistol-Caliber Variants
+21 (a) A Pistol-Caliber Variant may be registered and possessed only for home protection
+22 or authorized use at a licensed shooting range.
+23 (b) Transportation of such firearms is prohibited except as expressly authorized by law.
+24 (6) Persons Excepted
+6
+1 This section shall not apply to:
+2 (a) Law enforcement officers acting within the scope of their duties;
+3 (b) Members of the United States Armed Forces or National Guard in active service or
+4 training.
+5 (7) Promulgation of Regulations
+6 The Commissioner of Police shall promulgate regulations within 60 days of the effective
+7 date of this section including:
+8 1. Procedures for surrender and off-island transfer of firearms;
+9 2. Certification of inoperability;
+10 3. Registration standards for Pistol-Caliber Variants.
+11 SECTION 2. Title 14 Virgin Islands Code, chapter 113 is amended by adding the
+12 following new sections 2253b and 2259:
+13 “§2253b. Prohibition on Suppressors and Silencers
+14 (a) It shall be unlawful for any person to possess, manufacture, import, transfer,
+15 transport, sell, offer for sale, or use any firearm suppressor or silencer in the Virgin Islands.
+16 (b) For purposes of this section, a “suppressor” or “silencer” means any device for
+17 silencing, muffling, or diminishing the report of a portable firearm, including the frame or
+18 receiver of any such device, and any part intended for use in assembling or fabricating such a
+19 device.
+20 (c) This section shall not apply to Law Enforcement Officers or agents of the United
+21 States Government acting within the scope of official duties; or members of the United States
+22 Armed Forces or National Guard in connection with lawful military activities.
+23 (d) ATF Authorization Not Recognized
+24 (1) Notwithstanding any federal authorization, including a tax stamp or
+25 registration with the Bureau of Alcohol, Tobacco, Firearms and Explosives (“ATF”), no
+7
+1 person shall possess a suppressor or silencer in the Virgin Islands, except as permitted
+2 under subsection (c).
+3 (2) Any such device found in the Territory shall be deemed contraband and
+4 subject to immediate seizure and destruction.
+5 (e) Penalty Violation of this section shall constitute a felony and shall be punishable
+6 by imprisonment for not more than five years; or a fine not exceeding twenty-five thousand
+7 dollars or both.
+8 §2259. Large-capacity magazines prohibited; Felony; Misdemeanor; Or Civil Violation
+9 (a) For purposes of this section, the term “large-capacity ammunition magazine”
+10 means any magazine, belt, box, drum, tube, or similar device which is capable of holding more
+11 than ten rounds of ammunition.
+12 (b) Except as otherwise provided in this section, it is unlawful for a person to
+13 manufacture, sell, offer for sale, purchase, receive, transfer, or possess a large-capacity
+14 magazine.
+15 (1) A violation of this section which is a first offense which only involves
+16 possession of a large capacity magazine is a civil penalty of $500.
+17 (2) A second violation of this section which only involves possession of a large
+18 capacity magazine is a misdemeanor with a civil penalty fine of $2500.
+19 (3) All other violations of this section, including a subsequent offense involving
+20 only possession of a large capacity magazine, are felonies.
+21 (4) A large-capacity magazine is subject to forfeiture for a violation of this
+22 section.
+23 (5) The Superior Court of the Virgin Islands has exclusive jurisdiction over
+24 violations under this section.
+8
+1 (c) This section does not apply to any of the following:
+2 (1) personnel of the United States government or a unit of the United States
+3 government who are acting within the scope of official business;
+4 (2) members of the Armed Forces of the United States or of the National Guard
+5 who are acting within the scope of official business;
+6 (3) a law-enforcement officer;
+7 (4) a qualified retired law-enforcement officer; or
+8 (5) a licensed firearms dealer who sells a large-capacity magazine to another
+9 licensed firearms dealer or to an individual exempt under paragraphs (1) through (5).
+10 (6) A large-capacity magazine that a person has rendered permanently inoperable
+11 or has permanently modified to accept 10 rounds of ammunition or less.
+12 (d) Subsections (b) and (c) shall not apply to—
+13 (1) A sworn peace officer whether on or off duty; a sworn federal law
+14 enforcement officer who is authorized to carry a firearm in the course and scope of his
+15 duties; or a sworn peace officer who retired in good standing;
+16 (2) Members of the Armed Forces of the United States or the National Guard,
+17 while on duty or traveling to or from an authorized place of duty.
+18 (e) This section does not apply to the following:
+19 (1) A person who manufactures a large-capacity magazine, if the person
+20 manufactures the large-capacity magazine with the intent to sell the large-capacity
+21 magazine, or offers the large-capacity magazine for sale, to a person outside of the
+22 territory;
+23 (2) A person who ships or transports a large-capacity magazine for a person
+24 under paragraph (l) of this subsection.”; and
+9
+1 (3) By redesignating the remaining subsection accordingly.
+2 SECTION 3. Title 23 Virgin Islands Code, chapter 5 is amended as follows:
+3 (a) Section 451, subsection (f) is amended by inserting, “which is designed to, or may
+4 readily be converted or restored to expel a projectile,” after “composition”.;
+5 (b) Adding the following new subsection 454b :
+6 “§ 454b. Safety Training Requirement for Possession of Rifles and Shotguns
+7 (a) Any person who applies for the registration, licensing, or lawful possession of a
+8 rifle or shotgun under this chapter must complete a certified firearms safety course approved
+9 by the VIPD, which includes instruction in:
+10 (1) the safe handling, loading, and storage of rifles and shotguns;
+11 (2) firearm maintenance and secure transportation;
+12 (3) lawful use of force and applicable local firearm laws;
+13 (4) range safety and marksmanship fundamentals.
+14 (b) The firearms safety course must be taught by a certified instructor recognized by
+15 the VIPD and shall include both classroom instruction and live-fire qualification.
+16 (c) This requirement shall apply to:
+17 (1) All new applicants who do not currently possess a valid firearm license under
+18 this chapter;
+19 (2) All individuals seeking to acquire, possess, or use a rifle or shotgun for
+20 purposes of home protection, sporting use, or recreational shooting.
+21 (d) Any person who, as of the effective date of this section, holds a valid firearm license
+22 issued under this chapter and lawfully possesses a rifle or shotgun shall not be required to
+23 complete the safety course as a condition of continued possession.
+24 (1) The VIPD may require completion of the course for individuals involved in
+25 negligent or unsafe firearm use, even if licensed.
+10
+1 (e) Individuals who possess a valid hunting license with proof of completion of a
+2 hunter’s education course within the past five years may petition for an exemption from the
+3 training requirement, subject to VIPD approval.
+4 (f) The VIPD shall promulgate regulations for the approval of training courses and
+5 instructors, maintain a list of certified courses, and provide public notice of course availability.
+6 (g) Failure to complete the required training shall be grounds for denial or revocation
+7 of any rifle or shotgun license or registration.
+8 (c) Section 466 is amended in the following instances:
+9 (1) In subsection (a), insert “, firearm accessories” after “firearms” in the first
+10 line.
+11 (2) In subsection (b), insert “or firearm accessories” after “ammunition”; and
+12 insert “that is of the same caliber or gauge of the firearm described in the firearms license
+13 or registration certificate.” after “license”.
+14 (3) In subsection (c), insert “firearm, firearm accessories, or” after “sell”; and
+15 add item 3: “(3) The firearm accessories to be purchased or transferred must be of the
+16 same caliber or gauge of the firearm described in the firearms license or registration
+17 certificate.
+18 (4) Add the following new subsection (e):
+19 “(e) Any parts of a firearm that can change the ballistic identity of the firearm
+20 must be sold and recorded through a licensed Federal Firearms Licensed holder and that
+21 information must be given to the Virgin Islands Police within 48 hours. These parts
+22 include the barrel, firing pin, extractor, ejector, and Bolt Carrier Group (BCG). Any
+23 violation of this section shall result in a misdemeanor charge for the first offense and any
+24 subsequent offenses shall result in punishment pursuant to section 484 of this chapter.
+11
+1 SECTION 4. Effective Date
+2 This act shall take effect 15 days after enactment.
+3 BILL SUMMARY
+4 This bill amends title 14, Virgin Islands Code, chapter 113 to define and prohibit assault
+5 rifles, ban suppressors and silencers, and require safety training for licensed rifles and shotgun
+6 holders. The bill further amends title 14 Virgin Islands Code, chapter 113 to prohibit large-
+7 capacity magazines and prevent the illegal sales of firearms, firearm accessories and
+8 ammunition to help reduce and prevent the proliferation of assault rifles in the territory. Section
+9 3 of the bill amends Title 23, Virgin Islands Code chapter 5 to require safety training for the
+10 possession of rifles and shotguns and added the sale of firearm accessories to section 466, which
+11 prohibits the sales of weapons and ammunition without licenses.
+12 BR25-0706/August 4, 2025/NS
+13 S:\AMENDS\36th Legislature\JOSEPH, SR., CLIFFORD A\Amendment 36-
+14 526\Amendment 36-526 -(REVISED) DRAFTED ON YELLOW.docx
+[DELETED:  T T C O H S J A 3 ]
+[DELETED: )“)“ m a w c b r w d o t f i a)“ l f d m a p w h a v f)“ a m a a o d d o a t b i a o o i c w a f a w i d]
+[DELETED: )“ c i a n r f a f o t i o n a d)“)“)“)“)“)")“ w m a f t i s s i f o a v t o a f m t d i s (]
+[DELETED: )“ “.w.i.h.i m s c o a m o r A]
+[DELETED: )s)t)s N T A A f l f d m s o t s o t a A A T]
+[DELETED:  L M.P.C.R I s b u f a p t p m i t F T A N a f a i a t s o]
+[DELETED:  A s d f i t T s b d c a P)F p o t s t t “ a m  E a o p i t s i i u f a p t s o f s p r t o p a l A v o t s w i a f o w o i A A A l m i s t f f a v o t T S C o t V I h e j o]
+[DELETED:  T p m a a a A S A s p o w o o o d a s f l M T A p w m a l m i t p t l m w t i t s t l o o t l m f s t a p o o t A]
+[DELETED:  B S A A t f l r T T A A i s t a p o u a r o s f A T]
+[DELETED:  I p T F S I I I A A]
+[DELETED:  m a p t i s o f f a a L S C A 3]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON HOMELAND SECURITY, JUSTICE AND
+PUBLIC SAFETY
+10/09/2025-REASSIGNED TO THE COMMITTEE ON HOMELAND SECURITY, JUSTICE AND
+PUBLIC SAFETY
+09/04/2025-AMENDED AND REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+BILL NO. 36-0144
+Thirty-Sixth Legislature of the Virgin Islands
+August 26, 2025
+An act amending title 14 Virgin Islands Code, chapter 113 to define and prohibit assault rifles,
+ban suppressors and silencers, require safety training for licensed rifles and shotgun holders;
+prohibit large-capacity magazines and prevent the illegal sales of firearms, firearm accessories
+and ammunition
+PROPOSED BY: Senators Clifford A. Joseph, Sr. and Marise C. James
+1 WHEREAS, the Legislature of the Virgin Islands finds that public safety in the Territory
+2 is threatened due to the proliferation of firearms designed for military or tactical use that are
+3 capable of delivering rifle-caliber firepower from concealable platforms;
+4 WHEREAS, firearms such as the Sig Sauer MCX pistol, the Daniel Defense DDM4
+5 PDW, CCMG Dissent MK4, Smith & Wesson M&P 15 and similarly configured weapons pose
+6 a distinct threat to law enforcement and the public, particularly due to their concealability,
+7 armor-piercing potential, and compatibility with suppressors, rifle scopes, and military-grade
+8 accessories; and
+
+2
+1 WHEREAS, these weapons serve no legitimate civilian purpose for self-defense or sport
+2 and are commonly used in criminal activity. Accordingly, their possession and use present an
+3 unacceptable risk to public safety and must be prohibited; Now, therefore
+4 Be it enacted by the Legislature of the Virgin Islands:
+5 SECTION 1. Title 14 Virgin Islands Code, Chapter 113 is amended by adding the
+6 following new section 2253a:
+7 “§2253a. Tactical Pistol-Style Firearms and Variants
+8 (1) Definitions
+9 As used in this section-
+10 (a) “ammunition feeding device” means a magazine, box, drum, tube, belt, feed strip
+11 or device that is capable of holding ammunition to be fed continuously and directly therefrom
+12 into a semi-automatic firearm. It does not include an attached tubular device which is capable
+13 of holding only .22 caliber rimfire ammunition.
+14 (b) “detachable magazine” means an ammunition feeding device that attaches to a
+15 firearm, and which can be removed without disassembly of the firearm, including an
+16 ammunition feeding device that may be readily removed from a firearm with the use of a bullet,
+17 cartridge, accessory, or other tool, or any other object that functions as a tool.
+18 (c) “federally licensed firearm dealer” means a person who holds a valid federal
+19 firearm dealers license pursuant to 18 U.S.C. § 923(a).
+20 (d) “firearm accessory” means an attachment or device designed or adapted to be
+21 inserted into, affixed onto, or used in conjunction with a firearm, and which is designed,
+22 intended, or functions to alter or enhance the firing capabilities of a firearm, the lethality of the
+23 firearm, or a shooter’s ability to hold and use a firearm.
+
+3
+1 (e) “fixed magazine” means an ammunition feeding device that is permanently fixed
+2 to the firearm in such a manner that it cannot be removed without disassembly of the firearm,
+3 or contained in and not removable from a firearm, or that is otherwise not a detachable
+4 magazine, but does not include an attached tubular device designed to accept, and capable of
+5 operating only with .22 caliber rimfire ammunition.
+6 (f) “folding or telescoping stock” means a stock that folds, telescopes, detaches or
+7 otherwise operates to reduce the length, size, or any other dimension, or otherwise enhances
+8 the concealability of a firearm.
+9 (g) “forward grip” means the grip or handle located forward of the trigger.
+10 (h) “grenade launcher” means a device designed to fire, launch or propel a grenade.
+11 (i) “pistol caliber variant” means a semi-automatic firearm originally manufactured as
+12 a pistol that otherwise meets the definition of a prohibited firearm, but is chambered only in a
+13 pistol cartridge.
+14 (j) “pistol grip” means a well-defined handle, similar to that found on a handgun, that
+15 protrudes conspicuously beneath the action of the weapon, and which permits the firearm to be
+16 held and fired with one hand.
+17 (k) "semi-automatic" means a firearm which fires a single projectile for each single
+18 pull of the trigger and is self-reloading or automatically chambers a round, cartridge, or bullet.
+19 (l) “similar weapon” means any firearm that is substantially similar in function,
+20 configuration, or tactical capability to the Sig Sauer MCX pistol, the Daniel Defense DDM
+21 PDW, or any variant thereof; or any firearm meeting the description in subsection (2)(a)
+22 regardless of name, model or manufacturer.
+
+4
+1 (m) “Threaded barrel” means threads on the muzzle end of a barrel and shall include,
+2 but not be limited to, any barrel on which a flash suppressor, muzzle brake or silencer has been
+3 attached.
+4 (2) Prohibited Firearms for Concealed Carry
+5 (a) “Prohibited Firearms” means any firearm that:
+6 1. was originally manufactured or designed as a pistol;
+7 2. is chambered in a rifle-caliber cartridge, including but not limited to .300 AAC
+8 Blackout, 5.56mm NATO, .223 Remington or 7.62x39mm amunition;
+9 3. has a barrel length of less than sixteen (16) inches; and
+10 4. incorporates one or more of the following features:
+11 (i) an arm brace, stabilizing brace, or buffer tube system designed to be
+12 shouldered;
+13 (ii) a rail-mounted foregrip or hand stop;
+14 (iii) a muzzle device such as a flash suppressor or suppressor-ready thread;
+15 (iv) a mounting system capable of accepting military-grade optics, rifle
+16 scopes, or other rifle-style aiming devices.
+17 (3) Prohibitions and Penalties
+18 No person shall manufacture, sell, offer to sell, transfer, or purchase a prohibited firearm,
+19 except as otherwise authorized under this section. Any person convicted of violating this
+20 subsection shall be imprisoned for not more than ten years, or by a fine up to ten thousand
+21 dollars, and the prohibited firearm shall be subject to forfeiture.
+22 (4) Mandatory Surrender
+23 (a) Any person in possession of a prohibited firearm or similar weapon on the effective
+24 date of this section shall, within 90 days:
+
+5
+1 (1) surrender the firearm to the Virgin Islands Police Department (“VIPD”) for
+2 destruction; or
+3 (2) transfer the firearm off-island through a federally licensed firearms dealer;
+4 and
+5 (3) surrender any firearm license issued for the firearm to VIPD for immediate
+6 revocation.
+7 (b) No compensation shall be owed to persons who surrender firearms or licenses.
+8 (c) The following limited exceptions to subsection (a) of this section shall apply:
+9 (1) A person who lawfully possesses a prohibited firearm may sell, offer to sell,
+10 or transfer the prohibited firearm to a federally licensed firearm dealer, or to an individual
+11 outside the state who may lawfully possess such weapon.
+12 (2) A federally licensed firearm dealer may sell, offer to sell, or transfer a
+13 prohibited firearm to another federally licensed firearm dealer, or to a law enforcement
+14 entity identified in subsection (c)(3) of this section, or to an individual outside the state
+15 who may lawfully possess such weapon.
+16 (3) A law enforcement agency, acting under authority of the United States or the
+17 territorial government may import or purchase a prohibited firearm and may lawfully sell,
+18 offer to sell, or transfer a prohibited firearm to a federally licensed firearm dealer or to an
+19 authorized law enforcement agency.
+20 (5) Limited Exception for Pistol-Caliber Variants
+21 (a) A Pistol-Caliber Variant may be registered and possessed only for home protection
+22 or authorized use at a licensed shooting range.
+23 (b) Transportation of such firearms is prohibited except as expressly authorized by law.
+24 (6) Persons Excepted
+
+6
+1 This section shall not apply to:
+2 (a) Law enforcement officers acting within the scope of their duties;
+3 (b) Members of the United States Armed Forces or National Guard in active service or
+4 training.
+5 (7) Promulgation of Regulations
+6 The Commissioner of Police shall promulgate regulations within 60 days of the effective
+7 date of this section including:
+8 1. Procedures for surrender and off-island transfer of firearms;
+9 2. Certification of inoperability;
+10 3. Registration standards for Pistol-Caliber Variants.
+11 SECTION 2. Title 14 Virgin Islands Code, chapter 113 is amended by adding the
+12 following new sections 2253b and 2259:
+13 “§2253b. Prohibition on Suppressors and Silencers
+14 (a) It shall be unlawful for any person to possess, manufacture, import, transfer,
+15 transport, sell, offer for sale, or use any firearm suppressor or silencer in the Virgin Islands.
+16 (b) For purposes of this section, a “suppressor” or “silencer” means any device for
+17 silencing, muffling, or diminishing the report of a portable firearm, including the frame or
+18 receiver of any such device, and any part intended for use in assembling or fabricating such a
+19 device.
+20 (c) This section shall not apply to Law Enforcement Officers or agents of the United
+21 States Government acting within the scope of official duties; or members of the United States
+22 Armed Forces or National Guard in connection with lawful military activities.
+23 (d) ATF Authorization Not Recognized
+24 (1) Notwithstanding any federal authorization, including a tax stamp or
+25 registration with the Bureau of Alcohol, Tobacco, Firearms and Explosives (“ATF”), no
+
+7
+1 person shall possess a suppressor or silencer in the Virgin Islands, except as permitted
+2 under subsection (c).
+3 (2) Any such device found in the Territory shall be deemed contraband and
+4 subject to immediate seizure and destruction.
+5 (e) Penalty Violation of this section shall constitute a felony and shall be punishable
+6 by imprisonment for not more than five years; or a fine not exceeding twenty-five thousand
+7 dollars or both.
+8 §2259. Large-capacity magazines prohibited; Felony; Misdemeanor; Or Civil Violation
+9 (a) For purposes of this section, the term “large-capacity ammunition magazine”
+10 means any magazine, belt, box, drum, tube, or similar device which is capable of holding more
+11 than ten rounds of ammunition.
+12 (b) Except as otherwise provided in this section, it is unlawful for a person to
+13 manufacture, sell, offer for sale, purchase, receive, transfer, or possess a large-capacity
+14 magazine.
+15 (1) A violation of this section which is a first offense which only involves
+16 possession of a large capacity magazine is a civil penalty of $500.
+17 (2) A second violation of this section which only involves possession of a large
+18 capacity magazine is a misdemeanor with a civil penalty fine of $2500.
+19 (3) All other violations of this section, including a subsequent offense involving
+20 only possession of a large capacity magazine, are felonies.
+21 (4) A large-capacity magazine is subject to forfeiture for a violation of this
+22 section.
+23 (5) The Superior Court of the Virgin Islands has exclusive jurisdiction over
+24 violations under this section.
+
+8
+1 (c) This section does not apply to any of the following:
+2 (1) personnel of the United States government or a unit of the United States
+3 government who are acting within the scope of official business;
+4 (2) members of the Armed Forces of the United States or of the National Guard
+5 who are acting within the scope of official business;
+6 (3) a law-enforcement officer;
+7 (4) a qualified retired law-enforcement officer; or
+8 (5) a licensed firearms dealer who sells a large-capacity magazine to another
+9 licensed firearms dealer or to an individual exempt under paragraphs (1) through (5).
+10 (6) A large-capacity magazine that a person has rendered permanently inoperable
+11 or has permanently modified to accept 10 rounds of ammunition or less.
+12 (d) Subsections (b) and (c) shall not apply to—
+13 (1) A sworn peace officer whether on or off duty; a sworn federal law
+14 enforcement officer who is authorized to carry a firearm in the course and scope of his
+15 duties; or a sworn peace officer who retired in good standing;
+16 (2) Members of the Armed Forces of the United States or the National Guard,
+17 while on duty or traveling to or from an authorized place of duty.
+18 (e) This section does not apply to the following:
+19 (1) A person who manufactures a large-capacity magazine, if the person
+20 manufactures the large-capacity magazine with the intent to sell the large-capacity
+21 magazine, or offers the large-capacity magazine for sale, to a person outside of the
+22 territory;
+23 (2) A person who ships or transports a large-capacity magazine for a person
+24 under paragraph (l) of this subsection.”; and
+
+9
+1 (3) By redesignating the remaining subsection accordingly.
+2 SECTION 3. Title 23 Virgin Islands Code, chapter 5 is amended as follows:
+3 (a) Section 451, subsection (f) is amended by inserting, “which is designed to, or may
+4 readily be converted or restored to expel a projectile,” after “composition”.;
+5 (b) Adding the following new subsection 454b :
+6 “§ 454b. Safety Training Requirement for Possession of Rifles and Shotguns
+7 (a) Any person who applies for the registration, licensing, or lawful possession of a
+8 rifle or shotgun under this chapter must complete a certified firearms safety course approved
+9 by the VIPD, which includes instruction in:
+10 (1) the safe handling, loading, and storage of rifles and shotguns;
+11 (2) firearm maintenance and secure transportation;
+12 (3) lawful use of force and applicable local firearm laws;
+13 (4) range safety and marksmanship fundamentals.
+14 (b) The firearms safety course must be taught by a certified instructor recognized by
+15 the VIPD and shall include both classroom instruction and live-fire qualification.
+16 (c) This requirement shall apply to:
+17 (1) All new applicants who do not currently possess a valid firearm license under
+18 this chapter;
+19 (2) All individuals seeking to acquire, possess, or use a rifle or shotgun for
+20 purposes of home protection, sporting use, or recreational shooting.
+21 (d) Any person who, as of the effective date of this section, holds a valid firearm license
+22 issued under this chapter and lawfully possesses a rifle or shotgun shall not be required to
+23 complete the safety course as a condition of continued possession.
+24 (1) The VIPD may require completion of the course for individuals involved in
+25 negligent or unsafe firearm use, even if licensed.
+
+10
+1 (e) Individuals who possess a valid hunting license with proof of completion of a
+2 hunter’s education course within the past five years may petition for an exemption from the
+3 training requirement, subject to VIPD approval.
+4 (f) The VIPD shall promulgate regulations for the approval of training courses and
+5 instructors, maintain a list of certified courses, and provide public notice of course availability.
+6 (g) Failure to complete the required training shall be grounds for denial or revocation
+7 of any rifle or shotgun license or registration.
+8 (c) Section 466 is amended in the following instances:
+9 (1) In subsection (a), insert “, firearm accessories” after “firearms” in the first
+10 line.
+11 (2) In subsection (b), insert “or firearm accessories” after “ammunition”; and
+12 insert “that is of the same caliber or gauge of the firearm described in the firearms license
+13 or registration certificate.” after “license”.
+14 (3) In subsection (c), insert “firearm, firearm accessories, or” after “sell”; and
+15 add item 3: “(3) The firearm accessories to be purchased or transferred must be of the
+16 same caliber or gauge of the firearm described in the firearms license or registration
+17 certificate.
+18 (4) Add the following new subsection (e):
+19 “(e) Any parts of a firearm that can change the ballistic identity of the firearm
+20 must be sold and recorded through a licensed Federal Firearms Licensed holder and that
+21 information must be given to the Virgin Islands Police within 48 hours. These parts
+22 include the barrel, firing pin, extractor, ejector, and Bolt Carrier Group (BCG). Any
+23 violation of this section shall result in a misdemeanor charge for the first offense and any
+24 subsequent offenses shall result in punishment pursuant to section 484 of this chapter.
+
+11
+1 SECTION 4. Effective Date
+2 This act shall take effect 15 days after enactment.
+3 BILL SUMMARY
+4 This bill amends title 14, Virgin Islands Code, chapter 113 to define and prohibit assault
+5 rifles, ban suppressors and silencers, and require safety training for licensed rifles and shotgun
+6 holders. The bill further amends title 14 Virgin Islands Code, chapter 113 to prohibit large-
+7 capacity magazines and prevent the illegal sales of firearms, firearm accessories and
+8 ammunition to help reduce and prevent the proliferation of assault rifles in the territory. Section
+9 3 of the bill amends Title 23, Virgin Islands Code chapter 5 to require safety training for the
+10 possession of rifles and shotguns and added the sale of firearm accessories to section 466, which
+11 prohibits the sales of weapons and ammunition without licenses.
+12 BR25-0706/August 4, 2025/NS
+13 S:\AMENDS\36th Legislature\JOSEPH, SR., CLIFFORD A\Amendment 36-
+14 526\Amendment 36-526 -(REVISED) DRAFTED ON YELLOW.docx
+
+[DELETED:  T T C O H S J A 3 ]
+[DELETED: )“)“ m a w c b r w d o t f i a)“ l f d m a p w h a v f)“ a m a a o d d o a t b i a o o i c w a f a w i d]
+[DELETED: )“ c i a n r f a f o t i o n a d)“)“)“)“)“)")“ w m a f t i s s i f o a v t o a f m t d i s (]
+[DELETED: )“ “.w.i.h.i m s c o a m o r A]
+[DELETED: )s)t)s N T A A f l f d m s o t s o t a A A T]
+[DELETED:  L M.P.C.R I s b u f a p t p m i t F T A N a f a i a t s o]
+[DELETED:  A s d f i t T s b d c a P)F p o t s t t “ a m  E a o p i t s i i u f a p t s o f s p r t o p a l A v o t s w i a f o w o i A A A l m i s t f f a v o t T S C o t V I h e j o]
+[DELETED:  T p m a a a A S A s p o w o o o d a s f l M T A p w m a l m i t p t l m w t i t s t l o o t l m f s t a p o o t A]
+[DELETED:  B S A A t f l r T T A A i s t a p o u a r o s f A T]
+[DELETED:  I p T F S I I I A A]
+[DELETED:  m a p t i s o f f a a L S C A 3]

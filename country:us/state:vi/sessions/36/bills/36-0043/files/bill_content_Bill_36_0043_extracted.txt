@@ -1,0 +1,292 @@
+Title: 05/27/2025-AMENDED AND REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Official Title: 05/27/2025-AMENDED AND REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+Number of Sections: 1
+Source: versions - Bill 36-0043
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+COMMITTEE ON HEALTH, HOSPITALS AND HUMAN
+SERVICES
+06/25/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+BILL NO. 36-0043
+Thirty-Sixth Legislature of the Virgin Islands
+March 28, 2025
+An Act amending title 19 Virgin Islands Code, part VI, chapter 53, subchapter IV, section 1481
+by increasing the penalties for violation of sanitation laws
+PROPOSED BY: Senators Angel L. Bolques. Jr. and Marvin A. Blyden
+Co-sponsor: Milton E. Potter
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 19 Virgin Islands Code, part VI, chapter 53 is amended as follows:
+3 (a) Subchapter II:
+4 (1) Section 1433 is amended in the final sentence of the section by adding “along
+5 with the inspection grade” after the words “Such health permit”;
+6 (2) In section 1434, strike the existing language and insert the following
+7 language:
+8 “(1) A health permit may be suspended by the Commissioner of Health
+9 upon violation by the permit holder of any provisions of this chapter or of rules
+10 promulgated under this chapter.
+2
+1 (a) A notice letter will be issued to the permit holder from the
+2 Environmental Health Division of the Department of Health notifying the
+3 permit holder of an imminent health hazard.
+4 (b) A suspension shall remain in effect until conditions cited in the
+5 cease-and-desist letter no longer exist and their elimination has been
+6 confirmed by the Environmental Health Division through reinspection or
+7 other appropriate means.
+8 (c) A written application for the reinstatement of the permit must be
+9 made from the permit holder stating that the conditions cited in the letter no
+10 longer exist.
+11 (d) Upon receipt of the written application, the Environmental
+12 Health Division shall conduct reinspection within two business days.
+13 (e) The suspended permit shall be reinstated immediately if the
+14 Environmental Health Division determines that the public health hazard, or
+15 unhealthy conditions, or unsanitary conditions, or nuisance no longer exists.
+16 A written notice of reinstatement must be provided to the permit holder.
+17 (2) In the event of an imminent health hazard the Commissioner of Health,
+18 without prior notice, may issue a permit suspension, or a cease and desist order for certain
+19 operations. The Environmental Health Division shall designate which operations must
+20 cease because of the imminent health hazard.
+21 (3) For serious or repeated violations, the health permit may be permanently
+22 revoked by the Commissioner of Health.
+23 (4) Contesting the Suspension or Revocation
+3
+1 (a) The permit holder must notify the Environmental Health Division in
+2 writing within ten business days of receiving the notice of violation, stating his
+3 intent to contest the suspension or permit revocation.
+4 (b) The permit holder must submit any relevant evidence or arguments
+5 supporting his case within ten business days of the notice of intent to contest.
+6 (c) The Commissioner of Health shall schedule a hearing within ten
+7 business days of receiving the contestation request.
+8 (d) The Commissioner of Health shall notify the permit holder of the date,
+9 time, and location of the hearing at least five business days before the hearing date.
+10 (e) Both parties shall provide the opposing party with a list of proposed
+11 witnesses they intend call or subpoena at the hearing.
+12 (f) The Commissioner of Health, or his designee, shall conduct the hearing
+13 as the hearing officer.
+14 (g) A full and complete record must be kept of all proceedings, and all
+15 testimony shall be reported but need not be transcribed unless the decision is
+16 appealed. A copy or copies of the transcript may be obtained by an interested party
+17 upon payment of the cost of preparing such copy or copies.
+18 (h) The hearing officer will issue a written decision within ten business
+19 days of the hearing detailing the findings of fact, conclusions of law, and any
+20 penalties or corrective actions required.
+21 (i) A copy of the written decision will be provided to the permit holder
+22 and will include information on the right to appeal the decision, if applicable.”
+23 (b) In section 1435, strike the existing language and insert the following language:
+4
+1 “(a) A permit holder has the right to appeal the decision of the hearing to the
+2 Superior Court of the Virgin Islands by an appeal made within 30 days from the issuance
+3 of the decision.
+4 (b) The permit holder must file a notice of appeal in writing within ten business
+5 days of receiving the decision, stating the grounds for the appeal.”
+6 (c) Strike the existing language in section 1481 and insert the following language:
+7 “§ 1481. Civil Penalties; Risk-Based Enforcement Framework
+8 (a) Definitions
+9 (1) Risk-based inspection means a regulatory framework that transitions
+10 from reactive enforcement to proactive risk management grounded in national best
+11 practices and public health priorities and designed to optimize resources while
+12 strengthening food safety outcomes.
+13 (2) Risk-based framework means:
+14 (A) Classification of violations by their public health risk level from
+15 low to high;
+16 (B) Assignment of penalties according to classification;
+17 (C) Encouragement of compliance through structured reductions for
+18 good performance; and
+19 (D) Transparency and consistency in enforcement practices.
+20 (b) In accordance with the principles of Risk-Based Inspection, a person who
+21 violates any provision of this chapter or any regulation promulgated under it shall attend
+22 a mandated food borne prevention educational course provided by the Department of
+23 Health's Environmental Division and shall be subject to civil penalties as set forth in this
+24 section.
+5
+1 (c) The Commissioner shall assign a risk level to each violation based on (1) the
+2 potential for foodborne illness or injury; (2) the type of food or process involved; and (3)
+3 whether the violation reflects systemic failure or isolated error.
+4 (d) Risk level classifications; penalties
+5 (1) low-risk violation – maximum $250 per occurrence
+6 (2) moderate-risk violation – $251-$500 per occurrence
+7 (3) high-risk violation – $501- $1,000 per occurrence
+8 (e) Repeated violations. In addition to the risk violation fines proscribed in this
+9 section:
+10 (1) A second violation within 24 months of the first violation shall be fined
+11 an additional $250, or suspension or revocation pursuant to section 1434 of this
+12 chapter, or both.
+13 (2) A third or subsequent violation within 36 months of the first violation
+14 shall be fined an additional $500, or suspension or revocation pursuant to section
+15 1434 of this chapter, or both.
+16 (f) Imminent Health Hazard. Any condition deemed to present an imminent
+17 threat to public health shall incur a fine of up to $2,000 and may result in immediate
+18 permit suspension pursuant to section 1434(2) of this chapter.
+19 (g) Compliance-Based Adjustments. Establishments with no priority or priority
+20 foundation violations in the past 24 months may qualify for a reduction of up to $100 in
+21 civil penalties for subsequent minor infractions.
+22 (h) Each day a violation continues beyond the identified timeline for compliance
+23 constitutes a separate violation.
+6
+1 (i) Civil penalties collected under this section shall be deposited into the Health
+2 Revolving Fund and used for inspection services, training, and enforcement efforts of the
+3 Environmental Health Division.”
+4 BILL SUMMARY
+5 This bill amends title 19 Virgin Islands Code, part VI, chapter 53, subchapter IV, section
+6 1481 by increasing the penalties for violation of sanitation laws.
+7 BR25-0037/March 25, 2025/PFA
+8 S:\AMENDS\36th Legislature\BOLQUES, JR., ANGEL L\Amendment 36-386\Amendment
+9 36-386 - DRAFTED ON YELLOW.docx
+10 S:\AMENDS\36th Legislature\BOLQUES, JR., ANGEL L\Amendment 36-418\Amendment
+11 36-418- DRAFTED ON YELLOW.docx
+[DELETED:  3 SC)S)S)I s 1 s t e l a i t f A]
+[DELETED: )A n l w b i t t p h f t)A l n l e a t e h b D o)A)U r o t w a t E)T s p s b r i i t I t e o a i h h t C o H F C]
+[DELETED:  T T T C o H s s a h w t T B T A s b r b n n b t u t d i T A)I]
+[DELETED:  A T S)D)R)R)C)A)E)T)I]
+[DELETED: )T)R)l)m)h)R)A)A)I)C)E]
+[DELETED: )C]
+
+
+================================================================================
+
+Raw Text:
+COMMITTEE ON HEALTH, HOSPITALS AND HUMAN
+SERVICES
+06/25/2025-AMENDED AND REPORTED OUT TO THE FLOOR
+05/27/2025-AMENDED AND REPORTED OUT TO THE COMMITTEE ON RULES AND JUDICIARY
+BILL NO. 36-0043
+Thirty-Sixth Legislature of the Virgin Islands
+March 28, 2025
+An Act amending title 19 Virgin Islands Code, part VI, chapter 53, subchapter IV, section 1481
+by increasing the penalties for violation of sanitation laws
+PROPOSED BY: Senators Angel L. Bolques. Jr. and Marvin A. Blyden
+Co-sponsor: Milton E. Potter
+1 Be it enacted by the Legislature of the Virgin Islands:
+2 SECTION 1. Title 19 Virgin Islands Code, part VI, chapter 53 is amended as follows:
+3 (a) Subchapter II:
+4 (1) Section 1433 is amended in the final sentence of the section by adding “along
+5 with the inspection grade” after the words “Such health permit”;
+6 (2) In section 1434, strike the existing language and insert the following
+7 language:
+8 “(1) A health permit may be suspended by the Commissioner of Health
+9 upon violation by the permit holder of any provisions of this chapter or of rules
+10 promulgated under this chapter.
+
+2
+1 (a) A notice letter will be issued to the permit holder from the
+2 Environmental Health Division of the Department of Health notifying the
+3 permit holder of an imminent health hazard.
+4 (b) A suspension shall remain in effect until conditions cited in the
+5 cease-and-desist letter no longer exist and their elimination has been
+6 confirmed by the Environmental Health Division through reinspection or
+7 other appropriate means.
+8 (c) A written application for the reinstatement of the permit must be
+9 made from the permit holder stating that the conditions cited in the letter no
+10 longer exist.
+11 (d) Upon receipt of the written application, the Environmental
+12 Health Division shall conduct reinspection within two business days.
+13 (e) The suspended permit shall be reinstated immediately if the
+14 Environmental Health Division determines that the public health hazard, or
+15 unhealthy conditions, or unsanitary conditions, or nuisance no longer exists.
+16 A written notice of reinstatement must be provided to the permit holder.
+17 (2) In the event of an imminent health hazard the Commissioner of Health,
+18 without prior notice, may issue a permit suspension, or a cease and desist order for certain
+19 operations. The Environmental Health Division shall designate which operations must
+20 cease because of the imminent health hazard.
+21 (3) For serious or repeated violations, the health permit may be permanently
+22 revoked by the Commissioner of Health.
+23 (4) Contesting the Suspension or Revocation
+
+3
+1 (a) The permit holder must notify the Environmental Health Division in
+2 writing within ten business days of receiving the notice of violation, stating his
+3 intent to contest the suspension or permit revocation.
+4 (b) The permit holder must submit any relevant evidence or arguments
+5 supporting his case within ten business days of the notice of intent to contest.
+6 (c) The Commissioner of Health shall schedule a hearing within ten
+7 business days of receiving the contestation request.
+8 (d) The Commissioner of Health shall notify the permit holder of the date,
+9 time, and location of the hearing at least five business days before the hearing date.
+10 (e) Both parties shall provide the opposing party with a list of proposed
+11 witnesses they intend call or subpoena at the hearing.
+12 (f) The Commissioner of Health, or his designee, shall conduct the hearing
+13 as the hearing officer.
+14 (g) A full and complete record must be kept of all proceedings, and all
+15 testimony shall be reported but need not be transcribed unless the decision is
+16 appealed. A copy or copies of the transcript may be obtained by an interested party
+17 upon payment of the cost of preparing such copy or copies.
+18 (h) The hearing officer will issue a written decision within ten business
+19 days of the hearing detailing the findings of fact, conclusions of law, and any
+20 penalties or corrective actions required.
+21 (i) A copy of the written decision will be provided to the permit holder
+22 and will include information on the right to appeal the decision, if applicable.”
+23 (b) In section 1435, strike the existing language and insert the following language:
+
+4
+1 “(a) A permit holder has the right to appeal the decision of the hearing to the
+2 Superior Court of the Virgin Islands by an appeal made within 30 days from the issuance
+3 of the decision.
+4 (b) The permit holder must file a notice of appeal in writing within ten business
+5 days of receiving the decision, stating the grounds for the appeal.”
+6 (c) Strike the existing language in section 1481 and insert the following language:
+7 “§ 1481. Civil Penalties; Risk-Based Enforcement Framework
+8 (a) Definitions
+9 (1) Risk-based inspection means a regulatory framework that transitions
+10 from reactive enforcement to proactive risk management grounded in national best
+11 practices and public health priorities and designed to optimize resources while
+12 strengthening food safety outcomes.
+13 (2) Risk-based framework means:
+14 (A) Classification of violations by their public health risk level from
+15 low to high;
+16 (B) Assignment of penalties according to classification;
+17 (C) Encouragement of compliance through structured reductions for
+18 good performance; and
+19 (D) Transparency and consistency in enforcement practices.
+20 (b) In accordance with the principles of Risk-Based Inspection, a person who
+21 violates any provision of this chapter or any regulation promulgated under it shall attend
+22 a mandated food borne prevention educational course provided by the Department of
+23 Health's Environmental Division and shall be subject to civil penalties as set forth in this
+24 section.
+
+5
+1 (c) The Commissioner shall assign a risk level to each violation based on (1) the
+2 potential for foodborne illness or injury; (2) the type of food or process involved; and (3)
+3 whether the violation reflects systemic failure or isolated error.
+4 (d) Risk level classifications; penalties
+5 (1) low-risk violation – maximum $250 per occurrence
+6 (2) moderate-risk violation – $251-$500 per occurrence
+7 (3) high-risk violation – $501- $1,000 per occurrence
+8 (e) Repeated violations. In addition to the risk violation fines proscribed in this
+9 section:
+10 (1) A second violation within 24 months of the first violation shall be fined
+11 an additional $250, or suspension or revocation pursuant to section 1434 of this
+12 chapter, or both.
+13 (2) A third or subsequent violation within 36 months of the first violation
+14 shall be fined an additional $500, or suspension or revocation pursuant to section
+15 1434 of this chapter, or both.
+16 (f) Imminent Health Hazard. Any condition deemed to present an imminent
+17 threat to public health shall incur a fine of up to $2,000 and may result in immediate
+18 permit suspension pursuant to section 1434(2) of this chapter.
+19 (g) Compliance-Based Adjustments. Establishments with no priority or priority
+20 foundation violations in the past 24 months may qualify for a reduction of up to $100 in
+21 civil penalties for subsequent minor infractions.
+22 (h) Each day a violation continues beyond the identified timeline for compliance
+23 constitutes a separate violation.
+
+6
+1 (i) Civil penalties collected under this section shall be deposited into the Health
+2 Revolving Fund and used for inspection services, training, and enforcement efforts of the
+3 Environmental Health Division.”
+4 BILL SUMMARY
+5 This bill amends title 19 Virgin Islands Code, part VI, chapter 53, subchapter IV, section
+6 1481 by increasing the penalties for violation of sanitation laws.
+7 BR25-0037/March 25, 2025/PFA
+8 S:\AMENDS\36th Legislature\BOLQUES, JR., ANGEL L\Amendment 36-386\Amendment
+9 36-386 - DRAFTED ON YELLOW.docx
+10 S:\AMENDS\36th Legislature\BOLQUES, JR., ANGEL L\Amendment 36-418\Amendment
+11 36-418- DRAFTED ON YELLOW.docx
+
+[DELETED:  3 SC)S)S)I s 1 s t e l a i t f A]
+[DELETED: )A n l w b i t t p h f t)A l n l e a t e h b D o)A)U r o t w a t E)T s p s b r i i t I t e o a i h h t C o H F C]
+[DELETED:  T T T C o H s s a h w t T B T A s b r b n n b t u t d i T A)I]
+[DELETED:  A T S)D)R)R)C)A)E)T)I]
+[DELETED: )T)R)l)m)h)R)A)A)I)C)E]
+[DELETED: )C]
