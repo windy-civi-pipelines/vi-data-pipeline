@@ -1,0 +1,146 @@
+{
+  "legislative_session": "36",
+  "identifier": "36-0098",
+  "title": "An act approving the lease agreement between the Government of the Virgin Islands, acting through the Commissioner of the Department of Property and Procurement, and Caribbean Buzz, LLC for a portion of Remainder Parcel No. 3B Estate Susannaberg, 1 7A Cruz Bay Quarter, St. John, Virgin Islands for the purpose of operating and managing a helicopter transportation service at the existing helipad and for other permitted purposes",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "contract"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "received",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Assigned",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "To Senate",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Sent to Lt. Governor",
+      "date": "2025-07-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-07-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2025-07-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Milton Potter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Milton Potter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill 36-0098",
+      "links": [
+        {
+          "url": "https://billtracking.legvi.org:8082/preview/Bill%2F36-0098",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Act 9007",
+      "links": [
+        {
+          "url": "https://billtracking.legvi.org:8082/preview/Act%2F9007",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billtracking.legvi.org/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:vi/government",
+    "name": "Virgin Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:vi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:57:22Z"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "legislative_session": "36",
+  "identifier": "36-0062",
+  "title": "An Act approving the lease agreement between the Government of the Virgin Islands, acting through its Commissioner of the Department of Property and Procurement, and the United States Department of Commerce, National Oceanic and Atmospheric Administration for a portion of the telecommunications tower located on Parcel R-22 of Tract 1 Estate Nazareth, No. 1 Red Hook Quarter, St. Thomas",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "contract"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "received",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Assigned",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "To Senate",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Sent to Lt. Governor",
+      "date": "2025-07-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-07-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2025-07-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Milton Potter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Milton Potter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill 36-0062",
+      "links": [
+        {
+          "url": "https://billtracking.legvi.org:8082/preview/Bill%2F36-0062",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Act 9004",
+      "links": [
+        {
+          "url": "https://billtracking.legvi.org:8082/preview/Act%2F9004",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billtracking.legvi.org/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:vi/government",
+    "name": "Virgin Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:vi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:57:22Z"
+  }
+}

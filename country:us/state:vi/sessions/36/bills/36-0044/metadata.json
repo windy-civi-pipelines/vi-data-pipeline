@@ -1,0 +1,99 @@
+{
+  "legislative_session": "36",
+  "identifier": "36-0044",
+  "title": "A Resolution honoring and commending seven-year old twin brothers Kruz and Stefon Wilson for their heroic efforts and courage displayed when saving a drowning man at Magen\u2019s Bay Beach and for their exemplary conduct as young\rmembers of the community",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "received",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Assigned",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "To Senate",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Angel L. Bolques Jr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Angel L. Bolques Jr\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill 36-0044",
+      "links": [
+        {
+          "url": "https://billtracking.legvi.org:8082/preview/Bill%2F36-0044",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billtracking.legvi.org/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:vi/government",
+    "name": "Virgin Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:vi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:57:22Z"
+  }
+}

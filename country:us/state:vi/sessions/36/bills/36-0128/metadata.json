@@ -1,0 +1,90 @@
+{
+  "legislative_session": "36",
+  "identifier": "36-0128",
+  "title": "An act amending Official Zoning Map No. STZ-4 to rezone Parcel No. 68A Estate Lindberg Bay, No. 4A, Southside Quarter, St. Thomas from P (Public) to R-3 (Residential-Medium Density)",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "received",
+      "date": "2025-07-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Assigned",
+      "date": "2025-07-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "To Senate",
+      "date": "2025-07-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-07-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill 36-0128",
+      "links": [
+        {
+          "url": "https://billtracking.legvi.org:8082/preview/Bill%2F36-0128",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billtracking.legvi.org/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:vi/government",
+    "name": "Virgin Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:vi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:57:22Z"
+  }
+}

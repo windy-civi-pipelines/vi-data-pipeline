@@ -1,0 +1,146 @@
+{
+  "legislative_session": "36",
+  "identifier": "36-0090",
+  "title": "An act amending title 1 Virgin Islands Code, chapter 11 by adding section 200m to declare the week beginning the Monday before the first Friday in June as the Virgin Islands Gun Violence Awareness Week",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "received",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Assigned",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "To Senate",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Sent to Lt. Governor",
+      "date": "2025-07-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-07-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2025-07-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Angel L. Bolques Jr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Angel L. Bolques Jr\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill 36-0090",
+      "links": [
+        {
+          "url": "https://billtracking.legvi.org:8082/preview/Bill%2F36-0090",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Act 9006",
+      "links": [
+        {
+          "url": "https://billtracking.legvi.org:8082/preview/Act%2F9006",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billtracking.legvi.org/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:vi/government",
+    "name": "Virgin Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:vi"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:57:22Z"
+  }
+}

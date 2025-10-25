@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced",
+    "date": "2025-08-26",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "36-0144"
+}

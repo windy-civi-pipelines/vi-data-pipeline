@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed",
+    "date": "2025-07-09",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "36-0064"
+}

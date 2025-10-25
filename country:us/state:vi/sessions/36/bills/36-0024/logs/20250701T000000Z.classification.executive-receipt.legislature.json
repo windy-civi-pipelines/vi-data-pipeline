@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Sent to Governor",
+    "date": "2025-07-01",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "36-0024"
+}
